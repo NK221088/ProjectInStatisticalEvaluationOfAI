@@ -40,6 +40,20 @@ allData_educational_low = allData[allData["country"].isin(educational_low["Econo
 allData_educational_med = allData[allData["country"].isin(educational_med["Economy"])]
 allData_educational_high = allData[allData["country"].isin(educational_high["Economy"])]
 
+import numpy as np
+
+# Define conditions in priority order
+conditions = [
+    allData['country'].isin(educational_low['Economy']),
+    allData['country'].isin(educational_med['Economy']),
+    allData['country'].isin(educational_high['Economy'])
+]
+
+choices = [1, 2, 3]
+
+# Create a single column with numeric categories
+allData['educational_category'] = np.select(conditions, choices, default=0)
+
 # Generate descriptive statistics for all datasets
 print("=== ECONOMIC DATA ===")
 print("\n--- Low Income Countries ---")
