@@ -3,17 +3,17 @@ Afghanistan,2022,AFG,21.025
 Albania,2022,ALB,97.853
 Algeria,2019,DZA,64.007
 American Samoa,2023,ASM,
-Andorra,2022,AND,99.150
+Andorra,2022,AND,99.15
 Angola,2021,AGO,74.305
 Antigua and Barbuda,2021,ATG,90.096
 Argentina,2023,ARG,
 Armenia,2022,ARM,99.742
 Aruba,2023,ABW,
 Australia,2023,AUS,99.492
-Austria,2023,AUT,100.000
-Azerbaijan,2023,AZE,99.940
-"Bahamas, The",2023,BHS,99.061
-Bahrain,2023,BHR,89.910
+Austria,2023,AUT,100
+Azerbaijan,2023,AZE,99.94
+Bahamas,2023,BHS,99.061
+Bahrain,2023,BHR,89.91
 Bangladesh,2022,BGD,64.349
 Barbados,2019,BRB,99.286
 Belarus,2023,BLR,99.873
@@ -21,8 +21,8 @@ Belgium,2022,BEL,96.644
 Belize,2021,BLZ,86.733
 Benin,2022,BEN,37.605
 Bermuda,2023,BMU,
-Bhutan,2017,BTN,32.360
-Bolivia,2023,BOL,76.102
+Bhutan,2017,BTN,32.36
+Bolivia (Plurinational State of),2023,BOL,76.102
 Bosnia and Herzegovina,2023,BIH,91.395
 Botswana,2023,BWA,89.959
 Brazil,2023,BRA,85.137
@@ -30,35 +30,35 @@ British Virgin Islands,2023,VGB,
 Brunei Darussalam,2022,BRN,90.685
 Bulgaria,2022,BGR,99.171
 Burkina Faso,2023,BFA,18.757
-Burundi,2017,BDI,18.000
-Cabo Verde,2015,CPV,51.920
+Burundi,2017,BDI,18
+Cabo Verde,2015,CPV,51.92
 Cambodia,2021,KHM,43.209
 Cameroon,2018,CMR,60.224
-Canada,2023,CAN,96.300
-Cayman Islands,2015,CYM,99.030
+Canada,2023,CAN,96.3
+Cayman Islands,2015,CYM,99.03
 Central African Republic,2019,CAF,30.843
-Chad,2019,TCD,18.640
+Chad,2019,TCD,18.64
 Channel Islands,2023,CHI,
 Chile,2023,CHL,92.221
-China,2020,CHN,95.840
+China,2020,CHN,95.84
 Colombia,2023,COL,82.267
 Comoros,2022,COM,47.029
-"Congo, Dem. Rep.",2020,COD,65.854
-"Congo, Rep.",2015,COG,71.991
-Costa Rica,2023,CRI,86.130
-Cote d'Ivoire,2022,CIV,44.445
+Democratic Republic of the Congo,2020,COD,65.854
+Congo,2015,COG,71.991
+Costa Rica,2023,CRI,86.13
+Côte d'Ivoire,2022,CIV,44.445
 Croatia,2022,HRV,99.289
 Cuba,2019,CUB,91.949
-Curacao,2020,CUW,99.400
+Curacao,2020,CUW,99.4
 Cyprus,2022,CYP,97.412
 Czechia,2022,CZE,99.217
 Denmark,2022,DNK,98.923
 Djibouti,2017,DJI,39.282
 Dominica,2021,DMA,79.731
 Dominican Republic,2023,DOM,67.552
-Ecuador,2022,ECU,83.820
-"Egypt, Arab Rep.",2022,EGY,66.608
-El Salvador,2023,SLV,64.540
+Ecuador,2022,ECU,83.82
+Egypt,2022,EGY,66.608
+El Salvador,2023,SLV,64.54
 Equatorial Guinea,2023,GNQ,
 Eritrea,2023,ERI,
 Estonia,2022,EST,99.883
@@ -67,48 +67,48 @@ Ethiopia,2021,ETH,43.582
 Faroe Islands,2023,FRO,
 Fiji,2021,FJI,91.185
 Finland,2022,FIN,99.963
-France,2023,FRA,100.000
+France,2023,FRA,100
 French Polynesia,2023,PYF,
 Gabon,2023,GAB,
-"Gambia, The",2023,GMB,53.900
+Gambia,2023,GMB,53.9
 Georgia,2023,GEO,99.474
 Germany,2022,DEU,98.997
 Ghana,2022,GHA,64.894
 Gibraltar,2023,GIB,
-Greece,2022,GRC,97.320
+Greece,2022,GRC,97.32
 Greenland,2023,GRL,
 Grenada,2020,GRD,98.873
 Guam,2023,GUM,
 Guatemala,2023,GTM,52.642
-Guinea,2019,GIN,72.050
+Guinea,2019,GIN,72.05
 Guinea-Bissau,2022,GNB,50.808
 Guyana,2019,GUY,84.065
 Haiti,2017,HTI,46.367
-Honduras,2023,HND,61.390
-"Hong Kong SAR, China",2023,HKG,100.000
-Hungary,2022,HUN,99.700
+Honduras,2023,HND,61.39
+"Hong Kong SAR, China",2023,HKG,100
+Hungary,2022,HUN,99.7
 Iceland,2022,ISL,99.977
-India,2023,IND,65.580
+India,2023,IND,65.58
 Indonesia,2023,IDN,83.831
-"Iran, Islamic Rep.",2022,IRN,86.522
+Iran (Islamic Republic of),2022,IRN,86.522
 Iraq,2021,IRQ,32.496
 Ireland,2022,IRL,98.994
 Isle of Man,2023,IMN,
 Israel,2022,ISR,96.472
 Italy,2022,ITA,97.655
 Jamaica,2022,JAM,93.138
-Japan,2020,JPN,99.590
-Jordan,2023,JOR,87.920
+Japan,2020,JPN,99.59
+Jordan,2023,JOR,87.92
 Kazakhstan,2019,KAZ,99.875
-Kenya,2022,KEN,78.750
-Kiribati,2020,KIR,96.950
-"Korea, Dem. People's Rep.",2022,PRK,97.460
-"Korea, Rep.",2023,KOR,97.748
+Kenya,2022,KEN,78.75
+Kiribati,2020,KIR,96.95
+Democratic People's Republic of Korea,2022,PRK,97.46
+Republic of Korea,2023,KOR,97.748
 Kosovo,2023,XKX,
-Kuwait,2018,KWT,61.800
-Kyrgyz Republic,2018,KGZ,98.870
-Lao PDR,2022,LAO,74.264
-Latvia,2023,LVA,100.000
+Kuwait,2018,KWT,61.8
+Kyrgyzstan,2018,KGZ,98.87
+Lao People's Democratic Republic,2022,LAO,74.264
+Latvia,2023,LVA,100
 Lebanon,2019,LBN,86.234
 Lesotho,2019,LSO,99.565
 Liberia,2019,LBR,47.484
@@ -116,10 +116,10 @@ Libya,2023,LBY,
 Liechtenstein,2023,LIE,
 Lithuania,2022,LTU,99.276
 Luxembourg,2022,LUX,98.184
-"Macao SAR, China",2016,MAC,89.830
+"Macao SAR, China",2016,MAC,89.83
 Madagascar,2021,MDG,41.193
 Malawi,2020,MWI,46.839
-Malaysia,2022,MYS,94.790
+Malaysia,2022,MYS,94.79
 Maldives,2019,MDV,92.862
 Mali,2022,MLI,27.264
 Malta,2022,MLT,99.101
@@ -127,8 +127,8 @@ Marshall Islands,2021,MHL,92.613
 Mauritania,2019,MRT,21.014
 Mauritius,2022,MUS,97.099
 Mexico,2023,MEX,85.709
-"Micronesia, Fed. Sts.",2023,FSM,
-Moldova,2023,MDA,99.530
+Micronesia (Federated States of),2023,FSM,
+Republic of Moldova,2023,MDA,99.53
 Monaco,2016,MCO,99.993
 Mongolia,2023,MNG,97.594
 Montenegro,2022,MNE,93.738
@@ -137,9 +137,9 @@ Mozambique,2022,MOZ,32.093
 Myanmar,2020,MMR,87.467
 Namibia,2016,NAM,79.596
 Nauru,2021,NRU,94.155
-Nepal,2021,NPL,46.350
-Netherlands,2022,NLD,98.548
-New Caledonia,2022,NCL,100.000
+Nepal,2021,NPL,46.35
+Netherlands (Kingdom of the),2022,NLD,98.548
+New Caledonia,2022,NCL,100
 New Zealand,2020,NZL,81.903
 Nicaragua,2021,NIC,84.988
 Niger,2022,NER,17.511
@@ -147,23 +147,23 @@ Nigeria,2022,NGA,87.098
 North Macedonia,2023,MKD,94.943
 Northern Mariana Islands,2023,MNP,
 Norway,2022,NOR,97.738
-Oman,2022,OMN,98.440
+Oman,2022,OMN,98.44
 Pakistan,2021,PAK,50.463
 Palau,2020,PLW,96.061
 Panama,2023,PAN,88.605
 Papua New Guinea,2022,PNG,62.557
-Paraguay,2022,PRY,80.420
-Peru,2023,PER,85.710
+Paraguay,2022,PRY,80.42
+Peru,2023,PER,85.71
 Philippines,2022,PHL,85.706
 Poland,2023,POL,99.676
 Portugal,2023,PRT,95.842
-Puerto Rico,2017,PRI,91.390
-Qatar,2022,QAT,90.470
-Romania,2022,ROU,98.950
-Russian Federation,2023,RUS,100.000
+Puerto Rico,2017,PRI,91.39
+Qatar,2022,QAT,90.47
+Romania,2022,ROU,98.95
+Russian Federation,2023,RUS,100
 Rwanda,2023,RWA,83.391
 Samoa,2022,WSM,94.546
-San Marino,2022,SMR,98.900
+San Marino,2022,SMR,98.9
 Sao Tome and Principe,2017,STP,81.144
 Saudi Arabia,2023,SAU,92.491
 Senegal,2022,SEN,35.629
@@ -172,47 +172,47 @@ Seychelles,2020,SYC,97.507
 Sierra Leone,2019,SLE,33.534
 Singapore,2023,SGP,78.765
 Sint Maarten (Dutch part),2023,SXM,
-Slovak Republic,2022,SVK,99.818
-Slovenia,2022,SVN,99.710
+Slovakia,2022,SVK,99.818
+Slovenia,2022,SVN,99.71
 Solomon Islands,2023,SLB,
-Somalia,2022,SOM,15.500
+Somalia,2022,SOM,15.5
 South Africa,2023,ZAF,87.566
 South Sudan,2023,SSD,
-Spain,2023,ESP,94.180
-Sri Lanka,2022,LKA,87.290
-St. Kitts and Nevis,2023,KNA,
-St. Lucia,2022,LCA,58.919
+Spain,2023,ESP,94.18
+Sri Lanka,2022,LKA,87.29
+Saint Kitts and Nevis,2023,KNA,
+Saint Lucia,2022,LCA,58.919
 St. Martin (French part),2023,MAF,
-St. Vincent and the Grenadines,2017,VCT,91.290
+Saint Vincent and the Grenadines,2017,VCT,91.29
 Sudan,2022,SDN,31.961
 Suriname,2018,SUR,73.804
 Sweden,2022,SWE,99.998
 Switzerland,2023,CHE,99.654
 Syrian Arab Republic,2023,SYR,
-Tajikistan,2017,TJK,95.750
-Tanzania,2022,TZA,67.193
-Thailand,2023,THA,74.830
+Tajikistan,2017,TJK,95.75
+United Republic of Tanzania,2022,TZA,67.193
+Thailand,2023,THA,74.83
 Timor-Leste,2022,TLS,46.447
 Togo,2022,TGO,63.259
-Tonga,2021,TON,100.000
+Tonga,2021,TON,100
 Trinidad and Tobago,2022,TTO,93.872
-Tunisia,2023,TUN,83.160
-Turkiye,2023,TUR,86.225
+Tunisia,2023,TUN,83.16
+Türkiye,2023,TUR,86.225
 Turkmenistan,2019,TKM,99.626
-Turks and Caicos Islands,2019,TCA,96.130
+Turks and Caicos Islands,2019,TCA,96.13
 Tuvalu,2022,TUV,51.683
 Uganda,2021,UGA,86.402
-Ukraine,2021,UKR,100.000
-United Arab Emirates,2022,ARE,93.230
+Ukraine,2021,UKR,100
+United Arab Emirates,2022,ARE,93.23
 United Kingdom,2023,GBR,99.495
 United States,2023,USA,99.651
-Uruguay,2023,URY,92.780
-Uzbekistan,2022,UZB,100.000
+Uruguay,2023,URY,92.78
+Uzbekistan,2022,UZB,100
 Vanuatu,2020,VUT,88.143
-"Venezuela, RB",2017,VEN,96.387
-Vietnam,2023,VNM,87.301
+Venezuela (Bolivarian Republic of),2017,VEN,96.387
+Viet Nam,2023,VNM,87.301
 Virgin Islands (U.S.),2023,VIR,
-West Bank and Gaza,2022,PSE,95.880
-"Yemen, Rep.",2023,YEM,45.514
+West Bank and Gaza,2022,PSE,95.88
+Yemen,2023,YEM,45.514
 Zambia,2022,ZMB,88.764
 Zimbabwe,2022,ZWE,94.879

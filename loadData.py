@@ -5,7 +5,7 @@ from loadGroups import (low, low_mid, upp_mid, high,
                        Sub_Saharan_Africa, Latin_America_and_Caribbean, East_Asia_and_Pacific, North_America,
                        educational_low, educational_med, educational_high)
 
-def load_data(filename="un_member_states_income.csv"):
+def load_data(filename="education_un_members_only.csv"):
     """Load the CSV file with semicolon delimiter"""
     return pd.read_csv(filename, delimiter=",")
 
@@ -13,15 +13,15 @@ allData = load_data("answer_Data.csv")
 
 # Fix educational data - split columns for all three DataFrames
 educational_low_split = educational_low[educational_low.columns[0]].str.split(',', expand=True)
-educational_low_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment_1', 'Educational_Attainment_2']
+educational_low_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment']
 educational_low = educational_low_split
 
 educational_med_split = educational_med[educational_med.columns[0]].str.split(',', expand=True)
-educational_med_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment_1', 'Educational_Attainment_2']
+educational_med_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment']
 educational_med = educational_med_split
 
 educational_high_split = educational_high[educational_high.columns[0]].str.split(',', expand=True)
-educational_high_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment_1', 'Educational_Attainment_2']
+educational_high_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment']
 educational_high = educational_high_split
 
 # 1. ECONOMIC CATEGORIES (1-4)
@@ -32,7 +32,7 @@ economic_conditions = [
     allData['country'].isin(high['Economy'])        # High income = 4
 ]
 economic_choices = [1, 2, 3, 4]
-allData['economic_category'] = np.select(economic_conditions, economic_choices, default=0)
+allData['economic_category'] = np.select(economic_conditions, economic_choices)
 
 # 2. GEOGRAPHICAL CATEGORIES (1-7)
 geographical_conditions = [
@@ -45,7 +45,7 @@ geographical_conditions = [
     allData['country'].isin(North_America['Economy'])                        # 7
 ]
 geographical_choices = [1, 2, 3, 4, 5, 6, 7]
-allData['geographical_category'] = np.select(geographical_conditions, geographical_choices, default=0)
+allData['geographical_category'] = np.select(geographical_conditions, geographical_choices)
 
 # 3. EDUCATIONAL CATEGORIES (1-3)
 educational_conditions = [
@@ -54,7 +54,7 @@ educational_conditions = [
     allData['country'].isin(educational_high['Economy'])    # High education = 3
 ]
 educational_choices = [1, 2, 3]
-allData['educational_category'] = np.select(educational_conditions, educational_choices, default=0)
+allData['educational_category'] = np.select(educational_conditions, educational_choices)
 
 # OPTIONAL: Check for overlaps and distribution
 print("=== ECONOMIC CATEGORIES ===")

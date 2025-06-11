@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV files
-def load_data(filename = "un_member_states_income.csv"):
+def load_data(filename = "income_un_members_only.csv"):
     """Load the CSV file with semicolon delimiter"""
     return pd.read_csv(filename, delimiter=";")
 
@@ -19,7 +19,7 @@ Latin_America_and_Caribbean = income_df[income_df["Region"] == "Latin America & 
 East_Asia_and_Pacific = income_df[income_df["Region"] == "East Asia & Pacific"]
 North_America = income_df[income_df["Region"] == "North America"]
 
-education_df = load_data("filtered_education_data.csv")
+education_df = load_data("education_un_members_only.csv")
 
 col_name = 'Economy,Year,Economy Code,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)"'
 
