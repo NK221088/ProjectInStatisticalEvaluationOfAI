@@ -12,7 +12,7 @@ Aruba;ABW;Latin America & Caribbean;High income;
 Australia;AUS;East Asia & Pacific;High income;
 Austria;AUT;Europe & Central Asia;High income;
 Azerbaijan;AZE;Europe & Central Asia;Upper middle income;IBRD
-Bahamas, The;BHS;Latin America & Caribbean;High income;
+Bahamas;BHS;Latin America & Caribbean;High income;
 Bahrain;BHR;Middle East & North Africa;High income;
 Bangladesh;BGD;South Asia;Lower middle income;IDA
 Barbados;BRB;Latin America & Caribbean;High income;IBRD
@@ -22,7 +22,7 @@ Belize;BLZ;Latin America & Caribbean;Upper middle income;Blend
 Benin;BEN;Sub-Saharan Africa;Lower middle income;IDA
 Bermuda;BMU;North America;High income;
 Bhutan;BTN;South Asia;Lower middle income;IDA
-Bolivia;BOL;Latin America & Caribbean;Lower middle income;IBRD
+Bolivia (Plurinational State of);BOL;Latin America & Caribbean;Lower middle income;IBRD
 Bosnia and Herzegovina;BIH;Europe & Central Asia;Upper middle income;IBRD
 Botswana;BWA;Sub-Saharan Africa;Upper middle income;IBRD
 Brazil;BRA;Latin America & Caribbean;Upper middle income;IBRD
@@ -43,10 +43,10 @@ Chile;CHL;Latin America & Caribbean;High income;IBRD
 China;CHN;East Asia & Pacific;Upper middle income;IBRD
 Colombia;COL;Latin America & Caribbean;Upper middle income;IBRD
 Comoros;COM;Sub-Saharan Africa;Lower middle income;IDA
-Congo, Dem. Rep.;COD;Sub-Saharan Africa;Low income;IDA
-Congo, Rep.;COG;Sub-Saharan Africa;Lower middle income;Blend
+Democratic Republic of the Congo;COD;Sub-Saharan Africa;Low income;IDA
+Congo;COG;Sub-Saharan Africa;Lower middle income;Blend
 Costa Rica;CRI;Latin America & Caribbean;Upper middle income;IBRD
-Côte d’Ivoire;CIV;Sub-Saharan Africa;Lower middle income;IDA
+Côte d'Ivoire;CIV;Sub-Saharan Africa;Lower middle income;IDA
 Croatia;HRV;Europe & Central Asia;High income;IBRD
 Cuba;CUB;Latin America & Caribbean;Upper middle income;
 Curaçao;CUW;Latin America & Caribbean;High income;
@@ -57,7 +57,7 @@ Djibouti;DJI;Middle East & North Africa;Lower middle income;IDA
 Dominica;DMA;Latin America & Caribbean;Upper middle income;Blend
 Dominican Republic;DOM;Latin America & Caribbean;Upper middle income;IBRD
 Ecuador;ECU;Latin America & Caribbean;Upper middle income;IBRD
-Egypt, Arab Rep.;EGY;Middle East & North Africa;Lower middle income;IBRD
+Egypt;EGY;Middle East & North Africa;Lower middle income;IBRD
 El Salvador;SLV;Latin America & Caribbean;Upper middle income;IBRD
 Equatorial Guinea;GNQ;Sub-Saharan Africa;Upper middle income;IBRD
 Eritrea;ERI;Sub-Saharan Africa;Low income;IDA
@@ -70,7 +70,7 @@ Finland;FIN;Europe & Central Asia;High income;
 France;FRA;Europe & Central Asia;High income;
 French Polynesia;PYF;East Asia & Pacific;High income;
 Gabon;GAB;Sub-Saharan Africa;Upper middle income;IBRD
-Gambia, The;GMB;Sub-Saharan Africa;Low income;IDA
+Gambia;GMB;Sub-Saharan Africa;Low income;IDA
 Georgia;GEO;Europe & Central Asia;Upper middle income;IBRD
 Germany;DEU;Europe & Central Asia;High income;
 Ghana;GHA;Sub-Saharan Africa;Lower middle income;IDA
@@ -90,7 +90,7 @@ Hungary;HUN;Europe & Central Asia;High income;
 Iceland;ISL;Europe & Central Asia;High income;
 India;IND;South Asia;Lower middle income;IBRD
 Indonesia;IDN;East Asia & Pacific;Upper middle income;IBRD
-Iran, Islamic Rep.;IRN;Middle East & North Africa;Upper middle income;IBRD
+Iran (Islamic Republic of);IRN;Middle East & North Africa;Upper middle income;IBRD
 Iraq;IRQ;Middle East & North Africa;Upper middle income;IBRD
 Ireland;IRL;Europe & Central Asia;High income;
 Isle of Man;IMN;Europe & Central Asia;High income;
@@ -102,12 +102,12 @@ Jordan;JOR;Middle East & North Africa;Lower middle income;IBRD
 Kazakhstan;KAZ;Europe & Central Asia;Upper middle income;IBRD
 Kenya;KEN;Sub-Saharan Africa;Lower middle income;Blend
 Kiribati;KIR;East Asia & Pacific;Lower middle income;IDA
-Korea, Dem. People's Rep.;PRK;East Asia & Pacific;Low income;
-Korea, Rep.;KOR;East Asia & Pacific;High income;
+Democratic People's Republic of Korea;PRK;East Asia & Pacific;Low income;
+Republic of Korea;KOR;East Asia & Pacific;High income;
 Kosovo;XKX;Europe & Central Asia;Upper middle income;IDA
 Kuwait;KWT;Middle East & North Africa;High income;
-Kyrgyz Republic;KGZ;Europe & Central Asia;Lower middle income;IDA
-Lao PDR;LAO;East Asia & Pacific;Lower middle income;IDA
+Kyrgyzstan;KGZ;Europe & Central Asia;Lower middle income;IDA
+Lao People's Democratic Republic;LAO;East Asia & Pacific;Lower middle income;IDA
 Latvia;LVA;Europe & Central Asia;High income;
 Lebanon;LBN;Middle East & North Africa;Lower middle income;IBRD
 Lesotho;LSO;Sub-Saharan Africa;Lower middle income;IDA
@@ -127,8 +127,8 @@ Marshall Islands;MHL;East Asia & Pacific;Upper middle income;IDA
 Mauritania;MRT;Sub-Saharan Africa;Lower middle income;IDA
 Mauritius;MUS;Sub-Saharan Africa;Upper middle income;IBRD
 Mexico;MEX;Latin America & Caribbean;Upper middle income;IBRD
-Micronesia, Fed. Sts.;FSM;East Asia & Pacific;Lower middle income;IDA
-Moldova;MDA;Europe & Central Asia;Upper middle income;IBRD
+Micronesia (Federated States of);FSM;East Asia & Pacific;Lower middle income;IDA
+Republic of Moldova;MDA;Europe & Central Asia;Upper middle income;IBRD
 Monaco;MCO;Europe & Central Asia;High income;
 Mongolia;MNG;East Asia & Pacific;Upper middle income;IBRD
 Montenegro;MNE;Europe & Central Asia;Upper middle income;IBRD
@@ -138,7 +138,7 @@ Myanmar;MMR;East Asia & Pacific;Lower middle income;IDA
 Namibia;NAM;Sub-Saharan Africa;Upper middle income;IBRD
 Nauru;NRU;East Asia & Pacific;High income;IBRD
 Nepal;NPL;South Asia;Lower middle income;IDA
-Netherlands;NLD;Europe & Central Asia;High income;
+Netherlands (Kingdom of the);NLD;Europe & Central Asia;High income;
 New Caledonia;NCL;East Asia & Pacific;High income;
 New Zealand;NZL;East Asia & Pacific;High income;
 Nicaragua;NIC;Latin America & Caribbean;Lower middle income;IDA
@@ -164,7 +164,7 @@ Russian Federation;RUS;Europe & Central Asia;High income;IBRD
 Rwanda;RWA;Sub-Saharan Africa;Low income;IDA
 Samoa;WSM;East Asia & Pacific;Lower middle income;IDA
 San Marino;SMR;Europe & Central Asia;High income;
-São Tomé and Príncipe;STP;Sub-Saharan Africa;Lower middle income;IDA
+Sao Tome and Principe;STP;Sub-Saharan Africa;Lower middle income;IDA
 Saudi Arabia;SAU;Middle East & North Africa;High income;
 Senegal;SEN;Sub-Saharan Africa;Lower middle income;IDA
 Serbia;SRB;Europe & Central Asia;Upper middle income;IBRD
@@ -172,7 +172,7 @@ Seychelles;SYC;Sub-Saharan Africa;High income;IBRD
 Sierra Leone;SLE;Sub-Saharan Africa;Low income;IDA
 Singapore;SGP;East Asia & Pacific;High income;
 Sint Maarten (Dutch part);SXM;Latin America & Caribbean;High income;
-Slovak Republic;SVK;Europe & Central Asia;High income;
+Slovakia;SVK;Europe & Central Asia;High income;
 Slovenia;SVN;Europe & Central Asia;High income;
 Solomon Islands;SLB;East Asia & Pacific;Lower middle income;IDA
 Somalia;SOM;Sub-Saharan Africa;Low income;IDA
@@ -180,10 +180,10 @@ South Africa;ZAF;Sub-Saharan Africa;Upper middle income;IBRD
 South Sudan;SSD;Sub-Saharan Africa;Low income;IDA
 Spain;ESP;Europe & Central Asia;High income;
 Sri Lanka;LKA;South Asia;Lower middle income;IDA
-St. Kitts and Nevis;KNA;Latin America & Caribbean;High income;IBRD
-St. Lucia;LCA;Latin America & Caribbean;Upper middle income;Blend
+Saint Kitts and Nevis;KNA;Latin America & Caribbean;High income;IBRD
+Saint Lucia;LCA;Latin America & Caribbean;Upper middle income;Blend
 St. Martin (French part);MAF;Latin America & Caribbean;High income;
-St. Vincent and the Grenadines;VCT;Latin America & Caribbean;Upper middle income;Blend
+Saint Vincent and the Grenadines;VCT;Latin America & Caribbean;Upper middle income;Blend
 Sudan;SDN;Sub-Saharan Africa;Low income;IDA
 Suriname;SUR;Latin America & Caribbean;Upper middle income;Blend
 Sweden;SWE;Europe & Central Asia;High income;
@@ -191,7 +191,7 @@ Switzerland;CHE;Europe & Central Asia;High income;
 Syrian Arab Republic;SYR;Middle East & North Africa;Low income;IDA
 Taiwan, China;TWN;East Asia & Pacific;High income;
 Tajikistan;TJK;Europe & Central Asia;Lower middle income;IDA
-Tanzania;TZA;Sub-Saharan Africa;Lower middle income;IDA
+United Republic of Tanzania;TZA;Sub-Saharan Africa;Lower middle income;IDA
 Thailand;THA;East Asia & Pacific;Upper middle income;IBRD
 Timor-Leste;TLS;East Asia & Pacific;Lower middle income;Blend
 Togo;TGO;Sub-Saharan Africa;Low income;IDA
@@ -210,11 +210,11 @@ United States;USA;North America;High income;
 Uruguay;URY;Latin America & Caribbean;High income;IBRD
 Uzbekistan;UZB;Europe & Central Asia;Lower middle income;Blend
 Vanuatu;VUT;East Asia & Pacific;Lower middle income;IDA
-Venezuela, RB;VEN;Latin America & Caribbean;;IBRD
-Vietnam;VNM;East Asia & Pacific;Lower middle income;IBRD
+Venezuela (Bolivarian Republic of);VEN;Latin America & Caribbean;;IBRD
+Viet Nam;VNM;East Asia & Pacific;Lower middle income;IBRD
 Virgin Islands (U.S.);VIR;Latin America & Caribbean;High income;
 West Bank and Gaza;PSE;Middle East & North Africa;Lower middle income;
-Yemen, Rep.;YEM;Middle East & North Africa;Low income;IDA
+Yemen;YEM;Middle East & North Africa;Low income;IDA
 Zambia;ZMB;Sub-Saharan Africa;Lower middle income;IDA
 Zimbabwe;ZWE;Sub-Saharan Africa;Lower middle income;Blend
 ;;;;
