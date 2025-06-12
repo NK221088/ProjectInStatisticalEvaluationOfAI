@@ -1,4 +1,4 @@
-country,text,answer,word_count,unique_word_count,token_count,avg_word_length,sentence_count,avg_sentence_length,emoji_count,ib_count,sentiment_polarity,htx,stx,hf,hhx,10,fgu,eux,eud,?,!,vet,erhverv,university,if you,uu-vejleder,background,hobb,goal,interest
+country,text,answer,word_count,unique_word_count,token_count,avg_word_length,sentence_count,avg_sentence_length,sentiment_polarity,flesch_reading_ease,emoji_count,ib_count,personal,tailor,htx,stx,hf,hhx,10,fgu,eux,eud,?,!,vet,erhverv,university,if you,uu-vejleder,background,hobb,goal,interest,Member State,M49 Code,ISO Code,Start date,End date,Other Names,Earlier Name,Later Name,Geographic Term,Membership Document Symbol
 Afghanistan,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Afghanistan. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -87,7 +87,7 @@ Are you thinking about university later?
 Any dream jobs?
 —I can give you a much more speciﬁc recommendation.
 Shall we?
-",420,198,602,5.0,26.0,16.2,5,1,0.18252923976608187,2,2,1,2,0,0,2,1,6,0,0,2,3,8,0,2,0,0,1
+",420,198,602,5.0,26.0,16.2,0.18252923976608187,44.20389925373138,5,1,0,0,2,2,1,2,0,0,2,1,6,0,0,2,3,8,0,2,0,0,1,Afghanistan,4.0,AFG,11/09/1946,,"Islamic Republic of Afghanistan, Transitional Islamic State of Afghanistan, Transitional Islamic Government of Afghanistan, Dawlat-i Intiqalii Islamii Afghanistan",,,AFGHANISTAN,A/RES/34 (I)
 Albania,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Albania. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -190,7 +190,7 @@ Your school grades
 What kind of job or life you imagine
 …I can give you a much more tailored recommendation.
 Would you like to tell me a bit more? 😄
-",396,211,562,5.1,27.0,14.7,2,2,0.22612547892720306,1,2,1,2,0,0,3,2,4,0,0,1,5,13,0,0,0,1,4
+",396,211,562,5.1,27.0,14.7,0.22612547892720306,43.201994448850115,2,2,0,1,1,2,1,2,0,0,3,2,4,0,0,1,5,13,0,0,0,1,4,Albania,8.0,ALB,14/12/1955,,Republic of Albania,,,ALBANIA,A/RES/995 (X)
 Algeria,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Algeria. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -285,7 +285,7 @@ Whether you like practical or theoretical learning
 If you want to study at university later
 Any dream jobs you have
 — then I can give you a much more tailored suggestion. Shall we?
-",418,232,599,5.0,26.0,16.1,1,1,0.19957671957671957,1,3,1,3,1,0,2,0,1,0,3,1,3,13,0,1,0,0,4
+",418,232,599,5.0,26.0,16.1,0.19957671957671957,47.23654228091732,1,1,1,1,1,3,1,3,1,0,2,0,1,0,3,1,3,13,0,1,0,0,4,Algeria,12.0,DZA,10/08/1962,,"People's Democratic Republic of Algeria, Al-Jazair",,,ALGERIA,A/RES/1754 (XVII)
 Andorra,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Andorra. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -384,7 +384,7 @@ Whether you want to stay in Denmark or consider other countries (like Andorra, S
 elsewhere)
 …I can give you a much more tailored recommendation.
 Shall we dive a little deeper? 😊
-",434,224,626,5.2,34.0,12.9,5,2,0.17729960317460317,2,3,1,3,0,0,0,0,7,0,1,1,2,10,0,1,0,0,5
+",434,224,626,5.2,34.0,12.9,0.17729960317460317,39.183042718446615,5,2,1,1,2,3,1,3,0,0,0,0,7,0,1,1,2,10,0,1,0,0,5,Andorra,20.0,AND,28/07/1993,,Principality of Andorra,,,ANDORRA,A/RES/47/232
 Angola,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Angola. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -467,7 +467,7 @@ Would you like to work internationally (your Angolan background could be a stren
 👉 If you tell me a bit more (e.g. your interests, grades, dream jobs), I can give you a much more tailored
 suggestion.
 Shall we?
-",370,202,547,5.0,23.0,16.1,1,0,0.2423524844720497,1,2,1,2,2,0,2,0,5,0,3,1,2,8,0,1,0,0,3
+",370,202,547,5.0,23.0,16.1,0.2423524844720497,46.546620626151025,1,0,1,1,1,2,1,2,2,0,2,0,5,0,3,1,2,8,0,1,0,0,3,Angola,24.0,AGO,01/12/1976,,Republic of Angola,,,ANGOLA,A/RES/31/44
 Antigua and Barbuda,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Antigua 
 and Barbuda. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -564,7 +564,7 @@ But if you already know that, for example, you love business or technology, then
 better.
 If you want, you can tell me a bit more (e.g. your interests, subjects you like, dreams for the futur e) —
 and I can give you a more personal recommendation. Shall we?
-",439,223,623,4.8,30.0,14.7,4,4,0.21254409171075836,4,4,2,4,2,0,0,0,5,0,2,1,2,12,0,2,0,0,3
+",439,223,623,4.8,30.0,14.7,0.21254409171075836,46.311455419580426,4,4,3,0,4,4,2,4,2,0,0,0,5,0,2,1,2,12,0,2,0,0,3,Antigua and Barbuda,28.0,ATG,11/11/1981,,,Antigua,,ANTIGUA AND BARBUDA,A/RES/36/26
 Argentina,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Argentina. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -649,7 +649,7 @@ whether you imagine studying at university one day
 or if you're more practical and like hands-on work
 …I can give you a much more speciﬁc recommendation.
 Shall we?
-",420,207,621,4.9,34.0,12.4,4,3,0.25894335511982575,3,3,2,3,2,0,2,1,6,0,1,1,3,11,0,1,0,1,5
+",420,207,621,4.9,34.0,12.4,0.25894335511982575,45.78692215788993,4,3,1,0,3,3,2,3,2,0,2,1,6,0,1,1,3,11,0,1,0,1,5,Argentina,32.0,ARG,24/10/1945,,Argentine Republic,,,ARGENTINA,
 Armenia,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Armenia. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -748,7 +748,7 @@ keep your doors open for both university and vocational paths later.
 👉 If you tell me a bit more (for example: your favorite subjects, if you enjoy hands-on work or theory,
 your dream job or interests), I can give you a much more personalized recommendation.
 Shall we do that?
-",400,206,592,4.9,24.0,16.8,1,2,0.17523400673400671,2,3,3,2,0,0,0,2,4,0,0,1,2,11,0,1,0,1,4
+",400,206,592,4.9,24.0,16.8,0.17523400673400671,50.444895104895124,1,2,2,0,2,3,3,2,0,0,0,2,4,0,0,1,2,11,0,1,0,1,4,Armenia,51.0,ARM,02/03/1992,,"Republic of Armenia, Arménie",,,ARMENIA,A/RES/46/227
 Australia,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Australia. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -893,7 +893,7 @@ If you’re more practical or academic
 Whether you think of studying in Denmark or Australia later
 — I can give a much more personalized suggestion.
 Shall we dive a bit deeper?
-",430,210,607,5.2,38.0,11.3,5,2,0.15350923951670215,2,2,0,2,0,0,2,1,6,0,0,0,5,9,0,2,0,0,5
+",430,210,607,5.2,38.0,11.3,0.15350923951670215,42.3007693046485,5,2,1,1,2,2,0,2,0,0,2,1,6,0,0,0,5,9,0,2,0,0,5,Australia,36.0,AUS,24/10/1945,,Commonwealth of Australia,,,AUSTRALIA,
 Austria,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Austria. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -1000,7 +1000,7 @@ Whether you see yourself studying at university or starting work earlier.
 If you like practical or theoretical learning more.
 — I can give you a much more tailored recommendation.
 Shall we go one step deeper?
-",466,237,676,5.1,38.0,12.3,1,4,0.16987654320987655,3,3,1,3,1,0,0,0,7,0,2,1,3,10,0,2,0,0,2
+",466,237,676,5.1,38.0,12.3,0.16987654320987655,44.541742005527055,1,4,1,1,3,3,1,3,1,0,0,0,7,0,2,1,3,10,0,2,0,0,2,Austria,40.0,AUT,14/12/1955,,Republic of Austria,,,AUSTRIA,A/RES/995 (X)
 Azerbaijan,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Azerbbaijan. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -1099,8 +1099,8 @@ If you want to go to university one day
 Or if you prefer more practical/hands-on learning
 …I can give you a much more tailored recommendation.
 Shall we go a bit deeper?
-",409,201,590,5.1,28.0,14.7,1,2,0.24252777777777776,4,4,2,5,0,0,2,1,1,0,0,0,2,10,0,2,0,0,3
-"Bahamas","Uddannelsesmuligheder efter folkeskolen
+",409,201,590,5.1,28.0,14.7,0.24252777777777776,42.81373695391153,1,2,0,1,4,4,2,5,0,0,2,1,1,0,0,0,2,10,0,2,0,0,3,Azerbaijan,31.0,AZE,02/03/1992,,"Republic of Azerbaijan, Azerbaïdjan, Azerbaiyán, Azerbaijan Republic",,,AZERBAIJAN,A/RES/46/230
+"Bahamas, The","Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from The 
 Bahamas. I just ﬁnished primary school in Denmark and am now considering what my next step 
 should be. I'm ﬂuent in danish.
@@ -1194,7 +1194,7 @@ to try something challenging — you won’t have huge student debt like in many
 If you tell me a bit more about your interests (science? business? art? languages? IT? social science? etc.)
 — I can give you a much more tailored recommendation.
 Shall we? 😊
-",394,211,592,5.0,36.0,11.0,2,5,0.21436069023569024,2,2,1,2,0,0,3,1,7,0,0,1,3,13,0,3,0,1,2
+",394,211,592,5.0,36.0,11.0,0.21436069023569024,43.41491250000004,2,5,1,1,2,2,1,2,0,0,3,1,7,0,0,1,3,13,0,3,0,1,2,,,,,,,,,,
 Bahrain,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Bahrain. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -1299,7 +1299,7 @@ What are your favorite school subjects?
 Do you prefer theory or hands-on learning?
 Do you want to stay in Denmark or study abroad one day?
 Shall we dive a bit deeper?
-",377,194,534,5.2,28.0,13.5,2,2,0.1737958401751505,2,2,0,2,0,0,2,1,7,0,1,1,3,12,0,1,0,0,5
+",377,194,534,5.2,28.0,13.5,0.1737958401751505,41.235169880624454,2,2,1,0,2,2,0,2,0,0,2,1,7,0,1,1,3,12,0,1,0,0,5,Bahrain,48.0,BHR,21/09/1971,,Kingdom of Bahrain,,,BAHRAIN,A/RES/2752 (XXVI)
 Bangladesh,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Bangladesh. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -1388,7 +1388,7 @@ later.
 👉 If you tell me a bit more (for example: your favorite subjects, your strengths, what you're curious
 about, your parents' ideas, etc.), I can give you a much more personalized recommendation.
 Shall we?
-",413,220,603,5.1,25.0,16.6,4,2,0.17769009216589862,1,2,0,2,0,0,1,1,1,0,2,1,4,8,1,0,0,0,5
+",413,220,603,5.1,25.0,16.6,0.17769009216589862,42.12583902939167,4,2,2,0,1,2,0,2,0,0,1,1,1,0,2,1,4,8,1,0,0,0,5,Bangladesh,50.0,BGD,17/09/1974,,People's Republic of Bangladesh,,,BANGLADESH,A/RES/3203 (XXIX)
 Barbados,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Barbados. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -1499,7 +1499,7 @@ Shall we?
 What are your favorite subjects?
 Do you enjoy school?
 Do you already have a dream job or industry?
-",447,223,668,5.1,28.0,16.0,1,1,0.2082982804232804,2,3,0,3,0,0,4,0,8,0,0,2,4,12,0,1,0,0,3
+",447,223,668,5.1,28.0,16.0,0.2082982804232804,40.341532567049825,1,1,1,0,2,3,0,3,0,0,4,0,8,0,0,2,4,12,0,1,0,0,3,Barbados,52.0,BRB,12/09/1966,,,,,BARBADOS,A/RES/2175 (XXI)
 Belarus,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Belarus. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -1614,7 +1614,7 @@ Whether you like school / studying
 Whether you want to go to university or start work earlier
 … then I can give you a much more tailored recommendation.
 Shall we go a bit deeper?
-",461,228,682,5.0,27.0,17.1,4,0,0.22911482334869435,2,3,1,2,0,0,2,2,6,0,0,1,5,14,0,0,0,0,4
+",461,228,682,5.0,27.0,17.1,0.22911482334869435,42.529461183629394,4,0,1,1,2,3,1,2,0,0,2,2,6,0,0,1,5,14,0,0,0,0,4,Belarus,112.0,BLR,19/09/1991,,"Republic of Belarus, Bélarus, Belarús",Byelorussian SSR,,BELARUS,
 Belgium,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Belgium. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -1721,7 +1721,7 @@ Whether you want to study abroad someday,
 If you prefer practical or academic work,
 …I can give you a much more tailored recommendation.
 Would you like me to give you a few example ""pathways"" depending on diﬀerent scenarios?
-",438,241,618,5.3,27.0,16.3,1,4,0.1683367839889579,2,3,0,2,0,0,3,0,2,0,4,1,2,9,0,2,0,1,7
+",438,241,618,5.3,27.0,16.3,0.1683367839889579,35.719790697674455,1,4,1,1,2,3,0,2,0,0,3,0,2,0,4,1,2,9,0,2,0,1,7,Belgium,56.0,BEL,24/10/1945,,Kingdom of Belgium,,,BELGIUM,
 Belize,"Uddannelsesvejledning i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Belize. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -1826,7 +1826,7 @@ What are your interests? (science, business, art, IT, etc.)
 Do you think you want to go to university one day?
 Do you want to work soon, or study longer?
 👉 If you answer, I can give you a much more personal recommendation. Shall we?
-",503,230,700,4.9,34.0,14.9,4,3,0.12583994708994706,1,2,1,3,1,0,4,2,4,0,0,1,5,16,0,2,0,0,4
+",503,230,700,4.9,34.0,14.9,0.12583994708994706,46.19781354707317,4,3,2,0,1,2,1,3,1,0,4,2,4,0,0,1,5,16,0,2,0,0,4,Belize,84.0,BLZ,25/09/1981,,,British Honduras,,BELIZE,A/RES/36/3
 Benin,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Benin. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -1931,7 +1931,7 @@ whether you like theory or practice,
 your long-term dreams (if you have any yet),
 …I can give you a much more speciﬁc recommendation.
 Shall we? 😊
-",438,218,633,4.9,34.0,12.9,2,0,0.217875,1,2,1,1,3,0,4,3,11,0,0,1,4,9,0,1,0,1,2
+",438,218,633,4.9,34.0,12.9,0.217875,49.59523364485983,2,0,3,0,1,2,1,1,3,0,4,3,11,0,0,1,4,9,0,1,0,1,2,Benin,204.0,BEN,30/11/1975,,Republic of Benin,Dahomey,,BENIN,
 Bhutan,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Bhuta n. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -2032,7 +2032,7 @@ Do you prefer more theory or practical work?
 Are you thinking about university?
 Do you have any dreams (doctor, engineer, business, IT, crafts, etc)?
 Then I can give you a much more personal recommendation 😊 . Shall we?
-",508,235,733,4.7,34.0,15.0,6,1,0.24945632798573972,3,3,2,3,4,0,3,2,5,0,0,1,4,9,0,1,0,1,2
+",508,235,733,4.7,34.0,15.0,0.24945632798573972,54.16188891700406,6,1,2,0,3,3,2,3,4,0,3,2,5,0,0,1,4,9,0,1,0,1,2,Bhutan,64.0,BTN,21/09/1971,,Kingdom of Bhutan,,,BHUTAN,A/RES/2751 (XXVI)
 Bolivia (Plurinational State of),"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Bolivia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -2139,7 +2139,7 @@ whether you like practical or theoretical learning
 any hobbies or future dream jobs
 —I can give you a much more tailored recommendation.
 Shall we? 😊
-",496,256,694,5.0,34.0,14.6,2,1,0.2541839526214526,2,3,1,2,1,0,0,2,1,0,0,1,2,15,0,0,1,0,2
+",496,256,694,5.0,34.0,14.6,0.2541839526214526,45.73074104683198,2,1,2,1,2,3,1,2,1,0,0,2,1,0,0,1,2,15,0,0,1,0,2,Bolivia (Plurinational State of),68.0,BOL,07/04/2009,,Plurinational State of Bolivia,Bolivia,,BOLIVIA (PLURINATIONAL STATE OF),
 Bosnia and Herzegovina,"Uddannelsesvejledning i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Bosnia 
 and Herzegovina. I just ﬁnished primary school in Denmark and am now considering what my next 
@@ -2224,7 +2224,7 @@ you ever want to work with languages, international business, diplomacy, or NGOs
 👉 If you reply with a bit more about your interests, I can map out a few concrete pathways for
 you.
 Shall we?
-",353,191,524,5.0,26.0,13.7,1,2,0.09375,2,2,2,2,0,0,3,2,5,0,0,1,2,4,0,1,0,1,2
+",353,191,524,5.0,26.0,13.7,0.09375,37.17552631578948,1,2,1,1,2,2,2,2,0,0,3,2,5,0,0,1,2,4,0,1,0,1,2,Bosnia and Herzegovina,70.0,BIH,22/05/1992,,"Bosnie-Herzégovine, Bosnia y Herzegovina, Bosnia and Hercegovina, Bosnia i Hercegovina",,,BOSNIA AND HERZEGOVINA,A/RES/46/237
 Botswana,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Botswana. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -2347,7 +2347,7 @@ Whether you like academic or practical work more
 Any career dreams (even vague ones)
 …I can give you a much more personal recommendation.
 Shall we? 😊
-",459,229,666,5.0,31.0,14.8,8,3,0.20422535211267606,3,3,1,3,0,0,2,1,1,0,3,1,2,9,0,2,0,1,4
+",459,229,666,5.0,31.0,14.8,0.20422535211267606,42.77399266365691,8,3,1,0,3,3,1,3,0,0,2,1,1,0,3,1,2,9,0,2,0,1,4,Botswana,72.0,BWA,17/10/1966,,Republic of Botswana,,,BOTSWANA,A/RES/2136 (XXI)
 Brazil,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Brazil. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -2436,7 +2436,7 @@ This way, you keep the most options open and can always specialize later.
 If you tell me a little more — like your interests (math, languages, business, technology, people, etc.) — I
 can give you a much more tailored recommendation.
 Shall we? 😊
-",403,217,598,5.1,28.0,14.5,2,1,0.15635928445452257,2,3,1,3,0,0,2,2,1,0,1,1,1,14,0,4,0,1,5
+",403,217,598,5.1,28.0,14.5,0.15635928445452255,40.06418775510207,2,1,2,1,2,3,1,3,0,0,2,2,1,0,1,1,1,14,0,4,0,1,5,Brazil,76.0,BRA,24/10/1945,,Federative Republic of Brazil,,,BRAZIL,
 Brunei Darussalam,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Brunei 
 Darussalam. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -2527,7 +2527,7 @@ Do you think you want to go to university someday?
 Do you want to stay in Denmark or consider studying abroad?)
 ... then I can give you a much more tailored recommendation.
 Shall we go a bit deeper? 😊
-",452,239,655,4.9,27.0,16.7,2,2,0.17257109788359784,2,4,2,2,0,0,2,2,4,0,0,0,4,9,0,1,0,0,3
+",452,239,655,4.9,27.0,16.7,0.17257109788359784,46.02025603644648,2,2,1,1,2,4,2,2,0,0,2,2,4,0,0,0,4,9,0,1,0,0,3,Brunei Darussalam,96.0,BRN,21/09/1984,,Brunei,,,BRUNEI DARUSSALAM,A/RES/39/1
 Bulgaria,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Bulgaria. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -2630,7 +2630,7 @@ What are your favorite subjects?
 Do you have any hobbies or interests?
 Do you already have some career ideas?
 With a bit more info, I can give you a much more tailored recommendation.
-",440,212,630,4.9,23.0,19.2,3,1,0.220480093676815,1,2,1,2,1,0,3,3,7,0,0,3,2,13,0,1,1,0,3
+",440,212,630,4.9,23.0,19.2,0.220480093676815,39.786039215686316,3,1,0,1,1,2,1,2,1,0,3,3,7,0,0,3,2,13,0,1,1,0,3,Bulgaria,100.0,BGR,14/12/1955,,Republic of Bulgaria,,,BULGARIA,A/RES/995 (X)
 Burkina Faso,"Uddannelsesvejledning for 16-årige
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Burkina 
 Faso. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -2737,7 +2737,7 @@ Whether you prefer practical or academic learning
 If you want to study at university later
 …I can give you a much more personal recommendation.
 Shall we? 😊
-",451,240,675,5.2,29.0,15.6,3,0,0.2019753401360544,2,2,2,2,6,0,0,0,1,0,1,2,2,7,0,2,0,1,7
+",451,240,675,5.2,29.0,15.6,0.2019753401360544,41.29033596837945,3,0,2,0,2,2,2,2,6,0,0,0,1,0,1,2,2,7,0,2,0,1,7,Burkina Faso,854.0,BFA,04/08/1984,,"Burkina, Bourkina, Bourkina Fasso, République démocratique du Burkina Faso",Upper Volta,,BURKINA FASO,
 Burundi,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Burundi. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -2820,7 +2820,7 @@ Do you see yourself more in academic studies or practical work?
 Are you thinking more about university or getting a profession earlier?
 Do you have any interests already (technology, healthcare, business, etc.)?
 👉 If you tell me a little more, I can give you a much more personalized recommendation. Shall we?
-",398,207,591,5.3,27.0,14.8,5,1,0.26063003663003664,2,2,2,2,1,0,1,1,5,0,0,2,5,10,0,1,0,1,3
+",398,207,591,5.3,27.0,14.8,0.26063003663003664,40.0827246945899,5,1,2,0,2,2,2,2,1,0,1,1,5,0,0,2,5,10,0,1,0,1,3,Burundi,108.0,BDI,18/09/1962,,Republic of Burundi,,,BURUNDI,A/RES/1749 (XVII)
 Cabo Verde,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Cabo 
 Verde. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -2929,7 +2929,7 @@ Do you like working with people, num bers, technology, or creativity?
 Do you imagine studying at university later?
 Do you want to start working as soon as possible?
 Would you like me to help you map a few possible ""life paths"" depending on your interests?
-",441,231,643,5.2,28.0,15.8,2,0,0.20744687660010241,1,4,1,4,2,0,3,2,4,0,0,1,4,11,0,2,0,1,5
+",441,231,643,5.2,28.0,15.8,0.20744687660010241,40.24204351204352,2,0,1,1,1,4,1,4,2,0,3,2,4,0,0,1,4,11,0,2,0,1,5,Cabo Verde,132.0,CPV,24/10/2013,,Republic of Cabo Verde,Cape Verde,,CABO VERDE,
 Cambodia,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Cambodia. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -3036,7 +3036,7 @@ Whether you like schoolwork or prefer hands-on learning
 If you think about university or a job directly
 … I can give you a much more personalized recommendation.
 Shall we go a bit deeper?
-",422,220,634,5.4,24.0,17.6,1,2,0.19570812807881777,2,2,1,2,0,0,2,3,2,0,0,2,3,11,0,0,1,1,5
+",422,220,634,5.4,24.0,17.6,0.19570812807881777,30.683960763520673,1,2,1,0,2,2,1,2,0,0,2,3,2,0,0,2,3,11,0,0,1,1,5,Cambodia,116.0,KHM,"1955-12-14, 1975-04-30, 1990-02-03","1970-12-28, 1976-04-06","Kingdom of Cambodia, Cambodge, Camboya",,Khmer Republic,CAMBODIA,A/RES/995(X)
 Cameroon,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Cameroon. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -3143,7 +3143,7 @@ international business, diplomacy, teaching, healthcare, and more.
 👉 If you tell me a bit more about your interests and dreams, I can give you a much more speciﬁc
 recommendation.
 Would you like me to suggest a few concrete paths based on your interests?
-",474,245,685,5.1,34.0,14.0,5,1,0.20544354838709677,2,2,2,2,5,0,2,2,6,0,0,2,4,9,0,1,0,1,7
+",474,245,685,5.1,34.0,14.0,0.20544354838709677,48.49868906455865,5,1,1,0,2,2,2,2,5,0,2,2,6,0,0,2,4,9,0,1,0,1,7,Cameroon,120.0,CMR,"1960-09-20, 1984-02-04",03/09/1975,Republic of Cameroon,,United Republic of Cameroon,CAMEROON,A/RES/1476 (XV)
 Canada,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Canada. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -3248,7 +3248,7 @@ Whether you prefer more theory or more practical learning
 If you might want to study in Denmark or Canada later
 — then I can give you a much more tailored recommendation.
 Shall we dig a bit deeper? 😊
-",435,243,629,5.0,24.0,18.2,2,2,0.20821253501400558,2,3,2,2,1,0,2,2,4,0,0,0,2,11,0,1,0,1,3
+",435,243,629,5.0,24.0,18.2,0.20821253501400558,38.71931818181821,2,2,0,1,2,3,2,2,1,0,2,2,4,0,0,0,2,11,0,1,0,1,3,Canada,124.0,CAN,24/10/1945,,,,,CANADA,
 Central African Republic,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from The 
 Central African Republic. I just ﬁnished primary school in Denmark and am now considering what 
@@ -3355,7 +3355,7 @@ What subjects you like (math, science, languages, business, etc.)
 If you prefer theory or practical work
 If you plan to go to university or work sooner
 …then I can give you a much more personalized recommendation. Shall we?
-",483,231,682,4.9,30.0,16.2,4,0,0.23149899396378265,3,3,3,3,3,0,3,2,1,0,0,1,2,15,0,0,0,0,4
+",483,231,682,4.9,30.0,16.2,0.23149899396378265,47.16706644412653,4,0,1,0,3,3,3,3,3,0,3,2,1,0,0,1,2,15,0,0,0,0,4,Central African Republic,140.0,CAF,"1960-09-20, 1979-09-20",19/12/1976,,Central African Empire,Central African Empire,CENTRAL AFRICAN REPUBLIC,A/RES/1488 (XV)
 Chad,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Chad. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -3426,7 +3426,7 @@ Would you like a path that allows you to help people, work with technology, trav
 own business someday?
 If you give me a bit more detail, I can give you a few very concrete suggestions 👇
 Shall we?
-",338,191,480,5.0,25.0,13.6,4,0,0.17163690476190477,1,1,1,1,1,0,2,1,5,0,0,1,3,3,0,0,0,1,1
+",338,191,480,5.0,25.0,13.6,0.17163690476190477,44.82607104984095,4,0,1,0,1,1,1,1,1,0,2,1,5,0,0,1,3,3,0,0,0,1,1,Chad,148.0,TCD,20/09/1960,,Republic of Chad,,,CHAD,A/RES/1485 (XV)
 Chile,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Chile. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -3535,7 +3535,7 @@ Consider developing strong English too.
 👉 If you tell me a bit more — like what subjects you enjoy, or what careers you imagine — I can
 give a much more speciﬁc recommendation.
 Shall we go a bit deeper?
-",401,227,618,5.3,37.0,11.0,1,1,0.15524850377309393,1,1,0,1,2,0,2,1,6,0,1,1,6,9,0,3,0,0,3
+",401,227,618,5.3,37.0,11.0,0.15524850377309393,41.903765211166814,1,1,0,0,1,1,0,1,2,0,2,1,6,0,1,1,6,9,0,3,0,0,3,Chile,152.0,CHL,24/10/1945,,Republic of Chile,,,CHILE,
 China,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from China. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -3634,7 +3634,7 @@ What are your favorite subjects?
 Do you enjoy theory or more practical work?
 Are you thinking more about university or starting work earlier?
 Shall we go a bit deeper? 😊
-",428,225,621,5.1,26.0,16.5,2,1,0.20612433862433865,2,3,1,3,1,0,0,1,4,0,0,1,3,7,0,2,0,1,3
+",428,225,621,5.1,26.0,16.5,0.20612433862433865,39.68908038277513,2,1,2,0,2,3,1,3,1,0,0,1,4,0,0,1,3,7,0,2,0,1,3,China,156.0,CHN,24/10/1945,,"People's Republic of China, Zhongguo, Zhonghua Renmin Gongheguo",,,CHINA,
 Colombia,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Colombia. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -3737,7 +3737,7 @@ level) — this could later be a huge advantage for jobs in business, law, inter
 translation, etc.
 👉 If you tell me a bit more about your interests (e.g. do you like science, people, business, art,
 technology?), I can give a more tailored recommendation. Shall we?
-",421,221,617,5.0,37.0,11.5,1,4,0.15906779661016948,4,6,2,4,1,0,5,4,6,0,0,0,2,2,0,0,0,1,4
+",421,221,617,5.0,37.0,11.5,0.15906779661016948,44.89551577669903,1,4,2,1,4,6,2,4,1,0,5,4,6,0,0,0,2,2,0,0,0,1,4,Colombia,170.0,COL,24/10/1945,,Republic of Colombia,,,COLOMBIA,
 Comoros,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Comoros. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -3848,7 +3848,7 @@ Whether you like theoretical or practical work
 If you have any dream jobs
 …then I can give you a much more tailored recommendation.
 Shall we? 😊
-",453,241,647,5.2,34.0,13.4,5,1,0.18464438339438344,1,1,1,1,2,0,1,0,4,0,2,2,2,10,1,1,0,0,4
+",453,241,647,5.2,34.0,13.4,0.18464438339438344,40.0565,5,1,1,1,1,1,1,1,2,0,1,0,4,0,2,2,2,10,1,1,0,0,4,Comoros,174.0,COM,11/12/1975,,Union of the Comoros,,,COMOROS,A/RES/3385 (XXX)
 Congo,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Congo. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -3953,7 +3953,7 @@ Do you like school (more theory) or prefer more hands-on/practical?
 Do you have any career dreams yet?
 Do you want to go to university later?
 With a little more info, I can give you a much more tailored recommendation. Shall we? 😊
-",462,223,684,5.0,32.0,14.4,2,0,0.19256218905472633,3,2,2,2,0,0,3,2,5,0,0,1,4,10,0,1,0,0,4
+",462,223,684,5.0,32.0,14.4,0.19256218905472633,47.00218918918921,2,0,2,1,3,2,2,2,0,0,3,2,5,0,0,1,4,10,0,1,0,0,4,Congo,178.0,COG,15/11/1971,,"Republic of the Congo, Congo Republic, République du Congo, Republic of Congo",People's Republic of the Congo,,CONGO,
 Costa Rica,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Costa 
 Rica. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -4052,7 +4052,7 @@ Whether you prefer academic vs. practical learning
 If you see yourself going to university later
 —I can give you a much more tailored recommendation.
 👉 Would you like to?
-",419,201,598,5.2,27.0,15.7,1,1,0.19003968253968254,1,3,1,3,1,0,2,2,1,0,0,1,4,12,0,3,0,0,3
+",419,201,598,5.2,27.0,15.7,0.19003968253968254,34.91297082228118,1,1,1,1,1,3,1,3,1,0,2,2,1,0,0,1,4,12,0,3,0,0,3,Costa Rica,188.0,CRI,24/10/1945,,Republic of Costa Rica,,,COSTA RICA,
 Croatia,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Croatia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -4143,7 +4143,7 @@ Whether you prefer theory or hands-on work
 If you're considering university
 Your hobbies or interests
 …I can give you a much more tailored suggestion. Shall we?
-",369,198,552,5.2,21.0,17.6,2,1,0.208576136669357,1,3,1,2,0,0,2,0,1,0,0,1,2,13,0,3,1,1,6
+",369,198,552,5.2,21.0,17.6,0.208576136669357,39.21073607242343,2,1,1,1,1,3,1,2,0,0,2,0,1,0,0,1,2,13,0,3,1,1,6,Croatia,191.0,HRV,22/05/1992,,"Republic of Croatia, Croatie, Croacia, Hrvatska",,,CROATIA,A/RES/46/238
 Cuba,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Cuba. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -4214,7 +4214,7 @@ Do you want to study more after upper secondary school, or start working sooner?
 👉 If you tell me a bit more about your interests (what you enjoy studying, any dream jobs,
 hobbies, etc.), I can give you a much more speciﬁc recommendation.
 Shall we?
-",340,188,513,5.2,23.0,15.0,4,1,0.1900888888888889,1,1,1,1,1,0,0,0,4,0,1,1,1,3,0,1,1,0,3
+",340,188,513,5.2,23.0,15.0,0.1900888888888889,43.66780061349695,4,1,0,0,1,1,1,1,1,0,0,0,4,0,1,1,1,3,0,1,1,0,3,Cuba,192.0,CUB,24/10/1945,,Republic of Cuba,,,CUBA,
 Cyprus,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Cyprus. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -4311,7 +4311,7 @@ For example:
 “I hate sitting in classrooms all day”
 etc.
 👉 Shall we try that?
-",403,229,591,5.0,31.0,13.0,2,2,0.17064006466784243,1,3,1,3,2,0,2,1,10,0,0,1,2,10,0,1,0,0,3
+",403,229,591,5.0,31.0,13.0,0.17064006466784243,45.56012414800392,2,2,0,1,1,3,1,3,2,0,2,1,10,0,0,1,2,10,0,1,0,0,3,Cyprus,196.0,CYP,20/09/1960,,Republic of Cyprus,,,CYPRUS,A/RES/1489 (XV)
 Czechia,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Czechia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -4420,7 +4420,7 @@ Do you have any special interests (science, business, technology, languages, art
 Do you want to go to university later?
 Would you like to stay in Denmark or possibly study/work abroad in the futur e?
 👉 If you answer a bit about your interests, I can give you a more tailored recommendation. Shall we?
-",396,216,623,5.4,29.0,13.9,1,1,0.18268379281537178,1,1,1,1,3,0,2,2,5,0,0,1,3,8,0,2,0,0,6
+",396,216,623,5.4,29.0,13.9,0.18268379281537178,33.17698481771592,1,1,1,1,1,1,1,1,3,0,2,2,5,0,0,1,3,8,0,2,0,0,6,Czechia,203.0,CZE,17/05/2016,,,Czech Republic,,CZECHIA,
 Côte d'Ivoire,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Côte 
 D'Ivoire. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -4507,7 +4507,7 @@ business, diplomacy, development work, international organizations, etc.
 helping people? technology? working with hands?), I can give you a much more personalized
 recommendation.
 Shall we?
-",411,212,608,5.2,30.0,13.8,1,2,0.2246808510638298,2,2,1,2,0,0,0,2,7,0,0,1,1,13,0,3,0,0,4
+",411,212,608,5.2,30.0,13.8,0.2246808510638298,40.78382118927976,1,2,1,0,2,2,1,2,0,0,0,2,7,0,0,1,1,13,0,3,0,0,4,Côte d'Ivoire,384.0,CIV,01/01/1986,,"Territoire de la Côte d'Ivoire, République de la Côte d'Ivoire, Republic of Côte d'Ivoire",Ivory Coast,,CÔTE D'IVOIRE,
 Democratic People's Republic of Korea,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from North 
 Korea. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -4618,7 +4618,7 @@ Do you prefer more theory or more practical work?
 Do you have any dream jobs (even if they sound far away)?
 Are you considering university later or more interested in starting work earlier?
 With that, I can give you much more speciﬁc advice.
-",368,211,598,5.4,19.0,19.4,4,1,0.16727864583333335,2,2,1,2,2,0,2,2,4,0,0,3,3,10,0,1,0,1,3
+",368,211,598,5.4,19.0,19.4,0.16727864583333335,35.33099747474748,4,1,1,0,2,2,1,2,2,0,2,2,4,0,0,3,3,10,0,1,0,1,3,Democratic People's Republic of Korea,408.0,PRK,17/09/1991,,"North Korea, Korean People's Republic, DPRK",,,DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,A/RES/46/1
 Democratic Republic of the Congo,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from The 
 Democratic Republic of the Congo. I just ﬁnished primary school in Denmark and am now 
@@ -4715,7 +4715,7 @@ What are your interests? (science, business, healthcare, IT, arts, etc.)
 Do you prefer theory or practical work?
 Do you want to go to university someday?
 …I can give you a much more targeted recommendation. Shall we? 😊
-",441,206,636,5.0,27.0,16.4,5,1,0.20367559523809523,1,2,1,2,3,0,2,3,4,0,0,1,3,14,0,1,0,1,4
+",441,206,636,5.0,27.0,16.4,0.20367559523809523,42.9590078671329,5,1,1,0,1,2,1,2,3,0,2,3,4,0,0,1,3,14,0,1,0,1,4,Democratic Republic of the Congo,180.0,COD,"1964-08-01, 1997-05-17",26/10/1971,"Congo (Democratic Republic), Democratic Republic of Congo, République démocratique du Congo, Kongo, RDC, DRC, DRK",Zaïre,Zaïre,DEMOCRATIC REPUBLIC OF THE CONGO,
 Denmark,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Denmark. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -4816,7 +4816,7 @@ Do you imagine university one day?
 Do you prefer theoretical or practical learning?
 — then I can give you a much more personalized recommendation.
 Would you like to give me a little more about your interests?
-",372,213,562,5.0,25.0,15.0,1,1,0.16440058479532163,3,3,1,3,1,0,3,2,4,0,0,1,3,12,0,0,0,1,2
+",372,213,562,5.0,25.0,15.0,0.16440058479532163,44.403999999999996,1,1,3,0,3,3,1,3,1,0,3,2,4,0,0,1,3,12,0,0,0,1,2,Denmark,208.0,DNK,24/10/1945,,Kingdom of Denmark,,,DENMARK,
 Djibouti,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Djibouti. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -4925,7 +4925,7 @@ Your grades (are you generally strong in school?)
 Your long-term dreams (university? job? business?)
 …I can give you a much more tailored recommendation.
 Shall we? 😊
-",440,223,665,5.0,37.0,12.0,3,0,0.19396825396825396,4,5,4,5,5,0,4,3,10,0,0,1,3,4,0,0,0,1,3
+",440,223,665,5.0,37.0,12.0,0.19396825396825396,47.05584254455226,3,0,3,1,4,5,4,5,5,0,4,3,10,0,0,1,3,4,0,0,0,1,3,Djibouti,262.0,DJI,20/09/1977,,Republic of Djibouti,French Territory of the Afars and Issas,,DJIBOUTI,A/RES/32/1
 Dominica,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Dominica. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -5036,7 +5036,7 @@ Whether you prefer practical or academic work
 Long-term ideas (university? work? travel?)
 …I can give you a much more personalized recommendation.
 Shall we ﬁne-tune it? 🚀
-",465,244,692,5.2,39.0,12.0,4,1,0.16976887601887602,2,2,1,3,2,0,2,1,6,0,1,2,4,16,0,0,0,0,5
+",465,244,692,5.2,39.0,12.0,0.16976887601887602,42.72013980480088,4,1,1,0,2,2,1,3,2,0,2,1,6,0,1,2,4,16,0,0,0,0,5,Dominica,212.0,DMA,18/12/1978,,Commonwealth of Dominica,,,DOMINICA,A/RES/33/107
 Dominican Republic,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from the 
 Dominican Republic. I just ﬁnished primary school in Denmark and am now considering what my 
@@ -5125,7 +5125,7 @@ art, etc.)
 Do you prefer more practical or more academic learning?
 Would you consider studying or working internationally someday?
 👉 If you give me a bit more info, I can give you a much more personal recommendation. Shall we?
-",426,208,613,5.0,30.0,14.3,10,2,0.19239583333333332,3,3,2,3,0,0,3,1,4,0,0,0,2,11,0,1,0,0,4
+",426,208,613,5.0,30.0,14.3,0.19239583333333332,44.53817073170734,10,2,2,1,3,3,2,3,0,0,3,1,4,0,0,0,2,11,0,1,0,0,4,Dominican Republic,214.0,DOM,24/10/1945,,,,,DOMINICAN REPUBLIC,
 Ecuador,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Ecuador. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -5222,7 +5222,7 @@ Do you already have some interests (business, technology, health, languages, etc
 Do you prefer more academic or practical learning?
 Do you dream of studying at university one day or starting a career earlier?
 If you answer these, I can give you a very speciﬁc plan. Shall we? 😊
-",429,225,628,5.3,31.0,13.8,2,0,0.1939201877934272,2,2,1,2,1,0,3,2,4,0,0,1,2,12,0,2,0,0,3
+",429,225,628,5.3,31.0,13.8,0.1939201877934272,34.7297590361446,2,0,1,0,2,2,1,2,1,0,3,2,4,0,0,1,2,12,0,2,0,0,3,Ecuador,218.0,ECU,24/10/1945,,Republic of Ecuador,,,ECUADOR,
 Egypt,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Egypt. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -5313,7 +5313,7 @@ If you enjoy practical or theoretical learning
 Your career dreams (even if vague)
 —I can give you a much more tailored recommendation.
 Shall we dive a bit deeper?
-",417,199,581,5.1,26.0,16.0,1,0,0.19424007936507942,3,3,2,3,0,0,3,0,7,0,4,1,3,12,0,0,0,0,4
+",417,199,581,5.1,26.0,16.0,0.19424007936507942,39.79336282231094,1,0,1,1,3,3,2,3,0,0,3,0,7,0,4,1,3,12,0,0,0,0,4,Egypt,818.0,EGY,"1945-10-24, 1971-09-02",21/02/1958,Arab Republic of Egypt,United Arab Republic,United Arab Republic,EGYPT,
 El Salvador,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from El 
 Salvador. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -5422,7 +5422,7 @@ your long-term dreams
 …I can give you a much more tailored recommendation.
 👉 Shall we go a bit deeper?
 Tell me: what do you enjoy most in school?
-",437,215,637,5.1,30.0,14.7,10,0,0.16543859649122805,2,2,1,2,0,0,4,0,6,0,2,2,4,10,0,1,0,0,3
+",437,215,637,5.1,30.0,14.7,0.16543859649122805,45.73865384615385,10,0,0,1,2,2,1,2,0,0,4,0,6,0,2,2,4,10,0,1,0,0,3,El Salvador,222.0,SLV,24/10/1945,,Republic of El Salvador,,,EL SALVADOR,
 Equatorial Guinea,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Equatorial Guinea. I just ﬁnished primary school in Denmark and am now considering what my next 
@@ -5545,7 +5545,7 @@ Your long-term goals (university? work? entrepreneurship?)
 If you tell me a bit more about your interests and what you enjoy (hobbies, school subjects you like,
 dream jobs, etc.), I can give you a much more personalized recommendation.
 Shall we? 😊
-",511,235,735,5.0,29.0,17.9,5,2,0.22575825825825824,3,5,3,5,3,0,4,3,6,0,0,1,3,12,0,2,1,1,4
+",511,235,735,5.0,29.0,17.9,0.22575825825825824,38.91503563044938,5,2,3,0,3,5,3,5,3,0,4,3,6,0,0,1,3,12,0,2,1,1,4,Equatorial Guinea,226.0,GNQ,11/12/1968,,"Republic of Equatorial Guinea, República de Guinea Ecuatorial",,,EQUATORIAL GUINEA,A/RES/2384 (XXIII)
 Eritrea,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Eritrea. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -5656,7 +5656,7 @@ later.
 👉 If you tell me a bit more (your interests, subjects you like, any careers you're curious about), I
 can give you a much more speciﬁc recommendation.
 Shall we?
-",418,221,611,5.0,39.0,10.8,1,0,0.15511706349206347,3,3,3,3,0,0,3,1,5,0,0,0,4,9,0,2,0,0,3
+",418,221,611,5.0,39.0,10.8,0.15511706349206347,46.488385113268635,1,0,1,1,3,3,3,3,0,0,3,1,5,0,0,0,4,9,0,2,0,0,3,Eritrea,232.0,ERI,28/05/1993,,"State of Eritrea, Erythrée",,,ERITREA,A/RES/47/230
 Estonia,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Estonia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -5783,7 +5783,7 @@ Any subjects you especially enjoy?
 Do you want to go to university later?
 Any career dreams (even very vague)?
 …then I can give you a much more tailored recommendation. Shall we?
-",386,215,573,5.3,42.0,9.3,1,1,0.18643034825870655,1,2,0,1,0,0,2,1,5,0,0,0,4,9,0,1,0,0,4
+",386,215,573,5.3,42.0,9.3,0.18643034825870655,35.112975000000006,1,1,1,1,1,2,0,1,0,0,2,1,5,0,0,0,4,9,0,1,0,0,4,Estonia,233.0,EST,17/09/1991,,"Republic of Estonia, Estonie, Estoniia",Estonian SSR,,ESTONIA,A/RES/46/4
 Eswatini,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Eswatini. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -5900,7 +5900,7 @@ If you like school or more hands-on work
 If you see yourself working in Denmark or abroad
 — then I can give you a much more personal recommendation.
 Shall we?
-",423,210,624,5.0,24.0,17.6,5,2,0.24719623596742238,1,2,1,2,2,0,2,2,2,0,0,1,4,11,0,0,0,1,2
+",423,210,624,5.0,24.0,17.6,0.24719623596742238,41.827540106951886,5,2,2,0,1,2,1,2,2,0,2,2,2,0,0,1,4,11,0,0,0,1,2,Eswatini,748.0,SWZ,19/04/2018,,Kingdom of Eswatini,Swaziland,,ESWATINI,
 Ethiopia,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Ethiopia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -5991,7 +5991,7 @@ What you're good at?
 If you like practical or theoretical work more?
 Any career ideas or dreams?
 — I can give you a much more tailored recommendation. Shall we?
-",398,224,576,5.0,28.0,14.2,1,0,0.20878571428571427,4,5,2,3,0,0,0,1,5,0,3,1,3,8,0,2,0,0,5
+",398,224,576,5.0,28.0,14.2,0.20878571428571427,44.49752061068705,1,0,1,2,4,5,2,3,0,0,0,1,5,0,3,1,3,8,0,2,0,0,5,Ethiopia,231.0,ETH,24/10/1945,,Federal Democratic Republic of Ethiopia,,,ETHIOPIA,
 Fiji,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Fiji. I just 
 ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6072,7 +6072,7 @@ Are you open to studying abroad later, or mostly want to stay in Denmark?
 👉 If you tell me a little more about your interests, I can give you a much more personal
 recommendation.
 Shall we?
-",391,216,589,5.1,28.0,14.0,1,1,0.16732943469785572,2,2,2,2,2,0,2,3,4,0,0,2,2,9,0,1,0,1,5
+",391,216,589,5.1,28.0,14.0,0.16732943469785572,45.632212295578455,1,1,3,0,2,2,2,2,2,0,2,3,4,0,0,2,2,9,0,1,0,1,5,Fiji,242.0,FJI,13/10/1970,,"Republic of Fiji, Republic of the Fiji Islands",,,FIJI,A/RES/2622 (XXV)
 Finland,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Finland. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6159,7 +6159,7 @@ or elsewhere in the Nordics if you want international experience.
 👉 If you tell me a bit more — e.g. your interests (science, languages, business, practical work, art, etc.)
 — I can give you a more speciﬁc recommendation.
 Shall we?
-",402,204,579,4.9,32.0,12.7,1,1,0.1965431266846361,3,3,2,3,4,0,3,1,1,0,0,0,2,12,0,3,0,0,2
+",402,204,579,4.9,32.0,12.7,0.1965431266846361,47.48771908471278,1,1,0,1,3,3,2,3,4,0,3,1,1,0,0,0,2,12,0,3,0,0,2,Finland,246.0,FIN,14/12/1955,,Republic of Finland,,,FINLAND,A/RES/995 (X)
 France,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from France. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6276,7 +6276,7 @@ Adding French at high level as a subject
 👉 If you tell me a bit more about your interests (for example: science, business, languages, tech,
 etc.), I can give you a much more precise recommendation.
 Shall we narrow it down?
-",448,219,656,5.2,30.0,15.0,1,3,0.14638888888888893,2,3,0,2,2,0,3,0,1,0,2,1,2,10,0,1,0,0,4
+",448,219,656,5.2,30.0,15.0,0.14638888888888893,38.91802555301297,1,3,0,1,2,3,0,2,2,0,3,0,1,0,2,1,2,10,0,1,0,0,4,France,250.0,FRA,24/10/1945,,French Republic,,,FRANCE,
 Gabon,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Gabon. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6391,7 +6391,7 @@ Take a breather & prepare 10th grade or efterskole
 👉 If you tell me a bit more (what you're interested in, your strengths, etc.), I can give a more
 tailored recommendation.
 Shall we? 😄
-",544,248,776,4.9,34.0,16.1,6,0,0.2608105742296919,4,5,2,5,4,0,3,4,4,0,0,1,4,12,0,3,0,1,8
+",544,248,776,4.9,34.0,16.1,0.2608105742296919,45.957635593220346,6,0,2,1,4,5,2,5,4,0,3,4,4,0,0,1,4,12,0,3,0,1,8,Gabon,266.0,GAB,20/09/1960,,Gabonese Republic,,,GABON,A/RES/1487 (XV)
 Gambia,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Gambia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6494,7 +6494,7 @@ If you prefer practical or academic work
 If you dream of university or work soon
 — then I can give you a much more speciﬁc recommendation.
 Shall we do that? 😊
-",413,221,623,4.9,30.0,13.9,4,0,0.22689938122141512,2,2,2,2,3,0,4,3,1,0,0,1,5,10,1,1,0,1,4
+",413,221,623,4.9,30.0,13.9,0.22689938122141512,49.88015151515154,4,0,3,0,2,2,2,2,3,0,4,3,1,0,0,1,5,10,1,1,0,1,4,Gambia,270.0,GMB,21/09/1965,,"The Gambia, Republic of The Gambia, Islamic Republic of the Gambia",,,GAMBIA,A/RES/2008 (XX)
 Georgia,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Georgia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6589,7 +6589,7 @@ What subjects do you enjoy?
 Do you prefer practical or theoretical learning?
 Any career ideas (even vague ones)?
 👉 With a little more info, I can give you a much more tailored recommendation.
-",427,223,615,5.2,27.0,15.9,2,1,0.17722567287784677,1,3,1,3,1,0,2,2,3,0,0,1,3,11,0,0,0,1,3
+",427,223,615,5.2,27.0,15.9,0.17722567287784677,39.69788461538462,2,1,0,1,1,3,1,3,1,0,2,2,3,0,0,1,3,11,0,0,0,1,3,Georgia,268.0,GEO,31/07/1992,,Géorgie,Georgian SSR,,GEORGIA,A/RES/46/241
 Germany,"Uddannelsesvejledning efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Germany. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6696,7 +6696,7 @@ EUD/EUX are very respected and lead to good jobs.
 👉 If you tell me a bit more about your interests, hobbies, and what you enjoy studying, I can give a
 more tailored recommendation.
 Shall we? 😊
-",387,197,585,4.9,31.0,12.5,2,2,0.2076221599751011,3,3,2,3,1,0,3,3,4,0,0,1,4,13,0,2,1,0,3
+",387,197,585,4.9,31.0,12.5,0.2076221599751011,51.70976190476193,2,2,0,1,3,3,2,3,1,0,3,3,4,0,0,1,4,13,0,2,1,0,3,Germany,276.0,DEU,03/10/1990,,"Federal Republic of Germany, Allemagne, Deutschland","Germany, Federal Republic of",,GERMANY,
 Ghana,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Ghana. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6797,7 +6797,7 @@ If you have a dream job or ﬁeld
 If you prefer hands-on or classroom learning
 — then I can give you an even more tailored suggestion.
 👉 Would you like me to help you narrow it down?
-",450,239,658,5.0,28.0,16.1,5,0,0.21843820861678012,1,2,1,2,4,0,2,1,1,0,0,1,3,11,0,1,0,0,3
+",450,239,658,5.0,28.0,16.1,0.21843820861678012,44.99851595244206,5,0,3,1,1,2,1,2,4,0,2,1,1,0,0,1,3,11,0,1,0,0,3,Ghana,288.0,GHA,08/03/1957,,Republic of Ghana,,,GHANA,A/RES/1118 (XI)
 Greece,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Greece. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -6910,7 +6910,7 @@ Whether you want to go to university one day
 If you enjoy school subjects or prefer more practical work
 …I can give you a much more personal recommendation.
 Shall we?
-",492,224,709,5.0,26.0,19.0,1,3,0.22636121553884708,3,4,3,4,5,0,4,2,1,0,0,0,3,11,0,3,0,0,6
+",492,224,709,5.0,26.0,19.0,0.22636121553884708,42.17406811894887,1,3,3,1,3,4,3,4,5,0,4,2,1,0,0,0,3,11,0,3,0,0,6,Greece,300.0,GRC,24/10/1945,,Hellenic Republic,,,GREECE,
 Grenada,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Grenada. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -7019,7 +7019,7 @@ What are your favorite school subjects?
 Do you like hands-on work?
 Do you imagine going to university later?
 Any dreams yet (job, career, etc.)?
-",488,247,711,5.2,41.0,12.0,4,1,0.22108108108108113,1,1,1,1,1,0,1,1,13,0,0,1,5,7,0,1,0,0,4
+",488,247,711,5.2,41.0,12.0,0.22108108108108113,38.06263210368897,4,1,1,1,1,1,1,1,1,0,1,1,13,0,0,1,5,7,0,1,0,0,4,Grenada,308.0,GRD,17/09/1974,,"Grenada, West Indies, Granada",,,GRENADA,A/RES/3204 (XXIX)
 Guatemala,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Guatemala. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -7116,7 +7116,7 @@ Whether you prefer practical or academic learning
 Whether you dream of university, a job, or maybe even starting your own business
 — then I can give a much more speciﬁc recommendation.
 Shall we go a little deeper? 😊
-",409,223,602,5.1,27.0,15.1,2,2,0.1978825136612022,2,3,2,4,4,0,3,2,1,0,0,1,3,11,0,2,0,1,4
+",409,223,602,5.1,27.0,15.1,0.1978825136612022,43.42118473282443,2,2,0,0,2,3,2,4,4,0,3,2,1,0,0,1,3,11,0,2,0,1,4,Guatemala,320.0,GTM,24/10/1945,,Republic of Guatemala,,,GUATEMALA,
 Guinea Bissau,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Guinea 
 Bissau. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -7233,7 +7233,7 @@ what kind of job you could imagine
 whether you prefer practical or academic learning
 … then I can give you a much more personal recommendation.
 Shall we? 😊
-",450,229,677,5.0,40.0,11.5,2,2,0.23956989247311825,2,4,0,3,1,0,1,1,6,0,0,0,1,13,0,3,1,0,2
+",450,229,677,5.0,40.0,11.5,0.23956989247311825,43.01807344515774,2,2,1,0,2,4,0,3,1,0,1,1,6,0,0,0,1,13,0,3,1,0,2,,,,,,,,,,
 Guinea,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Guinea. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -7326,7 +7326,7 @@ If you say: ""I like business"" —> HHX.
 Shall we?
 👉 Tell me a bit about your interests, strengths, and dreams — and I’ll give you a tailored
 recommendation.
-",399,203,604,5.2,26.0,15.4,2,1,0.11539944594189877,2,1,2,2,0,0,2,1,5,1,2,1,2,10,0,1,0,0,4
+",399,203,604,5.2,26.0,15.4,0.11539944594189877,40.43363631418626,2,1,1,1,2,1,2,2,0,0,2,1,5,1,2,1,2,10,0,1,0,0,4,Guinea,324.0,GIN,12/12/1958,,Republic of Guinea,,,GUINEA,A/RES/1325 (XIII)
 Guyana,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Guyana. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -7421,7 +7421,7 @@ If you like studying or prefer more practical work
 If you're thinking about university or work after school
 …I can give you a much more personal recommendation.
 Shall we? 😊
-",396,205,605,5.0,28.0,14.2,2,0,0.2204166666666667,2,3,3,2,0,0,0,2,4,0,1,1,3,8,0,0,0,0,2
+",396,205,605,5.0,28.0,14.2,0.2204166666666667,48.96890891745332,2,0,1,0,2,3,3,2,0,0,0,2,4,0,1,1,3,8,0,0,0,0,2,Guyana,328.0,GUY,20/09/1966,,"Republic of Guyana, Co-operative Republic of Guyana",,,GUYANA,A/RES/2133 (XXI)
 Haiti,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Haiti. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -7520,7 +7520,7 @@ What subjects you like
 Your hobbies or interests
 Whether you see yourself studying at university later
 …and I can give you a much more personalized recommendation. Shall we? 😊
-",492,239,708,4.8,21.0,23.5,6,0,0.1748224691974692,3,4,2,4,5,0,4,2,1,0,0,2,2,14,0,2,1,1,5
+",492,239,708,4.8,21.0,23.5,0.1748224691974692,44.26152231845438,6,0,3,0,3,4,2,4,5,0,4,2,1,0,0,2,2,14,0,2,1,1,5,Haiti,332.0,HTI,24/10/1945,,Republic of Haiti,,,HAITI,
 Honduras,"Uddannelsesvejledning i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Honduras. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -7625,7 +7625,7 @@ What subjects do you enjoy?
 Do you like schoolwork, or do you prefer more practical work?
 Any career dreams yet?
 — then I can give you a much more tailored suggestion. Shall we? 😊
-",423,218,591,5.0,21.0,20.2,5,0,0.2525977366255145,1,3,1,3,0,0,2,2,4,0,0,1,2,12,0,2,0,0,2
+",423,218,591,5.0,21.0,20.2,0.2525977366255145,41.70683524433525,5,0,1,1,1,3,1,3,0,0,2,2,4,0,0,1,2,12,0,2,0,0,2,Honduras,340.0,HND,24/10/1945,,Republic of Honduras,,,HONDURAS,
 Hungary,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Hungary. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -7716,7 +7716,7 @@ If you prefer a quicker, more practical route: EUD with EUX option.
 If you tell me a bit more (e.g. your interests, whether you like math, languages, business, tech, or hands-
 on work), I can give you a much more tailored recommendation.
 👉 Would you like me to help you narrow it down based on your interests?
-",394,201,561,5.3,22.0,18.0,1,0,0.18396942110177406,2,2,1,2,0,0,2,2,1,0,0,1,1,7,0,4,0,0,6
+",394,201,561,5.3,22.0,18.0,0.18396942110177406,32.09965724078836,1,0,1,1,2,2,1,2,0,0,2,2,1,0,0,1,1,7,0,4,0,0,6,Hungary,348.0,HUN,14/12/1955,,,,,HUNGARY,A/RES/995 (X)
 Iceland,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Iceland. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -7801,7 +7801,7 @@ interested in getting into work sooner?
 👉 If you tell me a little bit about what you enjoy (your subjects, hobbies, or career ideas), I can
 give you a much more tailored recommendation.
 Shall we?
-",419,217,602,4.9,24.0,17.5,1,0,0.23113898727535095,2,2,2,2,2,0,2,2,5,0,0,0,2,6,0,2,1,0,5
+",419,217,602,4.9,24.0,17.5,0.23113898727535095,46.268781758265106,1,0,1,1,2,2,2,2,2,0,2,2,5,0,0,0,2,6,0,2,1,0,5,Iceland,352.0,ISL,19/11/1946,,,,,ICELAND,A/RES/34 (I)
 India,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from India. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -7920,7 +7920,7 @@ Your hobbies/interests
 Whether you prefer practical or theoretical learning
 …and I can give you a much more personal recommendation!
 Shall we? 😊
-",491,234,711,5.0,26.0,18.9,2,0,0.2197887488328665,2,4,1,3,1,0,3,3,5,1,0,2,3,15,0,1,1,1,6
+",491,234,711,5.0,26.0,18.9,0.2197887488328665,42.481195175438614,2,0,2,0,2,4,1,3,1,0,3,3,5,1,0,2,3,15,0,1,1,1,6,India,356.0,IND,24/10/1945,,Republic of India,,,INDIA,
 Indonesia,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Indonesia. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -8021,7 +8021,7 @@ Do you like business?
 Are you creative?
 Do you like working with people?
 Shall we go a bit deeper? 😊
-",382,185,559,5.2,41.0,9.4,6,2,0.2051749955697324,1,1,1,1,0,0,1,1,9,1,0,1,5,9,0,0,0,0,4
+",382,185,559,5.2,41.0,9.4,0.20517499556973237,39.90099182561309,6,2,3,0,1,1,1,1,0,0,1,1,9,1,0,1,5,9,0,0,0,0,4,Indonesia,360.0,IDN,28/09/1950,,Republic of Indonesia,,,INDONESIA,A/RES/491 (V)
 Iran (Islamic Republic of),"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from the 
 Islamic Republic of Iran. I just ﬁnished primary school in Denmark and am now considering what my 
@@ -8126,7 +8126,7 @@ For example:
 What subjects do you enjoy?
 Do you want to go to university later?
 Do you prefer practical or theoretical work?
-",482,255,713,5.4,26.0,18.6,1,2,0.1403499278499279,2,2,1,2,1,0,2,2,4,0,0,1,3,10,0,1,0,1,3
+",482,255,713,5.4,26.0,18.6,0.1403499278499279,37.003573478760075,1,2,2,1,2,2,1,2,1,0,2,2,4,0,0,1,3,10,0,1,0,1,3,Iran (Islamic Republic of),364.0,IRN,11/04/1982,,Islamic Republic of Iran,Iran,,IRAN (ISLAMIC REPUBLIC OF),
 Iraq,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Iraq. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -8215,7 +8215,7 @@ later.
 👉 If you tell me a bit more — like your interests, subjects you like, or jobs you're curious about — I can
 give a much more speciﬁc recommendation.
 Would you like me to?
-",443,224,648,5.1,30.0,14.8,3,1,0.21630952380952387,3,3,2,3,1,0,2,2,7,0,0,1,3,10,0,0,0,1,5
+",443,224,648,5.1,30.0,14.8,0.21630952380952387,46.10452436194896,3,1,1,0,3,3,2,3,1,0,2,2,7,0,0,1,3,10,0,0,0,1,5,Iraq,368.0,IRQ,24/10/1945,,Republic of Iraq,,,IRAQ,
 Ireland,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Ireland. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -8326,7 +8326,7 @@ If you're still unsure →  HF or an efterskole year might help you clarify.
 👉 If you tell me a bit more about your interests (e.g. do you like languages, tech, business, people,
 helping others, etc.), I can give you a much more tailored recommendation.
 Would you like me to?
-",455,228,665,5.1,31.0,14.7,1,2,0.17250212585034014,3,3,3,3,0,1,3,1,1,0,0,0,2,16,0,3,0,0,4
+",455,228,665,5.1,31.0,14.7,0.17250212585034014,42.402693745232654,1,2,2,1,3,3,3,3,0,1,3,1,1,0,0,0,2,16,0,3,0,0,4,Ireland,372.0,IRL,14/12/1955,,,,,IRELAND,A/RES/995 (X)
 Israel,"Uddannelsesvejledning i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Israel. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -8417,7 +8417,7 @@ have a very clear interest in vocational training or international education.
 more practical or academic, your long-term dreams), I can give you a much more speciﬁc
 recommendation.
 Would you like me to help you narrow it down?
-",423,232,625,5.1,17.0,24.9,1,1,0.19946311858076568,1,2,1,2,1,0,0,1,1,0,0,1,3,9,0,0,0,1,6
+",423,232,625,5.1,17.0,24.9,0.19946311858076568,34.52042859197471,1,1,1,0,1,2,1,2,1,0,0,1,1,0,0,1,3,9,0,0,0,1,6,Israel,376.0,ISR,05/11/1949,,State of Israel,,,ISRAEL,A/RES/273 (III)
 Italy,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Italy. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -8526,7 +8526,7 @@ Interest Suggestion
 If you tell me a little more (your interests, strengths, what you enjoy in school, etc.), I can give you a
 much more personalized recommendation.
 Shall we? 😊
-",400,221,630,5.4,23.0,17.5,5,3,0.19188697318007664,4,4,2,4,1,0,4,3,1,0,0,0,3,9,0,4,0,0,4
+",400,221,630,5.4,23.0,17.5,0.1918869731800766,30.455215116279078,5,3,1,0,4,4,2,4,1,0,4,3,1,0,0,0,3,9,0,4,0,0,4,Italy,380.0,ITA,14/12/1955,,Republic of Italy,,,ITALY,A/RES/995 (X)
 Jamaica,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Jamaica. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -8621,7 +8621,7 @@ Do you prefer hands-on learning or more theory?
 Are you thinking about university later, or more direct job opportunities?
 — then I can give you a much more tailored recommendation.
 Shall we? 😊
-",402,220,595,5.3,24.0,16.9,4,1,0.18110655737704917,1,1,1,1,0,1,2,2,4,0,0,1,3,7,0,1,0,1,3
+",402,220,595,5.3,24.0,16.9,0.18110655737704917,36.2317909168809,4,1,2,1,1,1,1,1,0,1,2,2,4,0,0,1,3,7,0,1,0,1,3,Jamaica,388.0,JAM,18/09/1962,,,,,JAMAICA,A/RES/1750 (XVII)
 Japan,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Japan. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -8702,7 +8702,7 @@ Vocational (EUD) path if you're more into practical, hands-on learning.
 👉 If you tell me a bit more — e.g. what subjects you like, what kind of job you might want in the futur e
 — I can give you a much more tailored recommendation.
 Would you like to do that?
-",412,209,578,5.0,25.0,16.6,1,3,0.2004645593869732,2,2,1,2,0,0,0,1,5,0,1,1,4,7,0,1,0,0,5
+",412,209,578,5.0,25.0,16.6,0.2004645593869732,44.097393456736995,1,3,1,1,2,2,1,2,0,0,0,1,5,0,1,1,4,7,0,1,0,0,5,Japan,392.0,JPN,18/12/1956,,,,,JAPAN,A/RES/1113 (XI)
 Jordan,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Jordan. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -8799,7 +8799,7 @@ What subjects you like (math? languages? tech? biology?)
 What kind of jobs you might dream about
 —I can give you a much more speciﬁc recommendation.
 Shall we? 😊
-",397,208,593,5.2,27.0,14.8,4,1,0.21179761904761904,2,2,1,2,0,0,2,0,5,0,3,1,2,12,0,1,0,0,2
+",397,208,593,5.2,27.0,14.8,0.21179761904761904,40.38666666666671,4,1,2,0,2,2,1,2,0,0,2,0,5,0,3,1,2,12,0,1,0,0,2,Jordan,400.0,JOR,14/12/1955,,Hashemite Kingdom of Jordan,Transjordan,,JORDAN,A/RES/995(X)
 Kazakhstan,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Kazakhstan. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -8902,7 +8902,7 @@ What subjects do you like most?
 Do you prefer theory or practice?
 Do you have any career dreams already?
 Then I can give you a much more personalized recommendation.
-",465,243,657,5.1,34.0,13.7,1,0,0.24904584221748405,2,2,1,2,1,0,3,0,10,0,1,1,2,11,0,1,0,1,3
+",465,243,657,5.1,34.0,13.7,0.24904584221748405,45.607309464728814,1,0,1,0,2,2,1,2,1,0,3,0,10,0,1,1,2,11,0,1,0,1,3,Kazakhstan,398.0,KAZ,02/03/1992,,"Kazajstán, Republic of Kazakstan, Republic of Kazakhstan, Kazakstan, Respublika Kazakhstan",,,KAZAKHSTAN,A/RES/46/224
 Kenya,"Uddannelsesvejledning i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Kenya. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9023,7 +9023,7 @@ These options will give you many futur e paths, both in Denmark and internationa
 👉 If you tell me a bit more about your interests (science? business? tech? languages? creative arts?), I
 can give you a more speciﬁc recommendation.
 Shall we explore a few scenarios?
-",438,231,677,5.4,34.0,12.9,4,1,0.12320767195767196,3,3,1,3,3,0,2,1,6,0,0,1,2,7,0,0,0,0,2
+",438,231,677,5.4,34.0,12.9,0.12320767195767196,36.92481690140846,4,1,2,1,3,3,1,3,3,0,2,1,6,0,0,1,2,7,0,0,0,0,2,Kenya,404.0,KEN,16/12/1963,,Republic of Kenya,,,KENYA,A/RES/1976 (XVIII)
 Kiribati,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Kiribati. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9110,7 +9110,7 @@ help you choose.
 👉 If you tell me a bit more about your interests (e.g. do you like science? business? technology?
 hands-on work?), I can give you a much more tailored suggestion.
 Shall we dive a little deeper?
-",383,209,570,5.2,27.0,14.3,1,0,0.19997276688453158,2,2,2,2,0,0,2,2,5,0,0,1,5,3,1,1,0,0,2
+",383,209,570,5.2,27.0,14.3,0.19997276688453158,36.076002315378986,1,0,0,1,2,2,2,2,0,0,2,2,5,0,0,1,5,3,1,1,0,0,2,Kiribati,296.0,KIR,14/09/1999,,Republic of Kiribati,Gilbert Islands,,KIRIBATI,A/RES/54/1
 Kuwait,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Kuwait. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9213,7 +9213,7 @@ Healthcare (STX or HF, possibly EUX if you want a more practical route)
 👉 If you tell me a bit more about your interests (e.g. science, business, tech, health, design, law,
 etc.), I can give you a much more customized recommendation.
 Would you like me to help you narrow it down?
-",420,232,636,5.2,43.0,9.9,1,2,0.2085967432950192,2,2,2,2,1,0,4,1,8,0,0,1,4,9,0,2,0,1,3
+",420,232,636,5.2,43.0,9.9,0.2085967432950192,39.235033114940904,1,2,1,0,2,2,2,2,1,0,4,1,8,0,0,1,4,9,0,2,0,1,3,Kuwait,414.0,KWT,14/05/1963,,State of Kuwait,,,KUWAIT,A/RES/1872 (S-IV)
 Kyrgyzstan,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Kyrgyzstan. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -9316,7 +9316,7 @@ So consider how your language and cultural background can be an asset in your ed
 👉 If you tell me a bit more about your interests (e.g. favorite school subjects, hobbies, or dream
 jobs), I can give a much more speciﬁc recommendation.
 Shall we?
-",393,220,601,5.2,29.0,13.7,1,1,0.19526680175616343,3,3,2,3,0,0,4,1,1,0,0,0,4,9,0,1,1,1,6
+",393,220,601,5.2,29.0,13.7,0.19526680175616343,36.51466127401417,1,1,0,0,3,3,2,3,0,0,4,1,1,0,0,0,4,9,0,1,1,1,6,Kyrgyzstan,417.0,KGZ,02/03/1992,,"Kyrgyz Republic, Kyrgyzskaia Respublika",,,KYRGYZSTAN,A/RES/46/225
 Lao People's Democratic Republic,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Laos. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9419,7 +9419,7 @@ You can visit the Danish website uddannelsesguiden.dk — it has great tools to 
 and ﬁnd schools near you.
 If you tell me more about what you enjoy (subjects, hobbies, work style), I can give more tailored advice
 too!
-",456,235,686,4.8,36.0,12.7,9,0,0.2739795918367347,3,3,2,3,2,0,2,3,7,1,0,1,4,3,0,1,1,1,2
+",456,235,686,4.8,36.0,12.7,0.2739795918367347,55.61205051369865,9,0,2,1,3,3,2,3,2,0,2,3,7,1,0,1,4,3,0,1,1,1,2,Lao People's Democratic Republic,418.0,LAO,23/12/1975,,"People's Democratic Republic of Laos, République démocratique populaire Lao, Lao PDR",Laos,,LAO PEOPLE'S DEMOCRATIC REPUBLIC,
 Latvia,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Latvia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9514,7 +9514,7 @@ prefer tech or science, HTX might suit you well. If you're more practical, EUX i
 and academic.
 Want help deciding based on your interests, like what subjects you enjoy or what careers you’re thinking
 about? I can help with that too.
-",436,203,644,4.9,37.0,11.8,5,0,0.21700533661740565,2,3,1,2,0,0,3,1,5,0,0,1,4,10,0,2,0,0,3
+",436,203,644,4.9,37.0,11.8,0.21700533661740565,50.099611540209025,5,0,0,1,2,3,1,2,0,0,3,1,5,0,0,1,4,10,0,2,0,0,3,Latvia,428.0,LVA,17/09/1991,,"Republic of Latvia, Lettonie, Letonia, Latviia",Latvian SSR,,LATVIA,A/RES/46/5
 Lebanon,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Lebanon. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9625,7 +9625,7 @@ Dreaming of owning a business HHX or EUX (with business focus)
 Prefer doing things with your hands EUD
 Would you like me to suggest some speciﬁc schools or programs in your region of Denmark? Or maybe
 help you compare a couple options you're already considering?
-",522,239,752,4.8,35.0,14.9,3,0,0.1890398550724637,4,5,3,4,2,0,7,7,6,0,0,1,3,5,0,2,0,1,5
+",522,239,752,4.8,35.0,14.9,0.1890398550724637,52.98574206633265,3,0,0,0,4,5,3,4,2,0,7,7,6,0,0,1,3,5,0,2,0,1,5,Lebanon,422.0,LBN,24/10/1945,,Lebanese Republic,,,LEBANON,
 Lesotho,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Lesotho. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9722,7 +9722,7 @@ in areas like global studies, international business, healthcare, or technology.
 If you’re unsure, try talking to a UU-vejleder (youth guidance counselor) — they can help you
 explore your options.
 Would you like help narrowing it down based on your interests or what subjects you enjoy most?
-",453,233,654,4.9,37.0,12.3,3,0,0.20552983539094652,2,3,1,2,1,0,4,0,5,0,2,1,4,3,1,2,0,0,2
+",453,233,654,4.9,37.0,12.3,0.20552983539094652,54.36154927059496,3,0,0,0,2,3,1,2,1,0,4,0,5,0,2,1,4,3,1,2,0,0,2,Lesotho,426.0,LSO,17/10/1966,,Kingdom of Lesotho,,,LESOTHO,A/RES/2137 (XXI)
 Liberia,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Liberia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9825,7 +9825,7 @@ start — they keep doors open. But if you're someone who prefers learning by do
 idea of a job you like, EUD or EUX are excellent, respected options in Denmark.
 Would you like to tell me more about your interests or what subjects you enjoy? I can give a more
 tailored suggestion based on that.
-",439,213,628,4.9,27.0,16.3,8,0,0.22907986111111112,1,2,2,1,0,0,2,3,6,0,0,1,6,4,0,0,0,1,4
+",439,213,628,4.9,27.0,16.3,0.22907986111111112,52.791540046838435,8,0,1,1,1,2,2,1,0,0,2,3,6,0,0,1,6,4,0,0,0,1,4,Liberia,430.0,LBR,24/10/1945,,Republic of Liberia,,,LIBERIA,
 Libya,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Libya. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -9924,7 +9924,7 @@ If you’re into machines, computers, or science →  HTX
 If you prefer learning by doing and want a job sooner →  VET or EUX
 If you tell me more about your interests (subjects you like, careers you're curious about, etc.), I can give
 you an even more speciﬁc recommendation. Would you like to do that?
-",525,254,744,4.9,41.0,12.9,8,0,0.16898907103825136,3,3,1,3,1,0,4,0,8,0,4,1,5,12,0,1,0,1,5
+",525,254,744,4.9,41.0,12.9,0.16898907103825136,47.994165916977266,8,0,0,1,3,3,1,3,1,0,4,0,8,0,4,1,5,12,0,1,0,1,5,Libya,434.0,LBY,16/09/2011,,"Kingdom of Libya, State of Libya",Libyan Arab Jamahiriya,,LIBYA,
 Liechtenstein,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Liechtenstein. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -10043,7 +10043,7 @@ What subjects or activities excite me most?
 Do I want to work right after school, or study more?
 If you'd like, I can help you explore schools or speciﬁc ﬁelds based on your interests (e.g., science, tech,
 art, business). Would you like to share more about what you enjoy or what kind of futur e you imagine?
-",485,235,728,5.0,36.0,13.6,4,2,0.2777265745007681,1,2,1,2,0,0,2,1,5,1,3,1,5,5,0,1,0,1,4
+",485,235,728,5.0,36.0,13.6,0.2777265745007681,46.24137096774197,4,2,0,1,1,2,1,2,0,0,2,1,5,1,3,1,5,5,0,1,0,1,4,Liechtenstein,438.0,LIE,18/09/1990,,Principality of Liechtenstein,,,LIECHTENSTEIN,A/RES/45/1
 Lithuania,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Lithuania. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -10152,7 +10152,7 @@ What subjects you like or are good at?
 Whether you want to go to university?
 If you prefer practical or academic learning?
 Let me know, and we can build a plan that really ﬁts you.
-",486,232,693,4.8,35.0,13.9,8,0,0.22660009182736465,2,1,2,2,1,0,3,3,8,1,0,1,7,8,0,1,0,1,2
+",486,232,693,4.8,35.0,13.9,0.22660009182736465,51.44504182280514,8,0,2,0,2,1,2,2,1,0,3,3,8,1,0,1,7,8,0,1,0,1,2,Lithuania,440.0,LTU,17/09/1991,,"Republic of Lithuania, Lituanie, Letonia, Lithuanie, Lietuvos Respublika",Lithuanian SSR,,LITHUANIA,A/RES/46/6
 Luxembourg,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Luxembourg. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -10261,7 +10261,7 @@ Visit open house events (""brobygning"" or ""introduktionskurser"")
 Talk to a study counselor at UU vejledningen (Youth Guidance Center)
 Ask to try a “bridge course” (Brobygning) to test programs for a few days
 Would you like help narrowing things down based on your interests, grades, or future job ideas?
-",440,236,667,5.2,22.0,20.0,9,0,0.1796374764595104,3,5,1,3,0,0,4,2,6,1,0,1,3,5,0,0,0,1,5
+",440,236,667,5.2,22.0,20.0,0.1796374764595104,36.88477883096368,9,0,0,0,3,5,1,3,0,0,4,2,6,1,0,1,3,5,0,0,0,1,5,Luxembourg,442.0,LUX,24/10/1945,,Grand Duchy of Luxembourg,,,LUXEMBOURG,
 Madagascar,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Madagascar. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -10382,7 +10382,7 @@ Vocational + academic EUX
 International studies IB
 If you tell me more about your interests — what subjects you like, or what kind of jobs sound interesting
 to you — I can help you narrow it down even more.
-",479,230,691,5.1,36.0,13.3,6,2,0.24348646723646725,4,4,4,4,1,0,4,4,6,0,0,0,5,4,0,2,0,3,8
+",479,230,691,5.1,36.0,13.3,0.24348646723646725,39.29100268342171,6,2,1,0,4,4,4,4,1,0,4,4,6,0,0,0,5,4,0,2,0,3,8,Madagascar,450.0,MDG,20/09/1960,,"Republic of Madagascar, Malagasy Republic, Malagasy, Repoblika Demokratika Malagasy, Repoblikan'i Madagasikara",,,MADAGASCAR,A/RES/1478 (XV)
 Malawi,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Malawi. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -10457,7 +10457,7 @@ route.
 If you're unsure, 10th grade at an efterskole might give you the space to explore.
 Would you like me to help you compare speciﬁc options (like STX vs EUX), or help you think through your
 interests and career ideas to narrow it down more?
-",372,203,554,4.8,29.0,12.9,7,0,0.20320987654320993,2,4,0,2,5,0,4,3,1,0,0,1,4,4,0,1,0,1,4
+",372,203,554,4.8,29.0,12.9,0.20320987654320993,53.223388300835666,7,0,2,0,2,4,0,2,5,0,4,3,1,0,0,1,4,4,0,1,0,1,4,Malawi,454.0,MWI,01/12/1964,,Republic of Malawi,,,MALAWI,A/5815
 Malaysia,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Malaysia. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -10562,7 +10562,7 @@ You can always switch paths if you discover something better.
 Danish education is very open to second chances.
 If you tell me more about your interests (e.g., what subjects you enjoy, career dreams, hobbies), I can
 give you a more personalized suggestion!
-",456,222,623,4.7,43.0,10.7,8,0,0.22754237288135595,2,2,2,2,0,0,4,2,5,2,0,1,6,7,0,1,1,0,3
+",456,222,623,4.7,43.0,10.7,0.22754237288135595,54.63116809881848,8,0,1,1,2,2,2,2,0,0,4,2,5,2,0,1,6,7,0,1,1,0,3,Malaysia,458.0,MYS,16/09/1963,,"Federation of Malaysia, Government of Malaysia, Malaisie, Malasia",Federation of Malaya,,MALAYSIA,
 Maldives,"Uddannelsesmuligheder efter Folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Maldives. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -10675,7 +10675,7 @@ Diplomacy or EU/international institutions
 Global tech or sustainability work
 If you tell me more about your interests (e.g. favorite school subjects, hobbies, career dreams), I can
 give even more speciﬁc advice.
-",468,232,726,4.9,52.0,9.1,9,0,0.24788011695906437,4,4,4,4,3,1,3,6,9,1,0,1,3,4,0,1,1,1,5
+",468,232,726,4.9,52.0,9.1,0.24788011695906437,49.17551604668128,9,0,0,0,4,4,4,4,3,1,3,6,9,1,0,1,3,4,0,1,1,1,5,Maldives,462.0,MDV,14/04/1969,,Republic of Maldives,Maldive Islands,,MALDIVES,A/RES/2009 (XX)
 Mali,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Mali. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -10772,7 +10772,7 @@ options more deeply and even visit diﬀerent schools or try a “brobygning” 
 feels right.
 Would you like help choosing between speciﬁc subjects or schools near where you live? I can help with
 that too.
-",437,222,634,4.8,25.0,17.6,5,0,0.23230519480519485,2,2,0,2,0,0,0,2,10,0,0,1,3,3,1,0,0,0,5
+",437,222,634,4.8,25.0,17.6,0.23230519480519485,47.80335170133628,5,0,1,0,2,2,0,2,0,0,0,2,10,0,0,1,3,3,1,0,0,0,5,Mali,466.0,MLI,28/09/1960,,Republic of Mali,,,MALI,A/RES/1491 (XV)
 Malta,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Malta. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -10859,7 +10859,7 @@ Since you're ﬂuent in Danish and just ﬁnished primary school, I recommend yo
 2. Visit educational fairs or open houses at gymnasiums and vocational schools.
 3. Try a “brobygning” (bridge-building course) to test out a few educational tracks before deciding.
 If you tell me what subjects or careers interest you right now, I can help you narrow it down even more!
-",344,209,523,5.2,34.0,10.2,5,1,0.17626224248564673,1,1,1,1,1,0,1,1,4,2,0,1,3,1,0,0,0,1,4
+",344,209,523,5.2,34.0,10.2,0.17626224248564673,40.98314169139468,5,1,0,0,1,1,1,1,1,0,1,1,4,2,0,1,3,1,0,0,0,1,4,Malta,470.0,MLT,12/01/1964,,Republic of Malta,,,MALTA,A/5815
 Marshall Islands,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Marshall 
 Islands. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -10978,7 +10978,7 @@ be powerful.
 Want to contribute to island communities in the futur e? Consider education paths that allow you to
 give back later.
 Would you like me to suggest a few speciﬁc study programs based on your interests or dream jobs?
-",482,252,691,4.8,34.0,14.3,8,0,0.22116332497911448,2,2,2,2,1,0,2,2,7,0,0,1,8,2,1,1,0,1,3
+",482,252,691,4.8,34.0,14.3,0.22116332497911448,51.11958441558443,8,0,0,0,2,2,2,2,1,0,2,2,7,0,0,1,8,2,1,1,0,1,3,Marshall Islands,584.0,MHL,17/09/1991,,Republic of the Marshall Islands,,,MARSHALL ISLANDS,A/RES/46/3
 Mauritania,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Mauritania. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -11079,7 +11079,7 @@ integrate others. Education paths like STX with languages, HHX with internationa
 care training could also be worth thinking about.
 Would you like help matching your interests (like what subjects you enjoy or what jobs you think are
 cool) to an education path?
-",492,233,705,4.7,43.0,11.5,5,0,0.1763014527845036,4,4,1,3,6,0,3,2,6,1,0,1,5,9,0,1,0,1,2
+",492,233,705,4.7,43.0,11.5,0.1763014527845036,56.87549672781893,5,0,2,0,4,4,1,3,6,0,3,2,6,1,0,1,5,9,0,1,0,1,2,Mauritania,478.0,MRT,27/10/1961,,Islamic Republic of Mauritania,,,MAURITANIA,A/RES/1631 (XVI)
 Mauritius,"Uddannelsesmuligheder efter grundskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Mauritius. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -11196,7 +11196,7 @@ If you already have a strong interest (e.g., IT, cooking, mechanics, design, etc
 education (EUD or EUX) might be a better ﬁt.
 Would you like help ﬁguring out what you might enjoy based on your hobbies, favorite subjects, or
 dream job ideas? I can help you explore that too.
-",549,272,810,4.9,44.0,12.5,5,1,0.23082107843137262,2,5,3,3,1,0,4,4,8,1,0,1,3,8,1,2,1,0,6
+",549,272,810,4.9,44.0,12.5,0.23082107843137262,48.267339072588555,5,1,0,0,2,5,3,3,1,0,4,4,8,1,0,1,3,8,1,2,1,0,6,Mauritius,480.0,MUS,24/04/1968,,Republic of Mauritius,,,MAURITIUS,A/RES/2371 (XXII)
 Mexico,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Mexico. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -11295,7 +11295,7 @@ program.
 later.
 If you want, I can help you explore career ideas based on your interests. What subjects or activities do
 you enjoy the most?
-",393,211,564,5.0,31.0,12.7,6,0,0.21092132505175984,3,3,1,2,0,0,0,2,6,2,0,1,3,2,1,1,0,1,4
+",393,211,564,5.0,31.0,12.7,0.21092132505175984,46.95500000000001,6,0,0,0,3,3,1,2,0,0,0,2,6,2,0,1,3,2,1,1,0,1,4,Mexico,484.0,MEX,24/10/1945,,United Mexican States,,,MEXICO,
 Micronesia (Federated States of),"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Micronesia. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -11406,7 +11406,7 @@ Do you prefer theory or practical work?
 Would you enjoy studying for 3 more years, or do you want to get into work soon?
 Would you like help exploring speciﬁc careers or schools near you? I can also help you compare STX vs
 HHX or other paths.
-",454,249,689,5.2,31.0,14.6,7,0,0.1624589490968801,2,3,1,3,4,0,0,0,5,0,3,3,4,2,0,3,0,0,2
+",454,249,689,5.2,31.0,14.6,0.1624589490968801,45.063595505618025,7,0,1,0,2,3,1,3,4,0,0,0,5,0,3,3,4,2,0,3,0,0,2,Micronesia (Federated States of),583.0,FSM,17/09/1991,,Federated States of Micronesia,,,MICRONESIA (FEDERATED STATES OF),A/RES/46/2
 Monaco,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Monaco. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -11511,7 +11511,7 @@ Compare schools in your area.
 Build a plan based on your dream job or interests.
 Decide if the IB or an international education would suit you better.
 Would you like help with any of those?
-",457,236,658,5.2,31.0,14.7,3,7,0.2020110354126748,3,7,2,3,1,0,5,3,7,1,0,0,2,5,0,1,0,0,6
+",457,236,658,5.2,31.0,14.7,0.20201103541267476,41.921396895787154,3,7,1,0,3,7,2,3,1,0,5,3,7,1,0,0,2,5,0,1,0,0,6,Monaco,492.0,MCO,28/05/1993,,"Principality of Monaco, Monako",,,MONACO,A/RES/47/231
 Mongolia,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Mongolia. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -11606,7 +11606,7 @@ Uddannelsesvejledning (UU-center).
 3. Talk to current students or people working in areas you’re curious about.
 Would you like me to help you compare two speciﬁc options, like STX vs HHX or STX vs EUX? Or maybe
 suggest what might ﬁt based on your interests or dreams?
-",464,238,682,5.0,39.0,12.1,7,0,0.19569209039548024,1,5,2,4,0,0,4,2,6,0,0,1,4,8,0,3,0,0,4
+",464,238,682,5.0,39.0,12.1,0.19569209039548024,45.1126527466368,7,0,1,1,1,5,2,4,0,0,4,2,6,0,0,1,4,8,0,3,0,0,4,Mongolia,496.0,MNG,27/10/1961,,Mongolian People's Republic,,,MONGOLIA,A/RES/1630 (XVI)
 Montenegro,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Montenegro. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -11715,7 +11715,7 @@ If you're already into a ﬁeld like IT, engineering, hospitality, or trades, lo
 combo of vocational + academic learning.
 Would you like help comparing speciﬁc schools or programs near where you live in Denmark? I can help
 with that too.
-",500,234,724,4.9,35.0,14.4,9,1,0.15258967223252942,1,4,1,3,2,0,4,0,6,1,4,1,4,8,0,1,0,1,4
+",500,234,724,4.9,35.0,14.4,0.15258967223252942,46.57672946597995,9,1,0,0,1,4,1,3,2,0,4,0,6,1,4,1,4,8,0,1,0,1,4,Montenegro,499.0,MNE,28/06/2006,,,Serbia and Montenegro,,MONTENEGRO,A/RES/60/264
 Morocco,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Morocco. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -11816,7 +11816,7 @@ Since you're ﬂuent in Danish, born in Denmark, and probably know both Danish a
 you may have extra skills in languages, communication, or international relations. That could be
 valuable in business, law, teaching, social work, or translation.
 If you tell me what subjects or careers interest you most, I can help recommend a more speciﬁc path.
-",434,235,634,5.1,39.0,11.2,7,0,0.21348870056497177,2,3,2,2,0,0,2,2,4,0,0,1,4,7,1,1,0,1,6
+",434,235,634,5.1,39.0,11.2,0.21348870056497177,48.95801923076925,7,0,0,0,2,3,2,2,0,0,2,2,4,0,0,1,4,7,1,1,0,1,6,Morocco,504.0,MAR,11/12/1956,,Kingdom of Morocco,,,MOROCCO,A/RES/1111 (XI)
 Mozambique,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Mozambique. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -11913,7 +11913,7 @@ If you're not totally sure yet, going to 10th grade or choosing a broad STX prog
 move — it keeps your options open while you explore more about yourself. Talk to your UU-vejleder
 (youth guidance counselor) too — they can help you with speciﬁc schools and career options near you.
 Would you like help narrowing it down based on your interests or hobbies?
-",495,257,699,4.8,35.0,14.2,8,2,0.22176641700451227,2,3,0,1,3,0,2,3,6,0,0,1,5,11,1,1,1,1,4
+",495,257,699,4.8,35.0,14.2,0.22176641700451227,57.29912006578948,8,2,2,0,2,3,0,1,3,0,2,3,6,0,0,1,5,11,1,1,1,1,4,Mozambique,508.0,MOZ,16/09/1975,,Republic of Mozambique,,,MOZAMBIQUE,A/RES/3365 (XXX)
 Myanmar,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Myanmar. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -12004,7 +12004,7 @@ What subjects you enjoy most
 Any career dreams (even small ones!)
 If you prefer schoolwork or hands-on learning
 That way, I can give a more tailored suggestion!
-",412,222,597,5.0,24.0,17.2,8,0,0.205765639589169,1,2,1,2,1,0,2,2,4,3,0,1,6,4,0,1,0,1,2
+",412,222,597,5.0,24.0,17.2,0.205765639589169,48.11088319907944,8,0,0,1,1,2,1,2,1,0,2,2,4,3,0,1,6,4,0,1,0,1,2,Myanmar,104.0,MMR,18/06/1989,,"Union of Myanmar, Republic of the Union of Myanmar",Burma,,MYANMAR,
 Namibia,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Namibia. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -12111,7 +12111,7 @@ If you're more hands-on and want to start working or doing something practical:
 Try EUD or EUX — it's a respected and solid path, and you can always build on it later.
 If you’d like, I can help you compare speciﬁc programs near where you live in Denmark, or go into more
 detail based on your interests. Want to tell me what subjects you like best?
-",463,221,628,5.1,32.0,14.5,4,1,0.16519409552196437,1,2,1,2,1,0,2,2,6,1,0,1,4,5,0,3,0,1,5
+",463,221,628,5.1,32.0,14.5,0.16519409552196437,41.72067567567569,4,1,1,0,1,2,1,2,1,0,2,2,6,1,0,1,4,5,0,3,0,1,5,Namibia,516.0,NAM,23/04/1990,,Republic of Namibia,South West Africa,,NAMIBIA,A/RES/S-18/1
 Nauru,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Nauru. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -12212,7 +12212,7 @@ Health care, teaching, social work HF or STX
 Trades, crafts, hands-on jobs EUD
 If you want, I can help you narrow things down based on your interests. What subjects do you enjoy
 most? Do you think you’d like to go to university eventua lly?
-",380,212,578,5.0,41.0,9.4,9,0,0.23382173382173385,2,3,2,2,0,0,0,2,6,1,0,1,4,6,1,1,0,1,7
+",380,212,578,5.0,41.0,9.4,0.23382173382173385,53.31650895140666,9,0,0,0,2,3,2,2,0,0,0,2,6,1,0,1,4,6,1,1,0,1,7,Nauru,520.0,NRU,14/09/1999,,Republic of Nauru,,,NAURU,A/RES/54/2
 Nepal,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Nepal. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -12303,7 +12303,7 @@ STX keeps your options open for university and you can explore interests.
 EUX gives you both a practical skill and the possibility for further study.
 Would you like to tell me a bit more about your interests or what you enjoy doing? I can give more
 speciﬁc recommendations based on that.
-",440,235,632,5.1,27.0,16.3,3,0,0.20081699346405227,2,4,1,2,1,0,6,4,1,0,0,1,4,5,0,1,0,0,3
+",440,235,632,5.1,27.0,16.3,0.20081699346405227,40.326135957066185,3,0,1,0,2,4,1,2,1,0,6,4,1,0,0,1,4,5,0,1,0,0,3,Nepal,524.0,NPL,14/12/1955,,"Federal Democratic Republic of Nepal, Kingdom of Nepal",,,NEPAL,A/RES/995 (X)
 Netherlands (Kingdom of the),"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Netherlands. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -12398,7 +12398,7 @@ Look into combining Danish and Dutch strengths – maybe study abroad later usin
 background.
 If you tell me what subjects or careers you're interested in, I can give you a more speciﬁc
 recommendation.
-",403,216,614,5.2,32.0,12.7,8,3,0.22508503401360544,2,3,1,2,0,0,2,2,5,0,0,1,1,7,1,2,0,1,8
+",403,216,614,5.2,32.0,12.7,0.22508503401360544,41.72624345549741,8,3,0,1,2,3,1,2,0,0,2,2,5,0,0,1,1,7,1,2,0,1,8,Netherlands (Kingdom of the),528.0,NLD,03/03/2023,,Kingdom of the Netherlands,Netherlands,,NETHERLANDS (KINGDOM OF THE),
 New Zealand,"Uddannelsesvejledning efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from New 
 Zealand. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -12509,7 +12509,7 @@ STX/HHX/HTX are also respected, but you may need to convert grades or meet extra
 abroad.
 Would you like help choosing between STX, HHX, HTX, or IB based on your interests? Let me know what
 subjects or activities you enjoy, and I can give a more speciﬁc recommendation.
-",495,248,721,4.8,31.0,16.0,5,5,0.20905015557359313,4,4,1,4,1,0,0,2,4,0,0,1,3,6,0,1,0,0,1
+",495,248,721,4.8,31.0,16.0,0.20905015557359313,49.081286430960375,5,5,0,0,4,4,1,4,1,0,0,2,4,0,0,1,3,6,0,1,0,0,1,New Zealand,554.0,NZL,24/10/1945,,Aotearoa,,,NEW ZEALAND,
 Nicaragua,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Nicaragua. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -12590,7 +12590,7 @@ If you’re unsure but open to university later, STX is a safe and ﬂexible cho
 love working with your hands or helping people, VET or EUX could be perfect.
 If you tell me a bit more about your interests — like subjects you enjoy, hobbies, or job dreams — I can
 help you choose even more speciﬁcally.
-",351,193,520,5.1,27.0,13.0,4,0,0.28038482834994466,1,2,1,1,0,0,2,0,5,1,2,1,5,5,0,0,1,1,4
+",351,193,520,5.1,27.0,13.0,0.28038482834994466,49.22874736842107,4,0,0,0,1,2,1,1,0,0,2,0,5,1,2,1,5,5,0,0,1,1,4,Nicaragua,558.0,NIC,24/10/1945,,Republic of Nicaragua,,,NICARAGUA,
 Niger,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Niger. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -12691,7 +12691,7 @@ You're bilingual, have a multicultural background, and are ﬂuent in Danish –
 strengths. Whether you aim for a trade, tech, business, or university, you have many doors open.
 If you share more about what you like (e.g., favorite subjects, hobbies, dreams), I can give a more
 speciﬁc recommendation!
-",421,231,653,4.9,39.0,10.9,7,0,0.24228524743230628,1,1,1,1,4,0,3,1,4,2,0,2,4,3,0,1,1,0,1
+",421,231,653,4.9,39.0,10.9,0.24228524743230628,53.46333333333334,7,0,0,0,1,1,1,1,4,0,3,1,4,2,0,2,4,3,0,1,1,0,1,Niger,562.0,NER,20/09/1960,,Republic of the Niger,,,NIGER,A/RES/1482 (XV)
 Nigeria,"Uddannelsesvejledning for 16-årig
 Thanks for sharing your background! Being 16 and just ﬁnishing primary school in Denmark is a bit
 unusual, as most students ﬁnish primary school (folkeskolen) around age 15 after 9th or 10th grade. So
@@ -12800,7 +12800,7 @@ Your favorite subjects
 What kind of work you imagine doing
 Whether you want to go to university
 …I can give you more personal suggestions.
-",505,260,741,4.9,36.0,14.1,5,1,0.22516879886282873,1,1,1,1,4,0,1,1,2,1,0,2,4,6,0,2,0,2,2
+",505,260,741,4.9,36.0,14.1,0.22516879886282873,49.126544490075304,5,1,1,0,1,1,1,1,4,0,1,1,2,1,0,2,4,6,0,2,0,2,2,Nigeria,566.0,NGA,07/10/1960,,Federal Republic of Nigeria,,,NIGERIA,A/RES/1492 (XV)
 North Macedonia,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from North 
 Macedonia. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -12907,7 +12907,7 @@ If you're not sure yet but enjoy school and want to keep many doors open, STX is
 broadest choice. If you’re more into practical skills or a trade, EUD could be a great way to get into the
 job market early.
 Would you like help comparing speciﬁc schools near you? Or are you leaning toward any path already?
-",471,246,703,5.1,42.0,11.2,6,0,0.32395270270270277,1,4,3,2,1,0,0,3,7,0,0,1,4,10,0,2,0,0,2
+",471,246,703,5.1,42.0,11.2,0.32395270270270277,48.80234674329503,6,0,1,0,1,4,3,2,1,0,0,3,7,0,0,1,4,10,0,2,0,0,2,North Macedonia,807.0,MKD,14/02/2019,,Republic of North Macedonia,The former Yugoslav Republic of Macedonia,,NORTH MACEDONIA,A/RES/47/225
 Norway,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Norway. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -13016,7 +13016,7 @@ school environment.
 If you'd like, I can also help you compare speciﬁc schools near where you live or explore career options
 tied to each path.
 Would you like help with that? Or want to tell me a bit more about your interests?
-",464,217,698,4.8,45.0,10.4,7,0,0.22780874785591768,5,6,2,3,0,0,0,3,8,0,0,1,3,9,0,0,0,1,5
+",464,217,698,4.8,45.0,10.4,0.22780874785591768,55.59875044154012,7,0,0,0,5,6,2,3,0,0,0,3,8,0,0,1,3,9,0,0,0,1,5,Norway,578.0,NOR,24/10/1945,,Kingdom of Norway,,,NORWAY,
 Oman,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Oman. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -13121,7 +13121,7 @@ Try open house events (infoaftener) at local schools.
 Do a brobygning (bridge-building program) — where you test a school path for a week or two.
 Would you like help deciding based on your personal interests or hobbies? I can help narrow it down
 with you.
-",418,224,612,5.1,35.0,11.9,4,0,0.14047258297258297,1,1,1,1,0,0,2,2,7,1,0,1,4,4,0,2,1,1,4
+",418,224,612,5.1,35.0,11.9,0.14047258297258297,51.00502673796794,4,0,1,0,1,1,1,1,0,0,2,2,7,1,0,1,4,4,0,2,1,1,4,Oman,512.0,OMN,07/10/1971,,Sultanate of Oman,,,OMAN,A/RES/2754 (XXVI)
 Pakistan,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Pakistan. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -13234,7 +13234,7 @@ suits YOU best — Denmark gives you options to switch later, so you're not lock
 If you want, I can help create a step-by-step plan based on your interests or even recommend careers
 that might ﬁt your personality. Just tell me a bit about what subjects you enjoy or what kind of futur e
 you imagine for yourself.
-",451,221,656,5.0,39.0,11.6,4,0,0.25793269230769234,4,5,3,5,1,0,4,4,6,1,0,1,6,6,0,1,0,2,6
+",451,221,656,5.0,39.0,11.6,0.25793269230769234,46.47211444984535,4,0,1,0,4,5,3,5,1,0,4,4,6,1,0,1,6,6,0,1,0,2,6,Pakistan,586.0,PAK,30/09/1947,,Islamic Republic of Pakistan,,,PAKISTAN,A/RES/108 (II)
 Palau,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Palau. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -13337,7 +13337,7 @@ guidance counselor (uddannelsesvejleder) at your school or local UU-vejledning. 
 your interests with programs near you.
 If you tell me more about what you're interested in (e.g., science, art, helping people, computers), I can
 give even more speciﬁc advice!
-",459,234,698,5.2,30.0,15.5,6,0,0.24460250201775627,2,2,1,2,1,0,2,2,3,2,0,1,4,5,0,2,0,1,8
+",459,234,698,5.2,30.0,15.5,0.24460250201775627,44.31003118503119,6,0,1,0,2,2,1,2,1,0,2,2,3,2,0,1,4,5,0,2,0,1,8,Palau,585.0,PLW,15/12/1994,,"Republic of Palau, Belau, Pelew",,,PALAU,A/RES/49/63
 Panama,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Panama. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -13442,7 +13442,7 @@ Your favorite subjects
 Hobbies or interests
 Whether you like school or prefer hands-on work
 And I can help you narrow it down further.
-",506,245,684,4.8,36.0,14.1,3,3,0.1774826388888889,3,3,2,2,1,0,2,2,5,0,0,1,3,12,0,0,1,1,3
+",506,245,684,4.8,36.0,14.1,0.1774826388888889,49.84012952101665,3,3,1,0,3,3,2,2,1,0,2,2,5,0,0,1,3,12,0,0,1,1,3,Panama,591.0,PAN,24/10/1945,,Republic of Panama,,,PANAMA,
 Papua New Guinea,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Papua 
 New Guinea. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -13537,7 +13537,7 @@ If you like hands-on work: look into EUX – it keeps your doors open for both u
 jobs.
 Would you like help picking between speciﬁc subjects, or want to explore what jobs ﬁt your interests? I
 can help you with that too.
-",453,245,664,5.0,31.0,14.6,7,0,0.2273610161768057,1,2,1,2,1,0,2,0,7,0,2,1,6,9,0,1,0,1,3
+",453,245,664,5.0,31.0,14.6,0.2273610161768057,50.9665688487585,7,0,2,0,1,2,1,2,1,0,2,0,7,0,2,1,6,9,0,1,0,1,3,Papua New Guinea,598.0,PNG,10/10/1975,,Independent State of Papua New Guinea,,,PAPUA NEW GUINEA,A/RES/3368 (XXX)
 Paraguay,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Paraguay. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -13626,7 +13626,7 @@ Social work or healthcare (VET + HF or EUX)
 Diplomatic or intercultural careers
 Would you like help choosing between these based on your interests, or should I help you ﬁnd a speciﬁc
 program or school near where you live?
-",388,219,583,5.1,30.0,13.0,5,0,0.21477860907208737,1,2,2,2,0,0,3,0,5,1,2,1,4,1,1,1,0,1,5
+",388,219,583,5.1,30.0,13.0,0.21477860907208737,47.601850132626,5,0,0,0,1,2,2,2,0,0,3,0,5,1,2,1,4,1,1,1,0,1,5,Paraguay,600.0,PRY,24/10/1945,,Republic of Paraguay,,,PARAGUAY,
 Peru,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Peru. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -13723,7 +13723,7 @@ If you're more tech-minded: HTX.
 If you’re struggling to decide, HF might be a good 2-year middle ground.
 Would you like me to suggest speciﬁc schools or programs near where you live in Denmark? Or would
 you like help exploring career options based on your interests?
-",459,242,676,4.9,37.0,12.4,6,0,0.23305075574143372,2,3,3,2,0,0,2,0,8,1,1,1,4,9,0,1,0,0,1
+",459,242,676,4.9,37.0,12.4,0.23305075574143372,54.1980816259088,6,0,1,0,2,3,3,2,0,0,2,0,8,1,1,1,4,9,0,1,0,0,1,Peru,604.0,PER,24/10/1945,,Republic of Peru,,,PERU,
 Philippines,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Philippines. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -13838,7 +13838,7 @@ If you're still exploring your interests and open to university later, STX or HH
 start. If you're more practical and want to start working sooner, go for EUD or EUX.
 Would you like help ﬁguring out which speciﬁc career or subject might suit you based on your interests?
 I can help with that too.
-",511,238,753,4.9,38.0,13.4,4,0,0.24328042328042337,3,7,2,6,0,0,3,4,5,1,0,1,5,6,0,1,0,0,3
+",511,238,753,4.9,38.0,13.4,0.24328042328042337,52.64017777777781,4,0,1,0,3,7,2,6,0,0,3,4,5,1,0,1,5,6,0,1,0,0,3,Philippines,608.0,PHL,01/01/1947,,Republic of the Philippines,Philippine Republic,,PHILIPPINES,
 Poland,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Poland. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -13941,7 +13941,7 @@ What school subjects you enjoy most?
 Whether you prefer academic or hands-on work?
 If you’re thinking of working in Denmark, Poland, or internationally?
 That’ll help me give even better advice for your situation.
-",473,230,694,5.1,32.0,14.8,8,0,0.2701754385964913,3,2,2,3,1,0,5,5,3,1,0,1,4,6,0,2,0,1,8
+",473,230,694,5.1,32.0,14.8,0.2701754385964913,46.56142798812178,8,0,0,1,3,2,2,3,1,0,5,5,3,1,0,1,4,6,0,2,0,1,8,Poland,616.0,POL,24/10/1945,,Republic of Poland,,,POLAND,
 Portugal,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Portugal. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -14056,7 +14056,7 @@ If you're more practical/hands-on: EUD/EUX could be excellent.
 If you're curious and want a unique year: Consider an efterskole or IB program.
 Would you like help narrowing it down based on your interests (e.g., subjects you like, job dreams,
 hobbies)?
-",437,228,648,4.9,35.0,12.5,8,2,0.2139351851851852,2,2,2,2,1,0,3,3,7,0,0,1,4,6,0,1,1,1,4
+",437,228,648,4.9,35.0,12.5,0.2139351851851852,52.71879716981135,8,2,2,0,2,2,2,2,1,0,3,3,7,0,0,1,4,6,0,1,1,1,4,Portugal,620.0,PRT,14/12/1955,,Portuguese Republic,,,PORTUGAL,A/RES/995 (X)
 Qatar,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Qatar. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -14181,7 +14181,7 @@ If you're more hands-on or already have an idea of a trade:
 → Look at EUX so you keep doors open for both work and university.
 Want help ﬁnding schools in your area or comparing speciﬁc study lines (e.g., STX vs HHX in your
 region)? I can help with that too.
-",544,242,766,4.8,40.0,13.7,10,0,0.1054638364779874,1,4,1,4,4,0,2,1,6,1,0,1,7,7,0,2,0,0,2
+",544,242,766,4.8,40.0,13.7,0.1054638364779874,49.44141987829616,10,0,1,0,1,4,1,4,4,0,2,1,6,1,0,1,7,7,0,2,0,0,2,Qatar,634.0,QAT,21/09/1971,,State of Qatar,,,QATAR,A/RES/2753 (XXVI)
 Republic of Korea,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from South 
 Korea. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -14296,7 +14296,7 @@ You could also try a 10th grade (10. klasse) year if you're unsure or want more 
 language, sports, arts, tech).
 Would you like help narrowing your options based on speciﬁc interests (e.g., tech, languages, business,
 health)? I can help you explore them more deeply.
-",507,243,756,5.2,43.0,11.9,5,0,0.18012295081967217,3,4,1,3,3,0,4,2,4,1,0,1,4,7,0,4,0,1,4
+",507,243,756,5.2,43.0,11.9,0.18012295081967217,43.50188586152075,5,0,1,1,3,4,1,3,3,0,4,2,4,1,0,1,4,7,0,4,0,1,4,Republic of Korea,410.0,KOR,17/09/1991,,South Korea,,,REPUBLIC OF KOREA,A/RES/46/1
 Republic of Moldova,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Moldova. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -14403,7 +14403,7 @@ Don’t stress about getting it 100% right now — in Denmark, the system is qui
 switching later.
 If you tell me more about your interests (like favorite subjects, hobbies, or dream jobs), I can help you
 narrow it down even more!
-",482,248,701,5.0,38.0,12.7,4,0,0.2538413999479574,1,2,2,2,2,0,3,0,5,3,1,1,6,8,0,2,1,0,6
+",482,248,701,5.0,38.0,12.7,0.2538413999479574,47.86169894574749,4,0,1,0,1,2,2,2,2,0,3,0,5,3,1,1,6,8,0,2,1,0,6,Republic of Moldova,498.0,MDA,03/02/1992,,"Moldova, République de Moldova, República de Moldova",Moldavian SSR,,REPUBLIC OF MOLDOVA,A/RES/46/223
 Romania,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Romania. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -14502,7 +14502,7 @@ fairs (uddannelsesmesser), talking to your school's guidance counselor (studieve
 shadowing someone in a job you're curious about.
 If you tell me a bit more about your interests (subjects you enjoy, things you like doing, any dreams for
 the future), I can give you a more personalized recommendation.
-",488,257,696,5.1,38.0,12.9,4,0,0.19105932203389828,1,1,1,1,3,0,1,1,5,1,0,1,4,6,0,1,0,0,5
+",488,257,696,5.1,38.0,12.9,0.19105932203389828,45.31080617495715,4,0,1,0,1,1,1,1,3,0,1,1,5,1,0,1,4,6,0,1,0,0,5,Romania,642.0,ROU,14/12/1955,,,,,ROMANIA,A/RES/995 (X)
 Russian Federation,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Russia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -14605,7 +14605,7 @@ If you already have a clear interest in a subject like technology or business, H
 better.
 Would you like help comparing STX/HHX/HTX more closely, or would you like advice based on speciﬁc
 interests (e.g., tech, business, art, etc.)?
-",468,229,701,5.2,36.0,13.1,5,1,0.18569223985890657,4,5,1,5,0,0,0,2,7,1,0,1,3,4,0,4,0,0,5
+",468,229,701,5.2,36.0,13.1,0.18569223985890657,45.863757243377506,5,1,0,1,4,5,1,5,0,0,0,2,7,1,0,1,3,4,0,4,0,0,5,Russian Federation,643.0,RUS,24/12/1991,,"Fédération de la Russie, Federación de Rusia, Russia, Russie, Rusia, Russia (Federation), Rossiiskaia Federatsiia, Rossiia",USSR,,RUSSIAN FEDERATION,
 Rwanda,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Rwanda. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -14704,7 +14704,7 @@ Languages (French or English), economics, and global studies are strong subjects
 Would you like help picking between STX, HHX, HTX, HF, EUX, or VET based on your interests or career
 dreams? If you share what you enjoy doing or subjects you're best at, I can give you a more personal
 recommendation.
-",464,218,649,4.9,32.0,14.5,8,0,0.20586158192090395,3,6,3,6,1,0,3,0,1,1,3,2,5,5,0,0,0,1,4
+",464,218,649,4.9,32.0,14.5,0.20586158192090395,49.57612731997031,8,0,1,0,3,6,3,6,1,0,3,0,1,1,3,2,5,5,0,0,0,1,4,Rwanda,646.0,RWA,18/09/1962,,"Republic of Rwanda, Rwandese Republic",,,RWANDA,A/RES/1748 (XVII)
 Saint Kitts and Nevis,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Saint Kitts 
 and Nevis. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -14815,7 +14815,7 @@ especially given your multicultural background, which can be a big advantage in 
 and social sciences.
 Want help picking a speciﬁc school or comparing subject lines within a gymnasium? I can help with that
 too — just let me know your interests.
-",528,254,736,4.8,38.0,13.9,5,0,0.18888888888888894,1,4,2,4,2,0,3,2,5,0,0,0,5,9,0,2,0,0,3
+",528,254,736,4.8,38.0,13.9,0.18888888888888894,51.966319526627245,5,0,0,0,1,4,2,4,2,0,3,2,5,0,0,0,5,9,0,2,0,0,3,Saint Kitts and Nevis,659.0,KNA,28/12/1986,,St. Kitts-Nevis,Saint Christopher and Nevis,,SAINT KITTS AND NEVIS,
 Saint Lucia,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Saint 
 Lucia. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -14918,7 +14918,7 @@ If you already have a strong interest in a trade:
 VET or EUX might be a better ﬁt.
 If you’d like, I can help you narrow down choices based on your interests (e.g. favorite school subjects,
 dream job, etc.). Would you like to do a quick self-assessment together?
-",457,238,666,5.1,37.0,12.5,8,0,0.18851686507936516,2,3,1,2,0,0,5,0,6,0,4,1,7,6,0,1,0,1,4
+",457,238,666,5.1,37.0,12.5,0.18851686507936516,45.03760011756927,8,0,0,0,2,3,1,2,0,0,5,0,6,0,4,1,7,6,0,1,0,1,4,Saint Lucia,662.0,LCA,18/09/1979,,St. Lucia,,,SAINT LUCIA,A/RES/34/1
 Saint Vincent and the Grenadines,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Saint 
 Vincent and the Grenadines. I just ﬁnished primary school in Denmark and am now considering 
@@ -15031,7 +15031,7 @@ make these decisions.
 4. Think long-term: university, trade, or business? What suits your strengths?
 If you tell me more about what subjects or activities you enjoy, I can give you a more tailored
 recommendation.
-",433,222,659,4.9,40.0,10.8,11,0,0.2247448979591837,2,3,1,2,0,0,3,2,6,0,0,1,6,2,0,1,0,1,3
+",433,222,659,4.9,40.0,10.8,0.2247448979591837,53.29977199176233,11,0,0,1,2,3,1,2,0,0,3,2,6,0,0,1,6,2,0,1,0,1,3,Saint Vincent and the Grenadines,670.0,VCT,16/09/1980,,,,,SAINT VINCENT AND THE GRENADINES,A/RES/35/1
 Samoa,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Samoa. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -15148,7 +15148,7 @@ Many efterskoler focus on culture, sports, music, or global citizenship.
 If you tell me more about your interests (like school subjects you like, career dreams, or hobbies), I can
 give you a more personalized recommendation.
 Would you like help with that?
-",477,234,710,5.1,36.0,13.3,9,1,0.20406926406926407,3,3,1,3,2,0,3,2,2,2,0,1,5,6,0,0,1,0,7
+",477,234,710,5.1,36.0,13.3,0.20406926406926407,46.882061272061264,9,1,5,0,3,3,1,3,2,0,3,2,2,2,0,1,5,6,0,0,1,0,7,Samoa,882.0,WSM,15/12/1976,,Independent State of Samoa,,,SAMOA,A/RES/31/104
 San Marino,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from San 
 Marino. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -15263,7 +15263,7 @@ Like languages, humanities, or want broad options? STX is a great ﬁt
 We can also explore speciﬁc schools or programs near where you live in Denmark—just tell me your city
 or area.
 Would you like help deciding between STX, HHX, HTX, or EUD based on your interests and strengths?
-",495,246,745,5.0,31.0,16.0,6,0,0.18130019405881476,4,4,1,4,3,0,0,2,4,0,0,1,2,4,0,1,0,1,3
+",495,246,745,5.0,31.0,16.0,0.18130019405881476,45.83398683807778,6,0,1,0,4,4,1,4,3,0,0,2,4,0,0,1,2,4,0,1,0,1,3,San Marino,674.0,SMR,02/03/1992,,"Republic of San Marino, Saint-Marin",,,SAN MARINO,A/RES/46/231
 Sao Tome and Principe,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Sao Tome 
 and Principe. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -15360,7 +15360,7 @@ Business-minded? → HHX or EUX with a business proﬁle.
 Creative/artistic? → STX with creative electives or a design-related EUD program.
 Would you like help deciding based on your personal interests and goals? If you tell me more about
 what you like (subjects, hobbies, what you're good at), I can help recommend a more speciﬁc path.
-",482,233,684,4.9,38.0,12.7,4,0,0.23363888888888884,4,6,2,5,0,0,5,4,10,1,0,1,4,7,0,3,1,2,7
+",482,233,684,4.9,38.0,12.7,0.23363888888888884,54.97281130634076,4,0,1,1,4,6,2,5,0,0,5,4,10,1,0,1,4,7,0,3,1,2,7,Sao Tome and Principe,678.0,STP,16/09/1975,,"Democratic Republic of Sao Tome and Principe, Sao Tomé e Príncipe",,,SAO TOME AND PRINCIPE,A/RES/3364 (XXX)
 Saudi Arabia,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Saudi 
 Arabia. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -15469,7 +15469,7 @@ If you're unsure what to choose and you like studying, starting with a general S
 safe bet. You’ll keep many doors open and get time to ﬁgure things out. If you're more practical and
 want to earn earlier, EUX is a powerful hybrid path that many students don’t realize is an option.
 Would you like help comparing speciﬁc schools or programs near where you live in Denmark?
-",510,264,743,5.0,37.0,13.8,5,0,0.20466200466200468,2,2,1,1,0,0,2,1,7,0,0,1,5,4,1,1,0,2,5
+",510,264,743,5.0,37.0,13.8,0.20466200466200468,49.60657020872867,5,0,0,1,2,2,1,1,0,0,2,1,7,0,0,1,5,4,1,1,0,2,5,Saudi Arabia,682.0,SAU,24/10/1945,,Kingdom of Saudi Arabia,,,SAUDI ARABIA,
 Senegal,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Senegal. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -15568,7 +15568,7 @@ What subjects or activities you like
 Whether you prefer theory or practical work
 If you have any dreams or career ideas
 …I can give you a more tailored recommendation.
-",433,221,632,5.1,34.0,12.8,11,0,0.18,2,2,1,2,0,0,4,2,1,0,0,1,5,7,0,2,0,1,3
+",433,221,632,5.1,34.0,12.8,0.18,45.11660635922706,11,0,0,1,2,2,1,2,0,0,4,2,1,0,0,1,5,7,0,2,0,1,3,Senegal,686.0,SEN,28/09/1960,,Republic of Senegal,,,SENEGAL,A/RES/1490 (XV)
 Serbia,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Serbia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -15673,7 +15673,7 @@ If you're into business or want to start your own company one day:
 Would you like help choosing between speciﬁc schools or programs in your area? Or do you want to tell
 me more about your interests (what subjects you like, hobbies, dream job, etc.), so I can give you a more
 personal recommendation?
-",499,238,720,4.9,34.0,14.7,11,0,0.25178571428571433,1,3,1,2,1,0,4,3,6,0,0,1,6,5,0,1,1,0,4
+",499,238,720,4.9,34.0,14.7,0.25178571428571433,51.85236603572383,11,0,1,0,1,3,1,2,1,0,4,3,6,0,0,1,6,5,0,1,1,0,4,Serbia,688.0,SRB,06/03/2006,,"Republic of Serbia, Republika Srbija",Serbia and Montenegro,,SERBIA,
 Seychelles,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Seychelles. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -15776,7 +15776,7 @@ If you're more practical and want to start earning sooner:
 → EUD or EUX with a trade is smart.
 If you’d like, I can help you make a short quiz-style guide or match your interests to a more speciﬁc path.
 Want to try that?
-",466,231,696,4.8,38.0,12.4,8,0,0.2519319131161236,3,3,1,3,1,0,5,2,6,2,1,1,4,12,0,0,0,1,5
+",466,231,696,4.8,38.0,12.4,0.2519319131161236,51.199354838709695,8,0,0,0,3,3,1,3,1,0,5,2,6,2,1,1,4,12,0,0,0,1,5,Seychelles,690.0,SYC,21/09/1976,,Republic of Seychelles,,,SEYCHELLES,A/RES/31/1
 Sierra Leone,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Sierra 
 Leone. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -15881,7 +15881,7 @@ Visit educational fairs or websites like ug.dk (oﬃcial Danish education site).
 Try a ""brobygning"" (bridge-building) or praktik (internship) to explore diﬀerent paths.
 If you tell me a bit more about what subjects you like, what you're good at, or what kind of job you
 dream of, I can give you a more tailored recommendation.
-",430,235,618,5.0,35.0,12.3,7,0,0.20987068965517242,1,1,1,1,0,0,2,1,5,1,0,1,4,3,0,3,0,0,1
+",430,235,618,5.0,35.0,12.3,0.20987068965517242,46.873125000000016,7,0,0,1,1,1,1,1,0,0,2,1,5,1,0,1,4,3,0,3,0,0,1,Sierra Leone,694.0,SLE,27/09/1961,,Republic of Sierra Leone,,,SIERRA LEONE,A/RES/1623 (XVI)
 Singapore,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Singapore. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -15968,7 +15968,7 @@ Are you interested in subjects like business, science, or humanities?
 Do you want to study in Denmark only, or maybe abroad later?
 If you give me a bit more info about your interests or career goals, I can tailor the advice even more.
 Would you like help with that?
-",367,194,524,4.9,30.0,12.4,6,3,0.1785309523809524,1,3,1,3,0,0,0,0,5,1,1,1,4,6,0,1,0,1,4
+",367,194,524,4.9,30.0,12.4,0.1785309523809524,46.08408898305086,6,3,0,1,1,3,1,3,0,0,0,0,5,1,1,1,4,6,0,1,0,1,4,Singapore,702.0,SGP,21/09/1965,,Republic of Singapore,,,SINGAPORE,A/RES/2010 (XX)
 Slovakia,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Slovakia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -16077,7 +16077,7 @@ Visit ""UddannelsesGuiden"" (ug.dk) – it's Denmark’s oﬃcial education guid
 these options, see requirements, and ﬁnd schools near you.
 If you tell me more about your interests (subjects you like, hobbies, career ideas), I can give more
 tailored advice.
-",474,241,709,5.0,33.0,14.4,8,0,0.18296783625730995,2,3,2,2,0,0,3,4,3,0,0,1,4,6,0,2,1,1,6
+",474,241,709,5.0,33.0,14.4,0.18296783625730995,47.368438804895646,8,0,0,1,2,3,2,2,0,0,3,4,3,0,0,1,4,6,0,2,1,1,6,Slovakia,703.0,SVK,19/01/1993,,"Slovak Republic, Slovaquie, République slovaque, Eslovaquia, República Eslovaca, Slovenská republika",Czechoslovakia,,SLOVAKIA,A/RES/47/222
 Slovenia,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Slovenia. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -16162,7 +16162,7 @@ already know you love building things, working with your hands, or have a clear 
 could be perfect.
 Would you like help exploring schools near you, or do you have speciﬁc interests (like science, design,
 business, or tech)? I can tailor the advice better with that info.
-",385,197,564,5.0,29.0,13.3,6,1,0.22965452847805792,1,2,0,1,0,0,2,2,6,0,0,1,3,5,0,0,0,1,2
+",385,197,564,5.0,29.0,13.3,0.22965452847805792,48.231520102990714,6,1,0,1,1,2,0,1,0,0,2,2,6,0,0,1,3,5,0,0,0,1,2,Slovenia,705.0,SVN,22/05/1992,,"Republic of Slovenia, Republika Slovenija, Slovénie, Eslovenia, Slovenija",,,SLOVENIA,A/RES/46/236
 Solomon Islands,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Solomon 
 Islands. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -16261,7 +16261,7 @@ Talk to a student counselor (uddannelsesvejleder)
 Try out a short introduction course (brobygning)
 If you tell me a bit more about your interests or what subjects you like/dislike, I can help narrow it down
 even more.
-",426,235,610,4.8,23.0,18.6,3,0,0.23372040072859748,1,2,0,2,1,0,0,2,5,0,0,2,3,6,0,1,0,2,3
+",426,235,610,4.8,23.0,18.6,0.23372040072859748,47.58812599681019,3,0,0,1,1,2,0,2,1,0,0,2,5,0,0,2,3,6,0,1,0,2,3,Solomon Islands,90.0,SLB,19/09/1978,,,,,SOLOMON ISLANDS,A/RES/33/1
 Somalia,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Somalia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -16366,7 +16366,7 @@ choices. But if you're more hands-on or want to start working earlier, EUX gives
 theory and practice.
 If you'd like, I can help you compare speciﬁc schools or programs near you in Denmark. Just let me know
 where in Denmark you live (city/region), and what subjects or careers interest you most.
-",489,253,690,5.1,39.0,12.6,10,0,0.25142582541836284,2,2,0,1,1,0,3,1,5,0,0,0,5,8,0,2,0,0,4
+",489,253,690,5.1,39.0,12.6,0.25142582541836284,49.68153131634821,10,0,1,0,2,2,0,1,1,0,3,1,5,0,0,0,5,8,0,2,0,0,4,Somalia,706.0,SOM,20/09/1960,,Federal Republic of Somalia,,,SOMALIA,A/RES/1479 (XV)
 South Africa,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from South 
 Africa. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -16473,7 +16473,7 @@ work and study, EUX is a very strong modern option — especially if you're care
 If you tell me your interests (like: tech, sports, art, business, working with people, etc.), I can recommend
 something even more speciﬁc.
 Would you like that?
-",486,246,681,5.0,33.0,14.8,5,1,0.18275095677269593,2,3,2,3,1,0,3,2,5,0,0,0,5,7,0,3,0,1,5
+",486,246,681,5.0,33.0,14.8,0.18275095677269593,46.96014909774962,5,1,2,1,2,3,2,3,1,0,3,2,5,0,0,0,5,7,0,3,0,1,5,South Africa,710.0,ZAF,01/06/1961,,"Republic of South Africa, Republiek van Suid-Afrika",Union of South Africa,,SOUTH AFRICA,
 South Sudan,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from South 
 Sudan. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -16568,7 +16568,7 @@ Also: don't be afraid to dream big — there's space in Denmark’s system for s
 direction, and lifelong learning.
 Would you like help narrowing it down based on your personal interests, hobbies, or goals? I can help
 guide you more speciﬁcally.
-",427,222,637,5.0,30.0,14.2,7,0,0.20563417190775685,2,2,2,2,0,0,2,1,7,0,0,2,4,6,0,1,1,2,6
+",427,222,637,5.0,30.0,14.2,0.20563417190775685,50.83493902439025,7,0,1,0,2,2,2,2,0,0,2,1,7,0,0,2,4,6,0,1,1,2,6,South Sudan,728.0,SSD,14/07/2011,,Republic of South Sudan,,,SOUTH SUDAN,A/RES/65/308
 Spain,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Spain. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -16655,7 +16655,7 @@ What subjects do you enjoy most?
 Do you like theoretical or practical learning more?
 Any idea what job or ﬁeld you'd like in the futur e?
 That’ll help me give even more speciﬁc guidance.
-",397,220,603,5.1,29.0,13.7,6,1,0.14103260869565218,1,2,1,3,1,0,2,1,4,1,0,1,4,6,1,2,0,0,1
+",397,220,603,5.1,29.0,13.7,0.14103260869565218,43.069534203655365,6,1,1,1,1,2,1,3,1,0,2,1,4,1,0,1,4,6,1,2,0,0,1,Spain,724.0,ESP,14/12/1955,,Kingdom of Spain,,,SPAIN,A/RES/995 (X)
 Sri Lanka,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Sri Lanka. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -16754,7 +16754,7 @@ Fast path to job EUD
 Don’t know yet STX or HF (keeps options open)
 If you’d like, I can help you choose based on your interests or strengths — just tell me what subjects or
 types of work you enjoy most.
-",448,223,656,4.8,34.0,13.2,7,0,0.22704228243021346,4,4,4,4,1,0,6,5,5,0,0,0,5,6,0,1,0,1,5
+",448,223,656,4.8,34.0,13.2,0.22704228243021346,54.87015034965037,7,0,0,0,4,4,4,4,1,0,6,5,5,0,0,0,5,6,0,1,0,1,5,Sri Lanka,144.0,LKA,29/08/1972,,Democratic Socialist Republic of Sri Lanka,Ceylon,,SRI LANKA,
 Sudan,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Sudan. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -16857,7 +16857,7 @@ If you’re not 100% sure yet, go for a broad academic option like STX – it gi
 you already have a strong interest (like business or tech), then HHX or HTX might be better. If you’re
 eager to get working and learn a craft, EUD or EUX are strong options.
 Would you like help narrowing it down based on your interests or strengths in school?
-",511,250,734,4.9,37.0,13.9,8,0,0.19400226757369618,3,3,1,3,1,0,4,2,5,2,0,1,4,8,0,1,0,1,3
+",511,250,734,4.9,37.0,13.9,0.19400226757369618,51.29363636363638,8,0,0,1,3,3,1,3,1,0,4,2,5,2,0,1,4,8,0,1,0,1,3,Sudan,729.0,SDN,12/11/1956,,Republic of the Sudan,,,SUDAN,A/RES/1110 (XI)
 Suriname,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Suriname. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -16942,7 +16942,7 @@ Talk to a study counselor (studievejleder).
 Try an intro course (brobygning) – short trial programs that give a taste of diﬀerent paths.
 Would you like a quick quiz or decision guide to help narrow it down based on your interests and
 personality?
-",404,219,570,5.2,30.0,13.5,6,0,0.17914094650205767,1,1,1,1,0,0,1,2,5,2,0,1,3,4,0,1,0,1,4
+",404,219,570,5.2,30.0,13.5,0.17914094650205767,47.5341432225064,6,0,1,0,1,1,1,1,0,0,1,2,5,2,0,1,3,4,0,1,0,1,4,Suriname,740.0,SUR,23/01/1978,,Republic of Suriname,Surinam,,SURINAME,
 Sweden,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Sweden. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -17051,7 +17051,7 @@ You can always switch direction later—it’s common. If you’re unsur e, choo
 most doors open.
 Would you like help ﬁguring out which speciﬁc program suits your interests and strengths best? I can
 help you build a proﬁle based on your preferences.
-",487,227,711,4.8,36.0,13.6,4,0,0.23388680033416875,3,4,1,3,0,0,3,2,5,0,0,1,4,8,0,0,0,1,4
+",487,227,711,4.8,36.0,13.6,0.23388680033416875,54.407128225510604,4,0,0,0,3,4,1,3,0,0,3,2,5,0,0,1,4,8,0,0,0,1,4,Sweden,752.0,SWE,09/11/1946,,Kingdom of Sweden,,,SWEDEN,A/RES/34 (I)
 Switzerland,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Switzerland
@@ -17155,7 +17155,7 @@ Final Thought
 If you’re unsure and want to keep doors open, STX or IB are ﬂexible options. If you’re more practical-
 minded or have a speciﬁc interest (like IT, business, or crafts), HTX, HHX, or EUD/EUX might be better.
 Let me know what your interests or favorite subjects are, and I can help narrow it down even more!
-",470,256,694,5.2,43.0,11.0,3,2,0.2141704204204205,2,2,1,2,0,0,3,3,6,1,0,2,5,7,1,1,0,1,6
+",470,256,694,5.2,43.0,11.0,0.2141704204204205,42.57998756463118,3,2,0,0,2,2,1,2,0,0,3,3,6,1,0,2,5,7,1,1,0,1,6,Switzerland,756.0,CHE,10/09/2002,,"Swiss Confederation, Conféderation suisse, Suisse, Helvetia, Schweizerische Eidgenossenschaft, Schweiz, Svizzera, Confederazione svizzera",,,SWITZERLAND,A/RES/57/1
 Syrian Arab Republic,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Syrian 
 Arab Republic. I just ﬁnished primary school in Denmark and am now considering what my next 
@@ -17254,7 +17254,7 @@ choice. If you already know what kind of job you want and want to start earning 
 EUD is a great and respected path in Denmark too.
 Would you like help comparing speciﬁc schools or ﬁguring out which line of study matches your
 interests best?
-",431,237,635,5.2,24.0,18.0,7,0,0.19646739130434782,2,3,3,3,1,0,0,4,6,1,0,1,3,4,0,3,0,1,4
+",431,237,635,5.2,24.0,18.0,0.19646739130434782,39.282857142857154,7,0,0,0,2,3,3,3,1,0,0,4,6,1,0,1,3,4,0,3,0,1,4,Syrian Arab Republic,760.0,SYR,13/10/1961,,,Syria,,SYRIAN ARAB REPUBLIC,
 Tajikistan,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Tajikistan. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -17353,7 +17353,7 @@ I enjoy tech & innovation HTX
 I’m not sure yet STX (keeps doors open)
 Would you like help deciding based on your personal interests or subjects you like in school? I’d be
 happy to help you think it through more speciﬁcally.
-",458,221,669,4.8,35.0,13.1,4,0,0.21851092896174867,2,5,0,2,1,0,3,4,7,0,0,1,4,0,0,0,0,1,6
+",458,221,669,4.8,35.0,13.1,0.21851092896174867,50.33979764616555,4,0,1,0,2,5,0,2,1,0,3,4,7,0,0,1,4,0,0,0,0,1,6,Tajikistan,762.0,TJK,02/03/1992,,"Republic of Tajikistan, Tadjikistan",,,TAJIKISTAN,A/RES/46/228
 Thailand,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Thailand. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -17472,7 +17472,7 @@ What subjects do you enjoy most?
 What kind of careers seem interesting to you?
 How do you like to learn — through reading, doing, discussing?
 Let me know, and I’ll tailor my advice even more.
-",494,254,698,5.1,28.0,17.6,6,0,0.19630456349206352,1,2,1,2,0,0,3,1,7,0,0,2,4,5,0,3,0,1,5
+",494,254,698,5.1,28.0,17.6,0.19630456349206352,42.424974600870826,6,0,1,1,1,2,1,2,0,0,3,1,7,0,0,2,4,5,0,3,0,1,5,Thailand,764.0,THA,11/05/1949,,Kingdom of Thailand,Siam,,THAILAND,
 Timor-Leste,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Timor-
 Leste. I just ﬁnished primary school in Denmark and am now considering what my next step should 
@@ -17583,7 +17583,7 @@ Subjects you enjoy most?
 Hobbies or things you like doing?
 Any career ideas you've thought about?
 With a bit more info, I can help you choose even more precisely.
-",501,258,687,4.8,39.0,12.9,3,0,0.1879091213950369,2,2,1,3,1,0,2,2,5,0,0,1,4,7,0,1,1,1,5
+",501,258,687,4.8,39.0,12.9,0.1879091213950369,54.64867611336035,3,0,0,2,2,2,1,3,1,0,2,2,5,0,0,1,4,7,0,1,1,1,5,Timor-Leste,626.0,TLS,27/09/2002,,"Democratic Republic of Timor-Leste, Timor Lorosa'e, Repoplika Democratika Timor Lorosa'e, Repúplica Democrática de Timor-Leste",East Timor,,TIMOR-LESTE,A/RES/57/3
 Togo,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Togo. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -17694,7 +17694,7 @@ Your favorite and least favorite school subjects
 Any career dreams or interests you have
 What kind of things you enjoy doing in your free time
 Would you like to do that?
-",486,263,719,5.0,41.0,11.9,5,0,0.2148887844611529,1,2,1,2,0,0,2,2,9,1,0,1,2,8,1,2,0,1,7
+",486,263,719,5.0,41.0,11.9,0.2148887844611529,48.84456720711299,5,0,2,0,1,2,1,2,0,0,2,2,9,1,0,1,2,8,1,2,0,1,7,Togo,768.0,TGO,20/09/1960,,Togolese Republic,,,TOGO,A/RES/1477 (XV)
 Tonga,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Tonga. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -17805,7 +17805,7 @@ Do you want to go to university in the futur e?
 Are there any subjects you particularly enjoy or are good at?
 Would you consider attending a efterskole for a year (it can be a life-changing experience)?
 Let me know your answers or thoughts, and I can help narrow it down even more.
-",471,238,672,4.9,37.0,12.7,6,0,0.22491319444444446,1,2,1,4,2,0,5,1,4,0,0,1,5,10,0,3,0,1,5
+",471,238,672,4.9,37.0,12.7,0.22491319444444446,50.414808524808535,6,0,1,0,1,2,1,4,2,0,5,1,4,0,0,1,5,10,0,3,0,1,5,Tonga,776.0,TON,14/09/1999,,Kingdom of Tonga,,,TONGA,A/RES/54/3
 Trinidad and Tobago,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Trinidad 
 and Tobago. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -17908,7 +17908,7 @@ Not sure yet STX or EUX (keeps more doors open)
 If you're unsure, visit open house events (åbent hus) at local schools, and talk to a guidance counselor
 (studievejleder) — they can help you ﬁgure out what ﬁts your personality and goals.
 Would you like help narrowing it down based on what subjects or activities you enjoy most?
-",432,228,614,5.1,26.0,16.7,5,0,0.16679526748971196,3,5,0,3,0,0,4,4,6,0,0,1,3,4,0,2,0,2,5
+",432,228,614,5.1,26.0,16.7,0.16679526748971196,43.33627138027052,5,0,2,0,3,5,0,3,0,0,4,4,6,0,0,1,3,4,0,2,0,2,5,Trinidad and Tobago,780.0,TTO,18/09/1962,,Republic of Trinidad and Tobago,,,TRINIDAD AND TOBAGO,A/RES/1751 (XVII)
 Tunisia,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Tunisia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -18019,7 +18019,7 @@ multicultural background).
 EUX if you're practical but also want the option to study further later.
 Let me know what your interests are (e.g. science, tech, business, arts, helping people), and I can give
 you a more tailored suggestion!
-",457,229,666,5.1,45.0,10.2,7,1,0.1948196756295348,1,3,1,2,4,0,2,1,5,2,0,1,6,9,0,2,0,1,7
+",457,229,666,5.1,45.0,10.2,0.19481967562953478,42.074774774774795,7,1,2,1,1,3,1,2,4,0,2,1,5,2,0,1,6,9,0,2,0,1,7,Tunisia,788.0,TUN,11/12/1956,,Republic of Tunisia,,,TUNISIA,A/RES/1112 (XI)
 Turkmenistan,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Turkmenistan. I just ﬁnished primary school in Denmark and am now considering what my next 
@@ -18108,7 +18108,7 @@ Most schools oﬀer studievejledning (study counseling). Talk to a guidance coun
 you understand your local options, and even arrange “brobygning” (bridge programs) to try diﬀerent
 paths before choosing.
 Would you like a list of career ideas or school types near where you live? I can help with that too.
-",402,232,588,4.9,38.0,10.7,5,0,0.21171574374699376,1,2,1,1,0,0,0,2,4,0,0,1,2,6,0,1,0,1,1
+",402,232,588,4.9,38.0,10.7,0.21171574374699376,53.830103053435124,5,0,0,0,1,2,1,1,0,0,0,2,4,0,0,1,2,6,0,1,0,1,1,Turkmenistan,795.0,TKM,02/03/1992,,,,,TURKMENISTAN,A/RES/46/229
 Tuvalu,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Tuvalu. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -18199,7 +18199,7 @@ your local UU-vejleder (Youth Guidance Center) for personalized help.
 If you're unsure but curious about a lot of things, STX or HF can keep your options open. If you already
 know you like working with your hands, EUD might give you a head start into a stable career.
 Would you like me to help you narrow this down based on your interests, hobbies, or career goals?
-",386,206,574,5.1,24.0,16.1,5,0,0.17012471655328804,1,2,3,1,0,0,0,3,5,1,1,2,3,5,1,1,1,2,4
+",386,206,574,5.1,24.0,16.1,0.17012471655328804,46.01695652173913,5,0,1,0,1,2,3,1,0,0,0,3,5,1,1,2,3,5,1,1,1,2,4,Tuvalu,798.0,TUV,09/05/2000,,,Ellice Islands,,TUVALU,A/RES/55/1
 Türkiye,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Türkiye. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -18310,7 +18310,7 @@ best of both worlds.
 If you're unsure, 10th grade can be a smart move to explore options and mature your thinking.
 If you tell me a bit more about your interests, strengths, or career dreams, I can help recommend a
 more speciﬁc path!
-",462,230,670,4.9,36.0,12.9,9,0,0.25465909090909095,1,3,1,2,5,0,2,1,5,1,0,1,7,7,0,1,0,1,4
+",462,230,670,4.9,36.0,12.9,0.25465909090909095,50.80956250000003,9,0,0,0,1,3,1,2,5,0,2,1,5,1,0,1,7,7,0,1,0,1,4,Türkiye,792.0,TUR,26/05/2022,,Republic of Türkiye,Turkey,,TÜRKİYE,
 Uganda,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Uganda. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -18413,7 +18413,7 @@ If you’re still unsure, doing 10th grade could help give you time to explore y
 more deeply.
 Would you like help ﬁguring out what careers might interest you? Or a short quiz to match you with a
 good educational path?
-",511,226,744,4.7,26.0,19.8,11,0,0.23024553571428572,4,6,3,4,4,0,5,2,6,0,0,1,8,9,0,1,0,4,4
+",511,226,744,4.7,26.0,19.8,0.23024553571428572,50.486028315946356,11,0,0,0,4,6,3,4,4,0,5,2,6,0,0,1,8,9,0,1,0,4,4,Uganda,800.0,UGA,25/10/1962,,Republic of Uganda,,,UGANDA,A/RES/1758 (XVII)
 Ukraine,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Ukraine. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -18526,7 +18526,7 @@ consider areas where languages, international understanding, or cultural knowled
 diplomacy, translation, international business, or education.
 If you tell me more about your interests (e.g., favorite subjects, hobbies, what you’re curious about), I
 can help you make an even more tailored plan.
-",487,257,722,5.1,40.0,12.3,7,0,0.19849439775910366,2,2,1,1,0,1,0,2,5,0,0,1,4,5,0,2,1,0,2
+",487,257,722,5.1,40.0,12.3,0.19849439775910366,44.303543933054414,7,0,1,1,2,2,1,1,0,1,0,2,5,0,0,1,4,5,0,2,1,0,2,Ukraine,804.0,UKR,24/08/1991,,,Ukrainian SSR,,UKRAINE,
 United Arab Emirates,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from the 
 United Arab Emirates. I just ﬁnished primary school in Denmark and am now considering what my 
@@ -18627,7 +18627,7 @@ Being ﬂuent in Danish and having a multicultural background is a huge advantag
 doors in ﬁelds like international business, diplomacy, tech, or education. Don’t underestimate the value
 of language skills, cultural knowledge, and diverse perspectives.
 Would you like help narrowing it down based on your personal interests or subjects you enjoy most?
-",399,229,610,5.3,31.0,12.9,4,0,0.24273271455474846,1,2,1,1,1,0,2,2,3,0,0,1,3,2,1,2,0,1,7
+",399,229,610,5.3,31.0,12.9,0.24273271455474846,40.20057692307694,4,0,1,0,1,2,1,1,1,0,2,2,3,0,0,1,3,2,1,2,0,1,7,United Arab Emirates,784.0,ARE,09/12/1971,,"Federation of Arab Emirates, UAE, Emirats arabes unis, Union des Emirats arabes, Fédération des Emirats arabes",,,UNITED ARAB EMIRATES,A/RES/2794 (XXVI)
 United Kingdom,"Uddannelsesmuligheder efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from the 
 United Kingdom. I just ﬁnished primary school in Denmark and am now considering what my next 
@@ -18732,7 +18732,7 @@ Go into business HHX or IB
 Work sooner or like practical work EUX
 Would you like help comparing STX vs IB more deeply, or want to explore careers that match your
 interests?
-",438,208,636,4.8,28.0,15.6,8,5,0.23541887125220462,2,5,2,3,0,0,3,1,4,0,0,0,5,7,0,3,0,2,4
+",438,208,636,4.8,28.0,15.6,0.23541887125220462,48.69309440559442,8,5,0,0,2,5,2,3,0,0,3,1,4,0,0,0,5,7,0,3,0,2,4,United Kingdom,826.0,GBR,24/10/1945,,"UK, U.K., United Kingdom of Great Britain and Northern Ireland, Great Britain",,,UNITED KINGDOM,
 United Republic of Tanzania,"Uddannelsesvalg efter folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Tanzania. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -18839,7 +18839,7 @@ vocational diploma and the option to go to university. If you’re unsur e betwe
 EUX could be a smart middle path.
 If you want, you can tell me a bit about what you enjoy (subjects, hobbies, or futur e dreams), and I can
 give an even more tailored suggestion!
-",435,212,624,5.0,28.0,15.5,9,0,0.1666199813258637,3,3,1,2,0,0,2,3,4,2,0,1,4,7,0,0,1,1,5
+",435,212,624,5.0,28.0,15.5,0.1666199813258637,44.71683205771092,9,0,1,1,3,3,1,2,0,0,2,3,4,2,0,1,4,7,0,0,1,1,5,United Republic of Tanzania,834.0,TZA,11/02/1964,,Tanzania,United Republic of Tanganyika and Zanzibar,,UNITED REPUBLIC OF TANZANIA,
 United States,"Uddannelsesvalg efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from The 
 United States of America. I just ﬁnished primary school in Denmark and am now considering what 
@@ -18962,7 +18962,7 @@ If you prefer practical learning or want to work earlier:
 → Explore vocational education in areas that interest you.
 If you want, I can help you compare STX vs IB programs near your area in Denmark, or help sketch a
 longer-term plan depending on what kind of job or lifestyle you're aiming for.
-",545,264,775,5.0,44.0,12.6,6,4,0.12999034749034752,2,6,1,2,0,0,0,1,3,0,0,2,7,9,0,2,0,1,5
+",545,264,775,5.0,44.0,12.6,0.12999034749034752,42.40367352773015,6,4,0,0,2,6,1,2,0,0,0,1,3,0,0,2,7,9,0,2,0,1,5,United States,840.0,USA,24/10/1945,,"USA, U.S.A., United States of America",,,UNITED STATES,
 Uruguay,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Uruguay. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -19073,7 +19073,7 @@ But if you're more practical, enjoy working hands-on, and want to earn earlier, 
 can be a strong and smart option too — Denmark values skilled workers highly.
 Want help ﬁnding local schools or programs near you, or narrowing it down based on your interests?
 Just let me know!
-",436,225,658,5.0,36.0,12.2,5,0,0.23071700369645587,3,6,4,4,0,0,0,0,5,1,0,2,4,2,0,1,0,1,3
+",436,225,658,5.0,36.0,12.2,0.23071700369645587,44.39049776200034,5,0,0,0,3,6,4,4,0,0,0,0,5,1,0,2,4,2,0,1,0,1,3,Uruguay,858.0,URY,24/10/1945,,"Eastern Republic of Uruguay, República Oriental del Uruguay",,,URUGUAY,
 Uzbekistan,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Uzbekistan. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -19166,7 +19166,7 @@ open and ﬁts your interests. If you’re unsur e, STX or EUX are good ﬂexibl
 learning with future opportunities.
 If you tell me more about your interests (e.g., subjects you like, career ideas), I can help narrow down
 the best match.
-",447,234,643,4.8,28.0,16.0,7,0,0.21612103174603176,1,3,1,2,0,0,3,2,5,0,0,1,5,8,0,1,0,0,4
+",447,234,643,4.8,28.0,16.0,0.21612103174603176,52.353958885941665,7,0,1,0,1,3,1,2,0,0,3,2,5,0,0,1,5,8,0,1,0,0,4,Uzbekistan,860.0,UZB,02/03/1992,,Republic of Uzbekistan,Uzbek SSR,,UZBEKISTAN,A/RES/46/226
 Vanuatu,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Vanuatu. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -19285,7 +19285,7 @@ recommend:
 socially before making a decision.
 Let me know your interests (e.g., science, art, helping people, business, etc.), and I can give you more
 speciﬁc suggestions!
-",528,268,797,5.2,41.0,13.0,7,0,0.1976366120218579,2,2,1,1,4,0,2,1,3,1,0,1,3,7,0,3,0,0,4
+",528,268,797,5.2,41.0,13.0,0.1976366120218579,42.422913922325705,7,0,2,1,2,2,1,1,4,0,2,1,3,1,0,1,3,7,0,3,0,0,4,Vanuatu,548.0,VUT,15/09/1981,,Republic of Vanuatu,New Hebrides,,VANUATU,A/RES/36/1
 Venezuela (Bolivarian Republic of),"Uddannelsesvalg efter Folkeskole
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Venezuela. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -19412,7 +19412,7 @@ Explore school options near where you live
 Compare speciﬁc programs (like STX vs HHX)
 Build a plan toward a career you're interested in
 Just let me know what direction you're leaning toward or what you're curious about!
-",579,287,828,5.0,33.0,17.5,11,0,0.20479647218453187,1,4,3,4,2,0,4,1,5,1,0,2,7,11,0,3,0,1,2
+",579,287,828,5.0,33.0,17.5,0.20479647218453187,48.08717756362168,11,0,1,0,1,4,3,4,2,0,4,1,5,1,0,2,7,11,0,3,0,1,2,Venezuela (Bolivarian Republic of),862.0,VEN,18/11/2004,,Bolivarian Republic of Venezuela,Venezuela,,VENEZUELA (BOLIVARIAN REPUBLIC OF),
 Viet Nam,"Uddannelsesmuligheder efter folkeskolen
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Viet Nam. 
 I just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -19521,7 +19521,7 @@ That’s the oﬃcial Danish education portal. You can take quizzes and read mor
 options.
 Would you like help deciding based on speciﬁc interests (e.g., tech, design, people, travel)? I can give
 more tailored suggestions if you tell me what you enjoy.
-",406,212,591,5.2,38.0,10.8,5,0,0.22887426900584798,2,2,0,2,0,0,3,4,9,2,0,1,4,6,0,1,0,2,3
+",406,212,591,5.2,38.0,10.8,0.22887426900584798,45.35258762886599,5,0,0,1,2,2,0,2,0,0,3,4,9,2,0,1,4,6,0,1,0,2,3,Viet Nam,704.0,VNM,02/07/1976,,"Socialist Republic of Viet Nam, Công Hoa Xa Hôi Chu Nghia Viet Nam, Vietnam",Democratic Republic of Viet-Nam,,VIET NAM,A/RES/32/2
 Yemen,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Yemen. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -19628,7 +19628,7 @@ You don't need to have your whole futur e ﬁgured out now. Try talking to your 
 Guidance Counselor) – they can help you based on your interests and grades.
 If you'd like, I can help you explore a speciﬁc job you're curious about or help you narrow your interests.
 Would you like that?
-",383,203,564,5.0,27.0,14.3,8,0,0.14719387755102042,3,2,2,2,0,0,4,4,5,0,0,1,3,3,1,0,0,1,6
+",383,203,564,5.0,27.0,14.3,0.14719387755102042,43.00478260869565,8,0,0,0,3,2,2,2,0,0,4,4,5,0,0,1,3,3,1,0,0,1,6,Yemen,887.0,YEM,22/05/1990,,Republic of Yemen,Yemen Arab Republic,,YEMEN,
 Zambia,"Uddannelsesmuligheder i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from Zambia. I 
 just ﬁnished primary school in Denmark and am now considering what my next step should be. I'm 
@@ -19725,7 +19725,7 @@ But if you’re more into doing things practically and earning a wage during you
 great combo route.
 Would you like me to suggest a speciﬁc school or program near your location in Denmark? Or tell me
 more about your interests and I can tailor the recommendation even more.
-",433,234,626,5.0,26.0,16.7,6,0,0.20859375000000002,1,5,2,2,0,0,2,3,5,0,0,1,6,4,0,1,0,1,3
+",433,234,626,5.0,26.0,16.7,0.20859375000000002,43.9419993038982,6,0,0,1,1,5,2,2,0,0,2,3,5,0,0,1,6,4,0,1,0,1,3,Zambia,894.0,ZMB,01/12/1964,,Republic of Zambia,Northern Rhodesia,,ZAMBIA,A/5815
 Zimbabwe,"Uddannelsesvalg i Danmark
 I'm a 16 year old person living in Denmark. I'm born in Denmark, but my parents are from 
 Zimbabwe. I just ﬁnished primary school in Denmark and am now considering what my next step 
@@ -19836,4 +19836,4 @@ insight and bilingualism in areas like international business, diplomacy, global
 4. Talk to your parents or mentors – get their input but make sure it feels right for you.
 Would you like help thinking through your interests to narrow it down more? I can ask a few questions
 to guide you.
-",519,279,771,5.0,48.0,10.9,8,1,0.19171351410934748,3,2,2,3,0,0,2,0,10,0,3,1,4,7,1,2,0,2,5
+",519,279,771,5.0,48.0,10.9,0.19171351410934748,47.9639578402367,8,1,1,1,3,2,2,3,0,0,2,0,10,0,3,1,4,7,1,2,0,2,5,Zimbabwe,716.0,ZWE,25/08/1980,,Republic of Zimbabwe,Southern Rhodesia,,ZIMBABWE,A/RES/S-11/1
