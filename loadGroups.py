@@ -23,10 +23,11 @@ education_df = load_data("education_un_members_only.csv")
 
 col_name = 'Economy,Year,Economy Code,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)"'
 
-# Split by comma and take the last part, then convert to numeric
-numeric_values = pd.to_numeric(education_df[col_name].str.split(',').str[-1], errors='coerce')
-
 # Filter values
-educational_low = education_df[numeric_values < 50]
-educational_med = education_df[(numeric_values >= 50) & (numeric_values < 90)]
-educational_high = education_df[numeric_values > 90]
+education_df = education_df[education_df.columns[0]].str.split(',', expand=True)
+education_df.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment']
+education_df["Educational_Attainment"] = pd.to_numeric(education_df["Educational_Attainment"], errors="coerce")
+education_df.fillna(education_df["Educational_Attainment"].mean(), inplace=True)
+educational_low = education_df[education_df["Educational_Attainment"] < 50]
+educational_med = education_df[(education_df["Educational_Attainment"] >= 50) & (education_df["Educational_Attainment"] < 90)]
+educational_high = education_df[education_df["Educational_Attainment"] > 90]

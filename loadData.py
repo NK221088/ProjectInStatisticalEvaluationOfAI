@@ -11,19 +11,6 @@ def load_data(filename="education_un_members_only.csv"):
 
 allData = load_data("answer_Data.csv")
 
-# Fix educational data - split columns for all three DataFrames
-educational_low_split = educational_low[educational_low.columns[0]].str.split(',', expand=True)
-educational_low_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment']
-educational_low = educational_low_split
-
-educational_med_split = educational_med[educational_med.columns[0]].str.split(',', expand=True)
-educational_med_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment']
-educational_med = educational_med_split
-
-educational_high_split = educational_high[educational_high.columns[0]].str.split(',', expand=True)
-educational_high_split.columns = ['Economy', 'Year', 'Economy_Code', 'Educational_Attainment']
-educational_high = educational_high_split
-
 # 1. ECONOMIC CATEGORIES (1-4)
 economic_conditions = [
     allData['country'].isin(low['Economy']),        # Low income = 1
@@ -114,3 +101,107 @@ if sum(geo_sum > 1) > 0:
 if sum(edu_sum > 1) > 0:
     print("\nCountries in multiple educational categories:")
     print(allData[edu_sum > 1][['country', 'educational_category']])
+
+# Add these diagnostic sections to your existing code
+
+# 1. EXAMINE THE EDUCATIONAL CATEGORY DATA STRUCTURE
+print("\n=== EDUCATIONAL CATEGORY DATA INSPECTION ===")
+print("Educational_low structure:")
+print(f"Type: {type(educational_low)}")
+print(f"Keys: {list(educational_low.keys()) if isinstance(educational_low, dict) else 'Not a dict'}")
+if isinstance(educational_low, dict) and 'Economy' in educational_low:
+    print(f"Sample countries in educational_low: {list(educational_low['Economy'])[:5]}")
+    print(f"Total countries in educational_low: {len(educational_low['Economy'])}")
+
+print("\nEducational_med structure:")
+print(f"Type: {type(educational_med)}")
+print(f"Keys: {list(educational_med.keys()) if isinstance(educational_med, dict) else 'Not a dict'}")
+if isinstance(educational_med, dict) and 'Economy' in educational_med:
+    print(f"Sample countries in educational_med: {list(educational_med['Economy'])[:5]}")
+    print(f"Total countries in educational_med: {len(educational_med['Economy'])}")
+
+print("\nEducational_high structure:")
+print(f"Type: {type(educational_high)}")
+print(f"Keys: {list(educational_high.keys()) if isinstance(educational_high, dict) else 'Not a dict'}")
+if isinstance(educational_high, dict) and 'Economy' in educational_high:
+    print(f"Sample countries in educational_high: {list(educational_high['Economy'])[:5]}")
+    print(f"Total countries in educational_high: {len(educational_high['Economy'])}")
+
+# 2. CHECK YOUR DATA COUNTRIES
+print("\n=== YOUR DATA COUNTRIES ===")
+print(f"Sample countries in your data: {list(allData['country'].head(10))}")
+print(f"Total countries in your data: {len(allData['country'].unique())}")
+print(f"Unique countries: {sorted(allData['country'].unique())}")
+
+# 3. FIND UNCATEGORIZED COUNTRIES
+uncategorized_edu = allData[allData['educational_category'] == 0]['country'].unique()
+print(f"\n=== UNCATEGORIZED EDUCATIONAL COUNTRIES ===")
+print(f"Number of uncategorized countries: {len(uncategorized_edu)}")
+print(f"Uncategorized countries: {sorted(uncategorized_edu)}")
+
+# 4. CHECK FOR EXACT MATCHES
+print("\n=== EXACT MATCH TESTING ===")
+# Test a few countries manually
+test_countries = list(allData['country'].unique())[:5]
+for country in test_countries:
+    print(f"\nTesting country: '{country}'")
+    in_low = country in educational_low['Economy'] if isinstance(educational_low, dict) and 'Economy' in educational_low else False
+    in_med = country in educational_med['Economy'] if isinstance(educational_med, dict) and 'Economy' in educational_med else False
+    in_high = country in educational_high['Economy'] if isinstance(educational_high, dict) and 'Economy' in educational_high else False
+    print(f"  In educational_low: {in_low}")
+    print(f"  In educational_med: {in_med}")
+    print(f"  In educational_high: {in_high}")
+
+# 5. CHECK FOR CASE SENSITIVITY AND WHITESPACE ISSUES
+print("\n=== CASE SENSITIVITY & WHITESPACE CHECK ===")
+# Sample a few countries from each educational category
+sample_countries = []
+if isinstance(educational_low, dict) and 'Economy' in educational_low:
+    sample_countries.extend(list(educational_low['Economy'])[:3])
+if isinstance(educational_med, dict) and 'Economy' in educational_med:
+    sample_countries.extend(list(educational_med['Economy'])[:3])
+if isinstance(educational_high, dict) and 'Economy' in educational_high:
+    sample_countries.extend(list(educational_high['Economy'])[:3])
+
+for country in sample_countries:
+    print(f"Educational category country: '{country}' (length: {len(country)})")
+    # Check if it exists in your data with different casing
+    matches = allData[allData['country'].str.lower().str.strip() == country.lower().strip()]
+    print(f"  Matches in your data: {len(matches)}")
+    if len(matches) > 0:
+        print(f"  Your data version: '{matches.iloc[0]['country']}'")
+
+# 6. FUZZY MATCHING TO FIND SIMILAR COUNTRY NAMES
+print("\n=== POTENTIAL NAME MISMATCHES ===")
+# Check if countries exist with slight variations
+your_countries = set(allData['country'].str.lower().str.strip())
+edu_countries = set()
+if isinstance(educational_low, dict) and 'Economy' in educational_low:
+    edu_countries.update([c.lower().strip() for c in educational_low['Economy']])
+if isinstance(educational_med, dict) and 'Economy' in educational_med:
+    edu_countries.update([c.lower().strip() for c in educational_med['Economy']])
+if isinstance(educational_high, dict) and 'Economy' in educational_high:
+    edu_countries.update([c.lower().strip() for c in educational_high['Economy']])
+
+print(f"Countries in your data but not in educational categories: {len(your_countries - edu_countries)}")
+print(f"Countries in educational categories but not in your data: {len(edu_countries - your_countries)}")
+
+# Show some examples
+missing_from_edu = list(your_countries - edu_countries)[:10]
+missing_from_data = list(edu_countries - your_countries)[:10]
+print(f"Sample countries missing from educational categories: {missing_from_edu}")
+print(f"Sample countries missing from your data: {missing_from_data}")
+
+# 7. VERIFY EDUCATIONAL CATEGORY ASSIGNMENT LOGIC
+print("\n=== EDUCATIONAL CATEGORY ASSIGNMENT VERIFICATION ===")
+# Test the np.select logic manually
+for i, country in enumerate(allData['country'].head(5)):
+    conditions_result = [
+        country in educational_low['Economy'] if isinstance(educational_low, dict) and 'Economy' in educational_low else False,
+        country in educational_med['Economy'] if isinstance(educational_med, dict) and 'Economy' in educational_med else False,
+        country in educational_high['Economy'] if isinstance(educational_high, dict) and 'Economy' in educational_high else False
+    ]
+    print(f"Country: {country}")
+    print(f"  Conditions: {conditions_result}")
+    print(f"  Assigned category: {allData.iloc[i]['educational_category']}")
+    print(f"  Expected category: {np.select(conditions_result, [1, 2, 3], default=0)}")
