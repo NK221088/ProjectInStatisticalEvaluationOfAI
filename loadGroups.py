@@ -6,6 +6,10 @@ def load_data(filename = "income_un_members_only.csv"):
     return pd.read_csv(filename, delimiter=";")
 
 income_df = load_data()
+
+# Add the income group label for Venezuela
+income_df.loc[income_df['Economy'] == 'Venezuela (Bolivarian Republic of)', 'Income group'] = 'Upper middle income'
+
 low = income_df[income_df["Income group"] == "Low income"]
 low_mid = income_df[income_df["Income group"] == "Lower middle income"]
 upp_mid = income_df[income_df["Income group"] == "Upper middle income"]

@@ -8,7 +8,7 @@ Antigua and Barbuda,2021,ATG,90.096
 Argentina,2023,ARG,
 Armenia,2022,ARM,99.742
 Australia,2023,AUS,99.492
-Austria,2023,AUT,100.0
+Austria,2023,AUT,100
 Azerbaijan,2023,AZE,99.94
 Bahamas,2023,BHS,99.061
 Bahrain,2023,BHR,89.91
@@ -26,7 +26,7 @@ Brazil,2023,BRA,85.137
 Brunei Darussalam,2022,BRN,90.685
 Bulgaria,2022,BGR,99.171
 Burkina Faso,2023,BFA,18.757
-Burundi,2017,BDI,18.0
+Burundi,2017,BDI,18
 Cabo Verde,2015,CPV,51.92
 Cambodia,2021,KHM,43.209
 Cameroon,2018,CMR,60.224
@@ -59,7 +59,7 @@ Eswatini,2023,SWZ,91.784
 Ethiopia,2021,ETH,43.582
 Fiji,2021,FJI,91.185
 Finland,2022,FIN,99.963
-France,2023,FRA,100.0
+France,2023,FRA,100
 Gabon,2023,GAB,
 Gambia,2023,GMB,53.9
 Georgia,2023,GEO,99.474
@@ -69,7 +69,7 @@ Greece,2022,GRC,97.32
 Grenada,2020,GRD,98.873
 Guatemala,2023,GTM,52.642
 Guinea,2019,GIN,72.05
-Guinea-Bissau,2022,GNB,50.808
+Guinea Bissau,2022,GNB,50.808
 Guyana,2019,GUY,84.065
 Haiti,2017,HTI,46.367
 Honduras,2023,HND,61.39
@@ -93,7 +93,7 @@ Republic of Korea,2023,KOR,97.748
 Kuwait,2018,KWT,61.8
 Kyrgyzstan,2018,KGZ,98.87
 Lao People's Democratic Republic,2022,LAO,74.264
-Latvia,2023,LVA,100.0
+Latvia,2023,LVA,100
 Lebanon,2019,LBN,86.234
 Lesotho,2019,LSO,99.565
 Liberia,2019,LBR,47.484
@@ -141,7 +141,7 @@ Poland,2023,POL,99.676
 Portugal,2023,PRT,95.842
 Qatar,2022,QAT,90.47
 Romania,2022,ROU,98.95
-Russian Federation,2023,RUS,100.0
+Russian Federation,2023,RUS,100
 Rwanda,2023,RWA,83.391
 Samoa,2022,WSM,94.546
 San Marino,2022,SMR,98.9
@@ -173,19 +173,19 @@ United Republic of Tanzania,2022,TZA,67.193
 Thailand,2023,THA,74.83
 Timor-Leste,2022,TLS,46.447
 Togo,2022,TGO,63.259
-Tonga,2021,TON,100.0
+Tonga,2021,TON,100
 Trinidad and Tobago,2022,TTO,93.872
 Tunisia,2023,TUN,83.16
 Türkiye,2023,TUR,86.225
 Turkmenistan,2019,TKM,99.626
 Tuvalu,2022,TUV,51.683
 Uganda,2021,UGA,86.402
-Ukraine,2021,UKR,100.0
+Ukraine,2021,UKR,100
 United Arab Emirates,2022,ARE,93.23
 United Kingdom,2023,GBR,99.495
 United States,2023,USA,99.651
 Uruguay,2023,URY,92.78
-Uzbekistan,2022,UZB,100.0
+Uzbekistan,2022,UZB,100
 Vanuatu,2020,VUT,88.143
 Venezuela (Bolivarian Republic of),2017,VEN,96.387
 Viet Nam,2023,VNM,87.301
