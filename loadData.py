@@ -4,13 +4,13 @@ from loadGroups import (low, low_mid, upp_mid, high,
                        South_Asia, Europe_and_Central_Asia, Middle_East_and_North_Africa, 
                        Sub_Saharan_Africa, Latin_America_and_Caribbean, East_Asia_and_Pacific, North_America,
                        educational_low, educational_med, educational_high)
-from dataExtraction import all_df
+from dataExtraction import allDataFinal
 
 def load_data(filename="education_un_members_only.csv"):
     """Load the CSV file with semicolon delimiter"""
     return pd.read_csv(filename, delimiter=",")
 
-allData = all_df
+allData = allDataFinal
 
 # 1. ECONOMIC CATEGORIES (1-4)
 economic_conditions = [
