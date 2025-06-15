@@ -206,3 +206,45 @@ for i, country in enumerate(allData['country'].head(5)):
     print(f"  Conditions: {conditions_result}")
     print(f"  Assigned category: {allData.iloc[i]['educational_category']}")
     print(f"  Expected category: {np.select(conditions_result, [1, 2, 3], default=0)}")
+
+# Save the categorized data to CSV for use with statistical analysis
+def save_categorized_data(df, filename="categorized_data.csv"):
+    """
+    Save the DataFrame with category assignments to CSV
+    
+    Parameters:
+    -----------
+    df : pandas.DataFrame
+        DataFrame with all data and category assignments
+    filename : str
+        Name of the output CSV file
+    """
+    try:
+        df.to_csv(filename, index=False)
+        print(f"\n=== DATA SAVED ===")
+        print(f"Categorized data saved to: {filename}")
+        print(f"Total rows: {len(df)}")
+        print(f"Total columns: {len(df.columns)}")
+        print(f"Columns: {list(df.columns)}")
+        return True
+    except Exception as e:
+        print(f"Error saving data: {str(e)}")
+        return False
+
+# Save the categorized data
+save_categorized_data(allData, "categorized_data.csv")
+
+# Optional: Also save a summary of the categorizations
+summary_data = {
+    'Category_Type': ['Economic', 'Geographical', 'Educational'],
+    'Total_Groups': [4, 7, 3],
+    'Uncategorized_Countries': [
+        sum(allData['economic_category'] == 0),
+        sum(allData['geographical_category'] == 0), 
+        sum(allData['educational_category'] == 0)
+    ]
+}
+
+summary_df = pd.DataFrame(summary_data)
+summary_df.to_csv("categorization_summary.csv", index=False)
+print(f"\nCategorization summary saved to: categorization_summary.csv")

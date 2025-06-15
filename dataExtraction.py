@@ -244,7 +244,7 @@ def average_multiple_dataframes_by_country(dataframes, country_col='country'):
     return averaged_df
 
 keyWords = [
-    "personal", "tailor", "htx", "stx", "hf", "hhx", "10", "fgu", "eux", "eud", "?", "!", "vet", "erhverv", "university", "if you", "uu-vejleder", "background", "hobb", "goal", "interest", "gymnasium", "upper secondary", "high school", "academic", "exam", "graduation", "GPA", "read", "preparation", "carpent", "joiner", "electric", "plumb", "brick", "mechanic", "blacksmith", "metalwork", "machinist", "weld", "construction", "technician", "hair", "beaut", "cosmetolog", "skincare", "barber", "makeup", "styli", "chef", "cook", "baker", "waiter", "waitress", "kitchen", "cater", "nurs", "child", "pedagog", "elder", "disab", "clerk", "shop", "warehouse", "farm", "garden", "animal", "forest", "zoo", "sosu"
+    "personal", "tailor", "htx", "stx", "hf", "hhx", "10", "fgu", "eux", "eud", "?", "!", "vet", "erhverv", "university", "if you", "uu-vejleder", "background", "hobb", "goal", "interest", "gymnasium", "upper secondary", "high school", "academic", "exam", "graduation", "GPA", "read", "preparation", "carpent", "joiner", "electric", "plumb", "brick", "mechanic", "blacksmith", "metalwork", "machinist", "weld", "construction", "technician", "hair", "beaut", "cosmetolog", "skincare", "barber", "makeup", "styli", "chef", "cook", "baker", "waiter", "waitress", "kitchen", "cater", "nurs", "child", "pedagog", "elder", "disab", "clerk", "shop", "warehouse", "farm", "garden", "animal", "forest", "zoo", "sosu", "efterskole", "højskole", "kostskole"
 ]
 
 groups = {
@@ -256,29 +256,32 @@ groups = {
         "academic", "exam", "graduation", "GPA", "read", "preparation", "university"
     ],
     "vocational": [
-        "fgu", "eux", "eud", "vet", "erhverv", "carpent", "joiner", "electric", 
+        "fgu", "10", "eux", "eud", "vet", "erhverv", "carpent", "joiner", "electric", 
         "plumb", "brick", "mechanic", "blacksmith", "metalwork", "machinist", 
         "weld", "construction", "technician", "hair", "beaut", "cosmetolog", 
         "skincare", "barber", "makeup", "styli", "chef", "cook", "baker", 
         "waiter", "waitress", "kitchen", "cater", "nurs", "child", "pedagog", 
         "elder", "disab", "clerk", "shop", "warehouse", "farm", "garden", 
-        "animal", "forest", "zoo", "sosu"
+        "animal", "forest", "zoo", "sosu", "tailor"
     ],
     "userConsiderations": [
-        "?", "if you", "uu-vejleder"
+        "?", "if you", "uu-vejleder", 
     ],
     "background": [
-        "background", "hobb", "goal", "interest"
+        "background", "hobb", "goal", "interest", "personal", "tailor"
     ],
     "international": [
         "ib_count"
     ],
+    "otherTypesOfSchool": [
+        "efterskole", "højskole", "kostskole"
+    ]
 
 }
 
 # Keywords not assigned to any group (remaining):
 unassigned = [
-    "personal", "tailor", "10", "!"
+    "!"
 ]
 
 df1 = loadData(keyWords=keyWords, folder_path="countries1")
@@ -294,5 +297,8 @@ df3_new = combineToGroups(groups, df3)
 df4_new = combineToGroups(groups, df4)
 df5_new = combineToGroups(groups, df5)
 all_df = average_multiple_dataframes_by_country([df1_new, df2_new, df3_new, df4_new, df5_new])
-all_df.drop(['text', "answer", "word_count", "avg_word_length", "avg_sentence_length", "sentence_count", "ISO Code", "Start date", 'End date', 'Other Names', 'Earlier Name', 'Later Name', 'Geographic Term', 'Member State'], axis=1)
+all_df = all_df.drop(['text', "answer","word_count", "avg_word_length",
+             "avg_sentence_length", "sentence_count", "ISO Code",
+             "Start date", 'End date', 'Other Names', 'Earlier Name',
+             'Later Name', 'Geographic Term', 'Member State', 'Membership Document Symbol'], axis=1)
 allDataFinal = all_df.copy()
