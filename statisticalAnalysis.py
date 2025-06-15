@@ -4,6 +4,7 @@ from scipy import stats
 from statsmodels.stats.multitest import multipletests
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 
 def perform_kruskal_wallis_analysis_single_df(df, category_column, domain_name, feature_columns, alpha=0.05):
     """
@@ -181,7 +182,7 @@ def analyze_domain_single_df(df, category_column, domain_name, feature_columns, 
    
     return results
 
-def create_visualization(df, results_df, category_column, domain_name, top_n=5):
+def create_visualization(df, results_df, category_column, domain_name, top_n=5, save_plots=True, output_dir="plots"):
     """
     Create visualizations for the most significant features
     
@@ -197,11 +198,20 @@ def create_visualization(df, results_df, category_column, domain_name, top_n=5):
         Domain name for plot titles
     top_n : int
         Number of top significant features to plot
+    save_plots : bool
+        Whether to save plots as PDFs
+    output_dir : str
+        Directory to save plots
     """
     
     if results_df.empty:
         print("No results to visualize")
         return
+    
+    # Create output directory if it doesn't exist
+    if save_plots and not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        print(f"Created directory: {output_dir}")
     
     # Get top significant features
     significant_features = results_df[results_df['Significant_FDR'] == True]
@@ -241,8 +251,16 @@ def create_visualization(df, results_df, category_column, domain_name, top_n=5):
         axes[i].grid(True, alpha=0.3)
     
     plt.tight_layout()
+    
+    # Save plot as PDF if requested
+    if save_plots:
+        filename = f"{domain_name.lower()}_domain_analysis.pdf"
+        filepath = os.path.join(output_dir, filename)
+        plt.savefig(filepath, format='pdf', bbox_inches='tight', dpi=300)
+        print(f"Plot saved: {filepath}")
+    
     plt.show()
-
+    
 # Example usage with your data format:
 if __name__ == "__main__":
     
@@ -260,6 +278,15 @@ if __name__ == "__main__":
         'otherTypesOfSchool'
         # Add other feature columns as needed
     ]
+    
+    # Create output directories
+    plots_dir = "plots"
+    results_dir = "results"
+    
+    for directory in [plots_dir, results_dir]:
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+            print(f"Created directory: {directory}")
     
     # Load your categorized data
     print("Loading categorized data...")
@@ -295,20 +322,27 @@ if __name__ == "__main__":
         feature_columns
     )
     
-    # Create visualizations
-    print("\nCreating visualizations...")
-    create_visualization(df, economic_results, 'economic_category', 'Economic')
-    create_visualization(df, geographical_results, 'geographical_category', 'Geographical')  
-    create_visualization(df, educational_results, 'educational_category', 'Educational')
+    # Create visualizations and save as PDFs
+    print("\nCreating and saving visualizations...")
+    create_visualization(df, economic_results, 'economic_category', 'Economic', 
+                        save_plots=True, output_dir=plots_dir)
+    create_visualization(df, geographical_results, 'geographical_category', 'Geographical',
+                        save_plots=True, output_dir=plots_dir)  
+    create_visualization(df, educational_results, 'educational_category', 'Educational',
+                        save_plots=True, output_dir=plots_dir)
     
-    # Save results
+    # Save results to results directory
     print("\nSaving results...")
-    economic_results.to_csv('economic_category_results.csv', index=False)
-    geographical_results.to_csv('geographical_category_results.csv', index=False)
-    educational_results.to_csv('educational_category_results.csv', index=False)
+    economic_results.to_csv(os.path.join(results_dir, 'economic_category_results.csv'), index=False)
+    geographical_results.to_csv(os.path.join(results_dir, 'geographical_category_results.csv'), index=False)
+    educational_results.to_csv(os.path.join(results_dir, 'educational_category_results.csv'), index=False)
     
-    print("\nAnalysis complete! Results saved to CSV files.")
-    print("Files created:")
-    print("- economic_category_results.csv")
-    print("- geographical_category_results.csv") 
-    print("- educational_category_results.csv")
+    print("\nAnalysis complete! Files created:")
+    print("\nPlots (PDF format):")
+    print(f"- {plots_dir}/economic_domain_analysis.pdf")
+    print(f"- {plots_dir}/geographical_domain_analysis.pdf")
+    print(f"- {plots_dir}/educational_domain_analysis.pdf")
+    print("\nResults (CSV format):")
+    print(f"- {results_dir}/economic_category_results.csv")
+    print(f"- {results_dir}/geographical_category_results.csv") 
+    print(f"- {results_dir}/educational_category_results.csv")
