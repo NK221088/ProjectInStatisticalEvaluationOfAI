@@ -69,7 +69,7 @@ where 0.0 is very objective and 1.0 is very subjective.
 def sentiment_textblob(s: str) -> float:
     if not isinstance(s, str) or not s.strip():
         return 0.0
-    return TextBlob(s).sentiment.polarity  # range [-1.0, 1.0]
+    return TextBlob(s).sentiment.subjectivity  # range [0.0, 1.0]
 
 def readability_scores(s: str) -> dict:
     if not isinstance(s, str) or not s.strip():
