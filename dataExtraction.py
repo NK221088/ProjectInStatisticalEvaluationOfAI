@@ -156,7 +156,7 @@ def loadData(keyWords: list, folder_path  = "responses"):
     df[["sentence_count", "avg_sentence_length"]] = df["answer"]\
     .apply(lambda s: pd.Series(sentence_stats(s)))
     
-    df["sentiment_polarity"] = df["answer"].apply(sentiment_textblob)
+    df["sentiment_subjectivity"] = df["answer"].apply(sentiment_textblob)
     
     # Expand your DataFrame:
     scores_df = df["answer"].apply(lambda s: pd.Series(readability_scores(s)))
