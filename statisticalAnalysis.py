@@ -266,18 +266,18 @@ if __name__ == "__main__":
     
     # Define your feature columns (adjust based on your actual column names)
     feature_columns = [
-        'sentiment_polarity',
+        'sentiment_subjectivity',
         'flesch_reading_ease',
-        '!',
         'grammatical_analysis',
         'academic', 
         'vocational',
         'userConsiderations',
-        'background', 
+        'bridging',
         'international',
-        'otherTypesOfSchool'
-        # Add other feature columns as needed
+        'otherTypesOfSchool',
     ]
+
+    # Columns: ['country', 'sentiment_subjectivity', 'flesch_reading_ease', 'grammatical_analysis', 'academic', 'vocational', 'userConsiderations', 'bridging', 'international', 'otherTypesOfSchool', 'economic_category', 'geographical_category', 'educational_category']
     
     # Create output directories
     plots_dir = "plots"
