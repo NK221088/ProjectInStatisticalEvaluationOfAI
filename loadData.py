@@ -22,17 +22,17 @@ economic_conditions = [
 economic_choices = [1, 2, 3, 4]
 allData['economic_category'] = np.select(economic_conditions, economic_choices)
 
-# 2. GEOGRAPHICAL CATEGORIES (1-7)
+# 2. GEOGRAPHICAL CATEGORIES (1-6) - Updated to merge North America with Europe and Central Asia
 geographical_conditions = [
     allData['country'].isin(South_Asia['Economy']),                          # 1
-    allData['country'].isin(Europe_and_Central_Asia['Economy']),             # 2
+    (allData['country'].isin(Europe_and_Central_Asia['Economy']) | 
+     allData['country'].isin(North_America['Economy'])),                     # 2 - Merged group
     allData['country'].isin(Middle_East_and_North_Africa['Economy']),        # 3
     allData['country'].isin(Sub_Saharan_Africa['Economy']),                  # 4
     allData['country'].isin(Latin_America_and_Caribbean['Economy']),         # 5
-    allData['country'].isin(East_Asia_and_Pacific['Economy']),               # 6
-    allData['country'].isin(North_America['Economy'])                        # 7
+    allData['country'].isin(East_Asia_and_Pacific['Economy'])                # 6
 ]
-geographical_choices = [1, 2, 3, 4, 5, 6, 7]
+geographical_choices = [1, 2, 3, 4, 5, 6]  # Updated to reflect 6 categories instead of 7
 allData['geographical_category'] = np.select(geographical_conditions, geographical_choices)
 
 # 3. EDUCATIONAL CATEGORIES (1-3)
@@ -71,13 +71,14 @@ econ_sum = (allData['country'].isin(low['Economy']).astype(int) +
 print(f"Countries in multiple economic categories: {sum(econ_sum > 1)}")
 
 # Geographical overlaps  
+# Geographical overlaps  
 geo_sum = (allData['country'].isin(South_Asia['Economy']).astype(int) + 
-          allData['country'].isin(Europe_and_Central_Asia['Economy']).astype(int) + 
+          (allData['country'].isin(Europe_and_Central_Asia['Economy']) | 
+           allData['country'].isin(North_America['Economy'])).astype(int) +  # Merged condition
           allData['country'].isin(Middle_East_and_North_Africa['Economy']).astype(int) + 
           allData['country'].isin(Sub_Saharan_Africa['Economy']).astype(int) + 
           allData['country'].isin(Latin_America_and_Caribbean['Economy']).astype(int) + 
-          allData['country'].isin(East_Asia_and_Pacific['Economy']).astype(int) + 
-          allData['country'].isin(North_America['Economy']).astype(int))
+          allData['country'].isin(East_Asia_and_Pacific['Economy']).astype(int))
 print(f"Countries in multiple geographical categories: {sum(geo_sum > 1)}")
 
 # Educational overlaps
@@ -237,7 +238,7 @@ save_categorized_data(allData, "categorized_data.csv")
 # Optional: Also save a summary of the categorizations
 summary_data = {
     'Category_Type': ['Economic', 'Geographical', 'Educational'],
-    'Total_Groups': [4, 7, 3],
+    'Total_Groups': [4, 6, 3],  # Changed from 7 to 6 for geographical
     'Uncategorized_Countries': [
         sum(allData['economic_category'] == 0),
         sum(allData['geographical_category'] == 0), 
