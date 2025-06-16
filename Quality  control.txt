@@ -1,0 +1,10 @@
+Andrew: ['South Sudan-5', 'Azerbaijan-2', 'Luxembourg-4', 'Slovenia-3', 'Kiribati-2', 'Maldives-1', 'Finland-5', 'Zimbabwe-4', 'Qatar-1', 'Monaco-4', "Lao People's Democratic Republic-3", 'Costa Rica-4', 'Bulgaria-1', 'Libya-1', 'Viet Nam-1']
+
+
+Nikolai: ['Palau-5', 'Sudan-4', 'Uzbekistan-1', 'Philippines-3', 'Malawi-1', 'Afghanistan-2', "Democratic People's Republic of Korea-1", 'Iceland-1', 'Australia-1', 'North Macedonia-3', 'Latvia-5', 'Madagascar-4', 'Egypt-3', 'Maldives-5', 'Liberia-1']
+
+
+Gustav: ['Kiribati-5', 'Kenya-5', 'Congo-4', 'Republic of Korea-5', 'Sao Tome and Principe-4', 'North Macedonia-5', 'Finland-1', 'Bulgaria-3', 'Saint Lucia-1', 'Russian Federation-1', 'Croatia-1', 'Canada-2', 'Cameroon-3', 'Latvia-1', 'Tajikistan-4']
+
+
+Christian: ['Cabo Verde-5', 'Germany-3', 'United Kingdom-1', 'Haiti-5', 'Netherlands (Kingdom of the)-4', 'Timor-Leste-1', 'Malawi-4', 'Haiti-2', 'Brunei Darussalam-3', 'Malaysia-3', 'Tuvalu-5', 'Croatia-3', 'Grenada-3', 'Ukraine-1', 'Estonia-5']
