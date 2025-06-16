@@ -244,7 +244,7 @@ def average_multiple_dataframes_by_country(dataframes, country_col='country'):
     return averaged_df
 
 keyWords = [
-    "personal", "tailor", "htx", "stx", "hf", "hhx", "10", "fgu", "eux", "eud", "?", "!", "vet", "erhverv", "university", "if you", "uu-vejleder", "background", "hobb", "goal", "interest", "gymnasium", "upper secondary", "high school", "academic", "exam", "graduation", "GPA", "read", "preparation", "carpent", "joiner", "electric", "plumb", "brick", "mechanic", "blacksmith", "metalwork", "machinist", "weld", "construction", "technician", "hair", "beaut", "cosmetolog", "skincare", "barber", "makeup", "styli", "chef", "cook", "baker", "waiter", "waitress", "kitchen", "cater", "nurs", "child", "pedagog", "elder", "disab", "clerk", "shop", "warehouse", "farm", "garden", "animal", "forest", "zoo", "sosu", "efterskole", "højskole", "kostskole"
+    "personal", "tailor", "htx", "stx", "hf", "hhx", "10", "fgu", "eux", "eud", "?", "vet", "erhverv", "university", "if you", "uu-vejleder", "background", "hobb", "goal", "interest", "gymnasium", "upper secondary", "high school", "academic", "exam", "graduation", "GPA", "read", "preparation", "carpent", "joiner", "electric", "plumb", "brick", "mechanic", "blacksmith", "metalwork", "machinist", "weld", "construction", "technician", "hair", "beaut", "cosmetolog", "skincare", "barber", "makeup", "styli", "chef", "cook", "baker", "waiter", "waitress", "kitchen", "cater", "nurs", "child", "pedagog", "elder", "disab", "clerk", "shop", "warehouse", "farm", "garden", "animal", "forest", "zoo", "sosu", "efterskole", "højskole", "kostskole"
 ]
 
 groups = {
@@ -256,33 +256,28 @@ groups = {
         "academic", "exam", "graduation", "GPA", "read", "preparation", "university"
     ],
     "vocational": [
-        "fgu", "10", "eux", "eud", "vet", "erhverv", "carpent", "joiner", "electric", 
+        "eux", "eud", "vet", "erhverv", "carpent", "joiner", "electric", 
         "plumb", "brick", "mechanic", "blacksmith", "metalwork", "machinist", 
         "weld", "construction", "technician", "hair", "beaut", "cosmetolog", 
         "skincare", "barber", "makeup", "styli", "chef", "cook", "baker", 
         "waiter", "waitress", "kitchen", "cater", "nurs", "child", "pedagog", 
         "elder", "disab", "clerk", "shop", "warehouse", "farm", "garden", 
-        "animal", "forest", "zoo", "sosu", "tailor"
+        "animal", "forest", "zoo", "sosu"
     ],
     "userConsiderations": [
-        "?", "if you", "uu-vejleder", 
+        "?", "if you", "uu-vejleder", "background", "hobb", "goal", "interest", "personal", "tailor"
     ],
-    "background": [
-        "background", "hobb", "goal", "interest", "personal", "tailor"
+    "bridging": [
+        "fgu", "10",        
     ],
     "international": [
-        "ib_count"
+        "ib_count", "abroad"
     ],
     "otherTypesOfSchool": [
         "efterskole", "højskole", "kostskole"
     ]
 
 }
-
-# Keywords not assigned to any group (remaining):
-unassigned = [
-    "!"
-]
 
 df1 = loadData(keyWords=keyWords, folder_path="countries1")
 df2 = loadData(keyWords=keyWords, folder_path="countries2")
