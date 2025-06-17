@@ -732,8 +732,6 @@ if __name__ == "__main__":
         'international',
         'otherTypesOfSchool',
     ]
-
-    # Columns: ['country', 'sentiment_subjectivity', 'flesch_reading_ease', 'grammatical_analysis', 'academic', 'vocational', 'userConsiderations', 'bridging', 'international', 'otherTypesOfSchool', 'economic_category', 'geographical_category', 'educational_category']
     
     # Create output directories
     plots_dir = "plots"
