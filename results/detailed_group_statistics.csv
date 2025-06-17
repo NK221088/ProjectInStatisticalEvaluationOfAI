@@ -1,0 +1,118 @@
+Domain,Group,Feature,Mean,N
+Economic,Low-income,sentiment_subjectivity,0.38148829598687806,26
+Economic,Low-income,flesch_reading_ease,49.08448534153918,26
+Economic,Low-income,grammatical_analysis,924.5923076923077,26
+Economic,Low-income,academic,22.27692307692308,26
+Economic,Low-income,vocational,11.046153846153846,26
+Economic,Low-income,userConsiderations,19.623076923076923,26
+Economic,Low-income,bridging,1.6538461538461537,26
+Economic,Low-income,international,0.17692307692307693,26
+Economic,Low-income,otherTypesOfSchool,0.4230769230769231,26
+Economic,Lower-middle,sentiment_subjectivity,0.38005603803598936,50
+Economic,Lower-middle,flesch_reading_ease,48.56707008011456,50
+Economic,Lower-middle,grammatical_analysis,922.1360000000001,50
+Economic,Lower-middle,academic,21.531999999999996,50
+Economic,Lower-middle,vocational,10.612,50
+Economic,Lower-middle,userConsiderations,19.652,50
+Economic,Lower-middle,bridging,1.32,50
+Economic,Lower-middle,international,0.17600000000000002,50
+Economic,Lower-middle,otherTypesOfSchool,0.41600000000000004,50
+Economic,Upper-middle,sentiment_subjectivity,0.3737444805721078,54
+Economic,Upper-middle,flesch_reading_ease,47.2292787957368,54
+Economic,Upper-middle,grammatical_analysis,922.9407407407408,54
+Economic,Upper-middle,academic,22.28148148148148,54
+Economic,Upper-middle,vocational,10.47037037037037,54
+Economic,Upper-middle,userConsiderations,19.74814814814815,54
+Economic,Upper-middle,bridging,1.0148148148148148,54
+Economic,Upper-middle,international,0.43333333333333335,54
+Economic,Upper-middle,otherTypesOfSchool,0.37407407407407406,54
+Economic,High-income,sentiment_subjectivity,0.3687396498921831,63
+Economic,High-income,flesch_reading_ease,45.5652280553014,63
+Economic,High-income,grammatical_analysis,908.0095238095238,63
+Economic,High-income,academic,22.374603174603173,63
+Economic,High-income,vocational,9.701587301587303,63
+Economic,High-income,userConsiderations,19.647619047619045,63
+Economic,High-income,bridging,0.9682539682539683,63
+Economic,High-income,international,0.9111111111111111,63
+Economic,High-income,otherTypesOfSchool,0.473015873015873,63
+Geographical,South Asia,sentiment_subjectivity,0.38072463157231773,8
+Geographical,South Asia,flesch_reading_ease,48.510992750518454,8
+Geographical,South Asia,grammatical_analysis,937.475,8
+Geographical,South Asia,academic,22.175,8
+Geographical,South Asia,vocational,10.95,8
+Geographical,South Asia,userConsiderations,19.425,8
+Geographical,South Asia,bridging,1.175,8
+Geographical,South Asia,international,0.15000000000000002,8
+Geographical,South Asia,otherTypesOfSchool,0.45,8
+Geographical,Europe/CA/NA,sentiment_subjectivity,0.37036121732718097,52
+Geographical,Europe/CA/NA,flesch_reading_ease,45.93037615278203,52
+Geographical,Europe/CA/NA,grammatical_analysis,903.5807692307692,52
+Geographical,Europe/CA/NA,academic,21.98846153846154,52
+Geographical,Europe/CA/NA,vocational,10.288461538461538,52
+Geographical,Europe/CA/NA,userConsiderations,19.403846153846153,52
+Geographical,Europe/CA/NA,bridging,0.8807692307692307,52
+Geographical,Europe/CA/NA,international,0.7461538461538461,52
+Geographical,Europe/CA/NA,otherTypesOfSchool,0.37692307692307697,52
+Geographical,MENA,sentiment_subjectivity,0.37939647360581474,20
+Geographical,MENA,flesch_reading_ease,47.58137466345105,20
+Geographical,MENA,grammatical_analysis,898.32,20
+Geographical,MENA,academic,21.89,20
+Geographical,MENA,vocational,10.32,20
+Geographical,MENA,userConsiderations,19.59,20
+Geographical,MENA,bridging,1.2,20
+Geographical,MENA,international,0.29,20
+Geographical,MENA,otherTypesOfSchool,0.37,20
+Geographical,Sub-Saharan Africa,sentiment_subjectivity,0.38154595549717757,48
+Geographical,Sub-Saharan Africa,flesch_reading_ease,48.95172653144385,48
+Geographical,Sub-Saharan Africa,grammatical_analysis,930.1125000000001,48
+Geographical,Sub-Saharan Africa,academic,22.066666666666666,48
+Geographical,Sub-Saharan Africa,vocational,10.870833333333332,48
+Geographical,Sub-Saharan Africa,userConsiderations,19.849999999999998,48
+Geographical,Sub-Saharan Africa,bridging,1.5708333333333335,48
+Geographical,Sub-Saharan Africa,international,0.20833333333333334,48
+Geographical,Sub-Saharan Africa,otherTypesOfSchool,0.44583333333333336,48
+Geographical,LAC,sentiment_subjectivity,0.3701064232076058,33
+Geographical,LAC,flesch_reading_ease,46.62013627410719,33
+Geographical,LAC,grammatical_analysis,925.5696969696969,33
+Geographical,LAC,academic,22.636363636363637,33
+Geographical,LAC,vocational,10.212121212121213,33
+Geographical,LAC,userConsiderations,20.03030303030303,33
+Geographical,LAC,bridging,1.012121212121212,33
+Geographical,LAC,international,0.5636363636363637,33
+Geographical,LAC,otherTypesOfSchool,0.3939393939393939,33
+Geographical,East Asia/Pacific,sentiment_subjectivity,0.3730157198023564,30
+Geographical,East Asia/Pacific,flesch_reading_ease,47.34125185877861,30
+Geographical,East Asia/Pacific,grammatical_analysis,922.3733333333333,30
+Geographical,East Asia/Pacific,academic,21.779999999999998,30
+Geographical,East Asia/Pacific,vocational,9.72,30
+Geographical,East Asia/Pacific,userConsiderations,19.646666666666665,30
+Geographical,East Asia/Pacific,bridging,1.1733333333333333,30
+Geographical,East Asia/Pacific,international,0.5,30
+Geographical,East Asia/Pacific,otherTypesOfSchool,0.5,30
+Educational,Low (<50%),sentiment_subjectivity,0.37910555874749247,28
+Educational,Low (<50%),flesch_reading_ease,49.50872244641737,28
+Educational,Low (<50%),grammatical_analysis,917.3571428571429,28
+Educational,Low (<50%),academic,21.435714285714287,28
+Educational,Low (<50%),vocational,10.821428571428571,28
+Educational,Low (<50%),userConsiderations,19.657142857142855,28
+Educational,Low (<50%),bridging,1.657142857142857,28
+Educational,Low (<50%),international,0.19285714285714287,28
+Educational,Low (<50%),otherTypesOfSchool,0.37857142857142856,28
+Educational,Medium (50-90%),sentiment_subjectivity,0.3769865544083152,75
+Educational,Medium (50-90%),flesch_reading_ease,47.65802049995488,75
+Educational,Medium (50-90%),grammatical_analysis,924.384,75
+Educational,Medium (50-90%),academic,22.33866666666667,75
+Educational,Medium (50-90%),vocational,10.528,75
+Educational,Medium (50-90%),userConsiderations,19.776,75
+Educational,Medium (50-90%),bridging,1.1546666666666665,75
+Educational,Medium (50-90%),international,0.38666666666666666,75
+Educational,Medium (50-90%),otherTypesOfSchool,0.4346666666666667,75
+Educational,High (>90%),sentiment_subjectivity,0.3716150029556247,90
+Educational,High (>90%),flesch_reading_ease,46.27716421492467,90
+Educational,High (>90%),grammatical_analysis,913.0533333333334,90
+Educational,High (>90%),academic,22.144444444444446,90
+Educational,High (>90%),vocational,10.02,90
+Educational,High (>90%),userConsiderations,19.593333333333334,90
+Educational,High (>90%),bridging,1.02,90
+Educational,High (>90%),international,0.6644444444444444,90
+Educational,High (>90%),otherTypesOfSchool,0.42888888888888893,90

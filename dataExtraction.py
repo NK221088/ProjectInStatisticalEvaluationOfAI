@@ -268,7 +268,7 @@ groups = {
         "?", "if you", "uu-vejleder", "background", "hobb", "goal", "interest", "personal", "tailor"
     ],
     "bridging": [
-        "fgu", "10",        
+        "fgu", "10", "egu"        
     ],
     "international": [
         "ib_count", "abroad"
