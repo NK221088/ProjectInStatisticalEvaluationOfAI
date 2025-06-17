@@ -284,6 +284,12 @@ df2 = loadData(keyWords=keyWords, folder_path="countries2")
 df3 = loadData(keyWords=keyWords, folder_path="countries3")
 df4 = loadData(keyWords=keyWords, folder_path="countries4")
 df5 = loadData(keyWords=keyWords, folder_path="countries5")
+df6 = loadData(keyWords=keyWords, folder_path="countries6")
+df7 = loadData(keyWords=keyWords, folder_path="countries7")
+df8 = loadData(keyWords=keyWords, folder_path="countries8")
+df9 = loadData(keyWords=keyWords, folder_path="countries9")
+df10 = loadData(keyWords=keyWords, folder_path="countries10")
+
 
 # df.to_csv("answer_data.csv", index=False)
 df1_new = combineToGroups(groups, df1)
@@ -291,7 +297,13 @@ df2_new = combineToGroups(groups, df2)
 df3_new = combineToGroups(groups, df3)
 df4_new = combineToGroups(groups, df4)
 df5_new = combineToGroups(groups, df5)
-all_df = average_multiple_dataframes_by_country([df1_new, df2_new, df3_new, df4_new, df5_new])
+df6_new = combineToGroups(groups, df6)
+df7_new = combineToGroups(groups, df7)
+df8_new = combineToGroups(groups, df8)
+df9_new = combineToGroups(groups, df9)
+df10_new = combineToGroups(groups, df10)
+
+all_df = average_multiple_dataframes_by_country([df1_new, df2_new, df3_new, df4_new, df5_new, df6_new, df7_new, df8_new, df9_new, df10_new])
 all_df = all_df.drop(['text', "answer","word_count", "avg_word_length",
              "avg_sentence_length", "sentence_count", "ISO Code",
              "Start date", 'End date', 'Other Names', 'Earlier Name',
